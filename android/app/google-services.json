@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616266839186",
+    "project_id": "gotrvl-4aae4",
+    "storage_bucket": "gotrvl-4aae4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616266839186:android:511e8710a88b06e6c8a24b",
+        "android_client_info": {
+          "package_name": "com.gotrvl.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAqWagTs93zq-TpMTcMnY0KxnDsa0NVlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

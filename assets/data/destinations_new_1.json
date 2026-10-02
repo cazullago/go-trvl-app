@@ -1,0 +1,1858 @@
+{
+ "destinations": [
+  {
+   "bestTime": "November to April",
+   "centerLat": 17.5747,
+   "centerLng": 120.3869,
+   "description": "Vigan is the best-preserved example of a planned Spanish colonial town in Asia, and a UNESCO World Heritage Site. Its centerpiece is Calle Crisologo, a cobblestone street lined with ancestral houses that now hold shops, cafes, and museums. The city blends Filipino, Chinese, and Spanish influences in its architecture, crafts, and food.",
+   "howToGetThere": "Take a 7 to 9 hour bus from Manila to Vigan via Partas, Viron, or Dominion; flights to Laoag plus a 1.5 hour van ride are a faster option.",
+   "id": "vigan",
+   "name": "Vigan",
+   "places": [
+    {
+     "area": "Heritage Village",
+     "bestTime": "Morning or evening",
+     "category": "where_to_go",
+     "description": "The famous half-kilometer cobblestone street lined with ancestral houses from the Spanish era. Best explored on foot or by calesa, especially in the early morning or at night when the street lamps glow.",
+     "id": "vigan-calle-crisologo",
+     "lat": 17.5738,
+     "lng": 120.3865,
+     "name": "Calle Crisologo",
+     "placeType": "Heritage Street",
+     "priceRange": "Free"
+    },
+    {
+     "area": "Tamang",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "A mini zoo and animal sanctuary owned by the Singson family, with tigers, ostriches, and reptiles. Admission is free and the grounds include a butterfly garden and picnic areas.",
+     "id": "vigan-baluarte",
+     "lat": 17.5911,
+     "lng": 120.3794,
+     "name": "Baluarte Mini Zoo",
+     "placeType": "Zoo",
+     "priceRange": "Free"
+    },
+    {
+     "area": "Bantay",
+     "bestTime": "Late afternoon",
+     "category": "where_to_go",
+     "description": "A historic hilltop bell tower in nearby Bantay that served as a watchtower during colonial times. Climb to the top for panoramic views of Vigan and the surrounding plains.",
+     "id": "vigan-bantay-bell-tower",
+     "lat": 17.5858,
+     "lng": 120.3872,
+     "name": "Bantay Church Bell Tower",
+     "placeType": "Church",
+     "priceRange": "Free"
+    },
+    {
+     "area": "Heritage Village",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "The ancestral home of former president Elpidio Quirino, preserved as a museum with antique furniture and memorabilia. It gives a vivid look at ilustrado life in old Vigan.",
+     "id": "vigan-syquia-mansion",
+     "lat": 17.5732,
+     "lng": 120.3855,
+     "name": "Syquia Mansion",
+     "placeType": "Museum",
+     "priceRange": "₱50-100"
+    },
+    {
+     "area": "Heritage Village",
+     "bestTime": "Evening",
+     "category": "things_to_do",
+     "description": "Ride a horse-drawn calesa past the heritage houses, the cathedral, and the plazas with a kutsero who doubles as a guide. A signature Vigan experience, especially after sunset.",
+     "id": "vigan-calesa-ride",
+     "lat": 17.5738,
+     "lng": 120.3865,
+     "name": "Calesa Ride Around Heritage Village",
+     "placeType": "Carriage Tour",
+     "priceRange": "₱300-500 per ride"
+    },
+    {
+     "area": "Plaza Salcedo",
+     "bestTime": "Evening",
+     "category": "things_to_do",
+     "description": "A nightly fountain show at Plaza Salcedo with water, lights, and music telling the story of Ilocos. Shows usually run in the evening and draw big local crowds on weekends.",
+     "id": "vigan-dancing-fountain",
+     "lat": 17.5717,
+     "lng": 120.3876,
+     "name": "Dancing Fountain Show",
+     "placeType": "Light Show",
+     "priceRange": "Free"
+    },
+    {
+     "area": "Crisologo Street",
+     "bestTime": "Lunch or dinner",
+     "category": "where_to_eat",
+     "description": "A beloved Vigan institution serving Ilocano classics like pinakbet, bagnet, and Vigan longganisa in a cozy ancestral house setting. A reliable first stop for heritage-town dining.",
+     "id": "vigan-cafe-leona",
+     "lat": 17.5738,
+     "lng": 120.3865,
+     "name": "Cafe Leona",
+     "placeType": "Restaurant",
+     "priceRange": "₱200-400"
+    },
+    {
+     "area": "Plaza Burgos",
+     "bestTime": "Afternoon",
+     "category": "where_to_eat",
+     "description": "A row of stalls near Plaza Burgos frying the famous Vigan empanada with orange rice-flour crust, longganisa, egg, and papaya. Pair it with sukang Iloko for the full experience.",
+     "id": "vigan-empanadaan",
+     "lat": 17.5726,
+     "lng": 120.3871,
+     "name": "Vigan Empanadaan",
+     "placeType": "Food Stall",
+     "priceRange": "₱50-100"
+    },
+    {
+     "area": "Heritage Village",
+     "bestTime": "Year-round",
+     "category": "where_to_stay",
+     "description": "The first museum-hotel in the Philippines, blending Ilocano heritage interiors with a fine art collection. Located steps from Calle Crisologo, it is the premium stay in the heritage core.",
+     "id": "vigan-hotel-luna",
+     "lat": 17.5729,
+     "lng": 120.3863,
+     "name": "Hotel Luna",
+     "placeType": "Hotel",
+     "priceRange": "₱₱₱"
+    },
+    {
+     "area": "Heritage Village",
+     "bestTime": "Year-round",
+     "category": "where_to_stay",
+     "description": "A mid-range inn near the heritage village with clean, comfortable rooms and helpful staff. A practical base for travelers who spend most of the day exploring on foot.",
+     "id": "vigan-cordillera-inn",
+     "lat": 17.5721,
+     "lng": 120.3859,
+     "name": "Cordillera Inn",
+     "placeType": "Inn",
+     "priceRange": "₱₱"
+    },
+    {
+     "area": "Downtown Vigan",
+     "bestTime": "Morning",
+     "category": "where_to_buy",
+     "description": "The best place to buy Vigan longganisa, bagnet, basi vinegar, and woven abel products at local prices. Go early in the morning for the freshest selection of native delicacies.",
+     "id": "vigan-public-market",
+     "lat": 17.5723,
+     "lng": 120.3881,
+     "name": "Vigan Public Market",
+     "placeType": "Market",
+     "priceRange": "₱100-500"
+    },
+    {
+     "area": "Vigan",
+     "bestTime": "Anytime",
+     "category": "how_to_get_around",
+     "description": "Tricycles cover short hops between the heritage village, Baluarte, and the Bantay bell tower. Agree on the fare before boarding, especially for trips outside the town center.",
+     "id": "vigan-tricycle",
+     "lat": 17.5747,
+     "lng": 120.3869,
+     "name": "Tricycle",
+     "placeType": "Transport",
+     "priceRange": "₱15-150"
+    }
+   ],
+   "province": "Ilocos Sur",
+   "provinceId": "ilocos-sur",
+   "region": "Luzon",
+   "tagline": "A living Spanish colonial city with cobblestone streets",
+   "transport": [
+    {
+     "notes": "Negotiate the route and duration with the kutsero before the ride starts",
+     "priceRange": "₱300-500 per ride",
+     "type": "Calesa",
+     "useCase": "Sightseeing around the heritage village and plazas"
+    },
+    {
+     "notes": "The most common way to reach sights outside walking distance",
+     "priceRange": "₱15-150 depending on distance",
+     "type": "Tricycle",
+     "useCase": "Short trips to Baluarte, Bantay, and nearby sights"
+    },
+    {
+     "notes": "Partas, Viron, and Dominion run regular trips, including overnight buses",
+     "priceRange": "₱600-900 Manila to Vigan",
+     "type": "Bus",
+     "useCase": "Manila to Vigan and onward to Laoag or Pagudpud"
+    },
+    {
+     "notes": "The heritage village is compact and best experienced on foot",
+     "priceRange": "Free",
+     "type": "Walking",
+     "useCase": "Exploring Calle Crisologo and the heritage core"
+    }
+   ],
+   "whyPopular": "Travelers come for the romantic old-world streetscape, heritage houses you can walk through, and iconic Ilocos food like empanada and longganisa."
+  },
+  {
+   "bestTime": "November to February for cool weather; March to May for clearer skies",
+   "centerLat": 17.0869,
+   "centerLng": 120.9048,
+   "description": "Sagada is a cool highland town in the Cordilleras known for its hanging coffins, limestone caves, and sea-of-clouds viewpoints. It has a laid-back backpacker culture with cafes, weaving shops, and pine-forested trails. The town blends indigenous Igorot traditions with a relaxed mountain-town vibe.",
+   "howToGetThere": "Take a bus to Bontoc from Manila or Baguio, then a jeepney or van to Sagada; direct Coda Lines buses also run from Manila.",
+   "id": "sagada",
+   "name": "Sagada",
+   "places": [
+    {
+     "area": "Poblacion",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "A cliffside burial site where coffins of Sagada elders hang from limestone walls, reached by a short trail from the town center. A local guide is required and shares the stories behind this centuries-old tradition.",
+     "id": "sagada-echo-valley",
+     "lat": 17.0896,
+     "lng": 120.9003,
+     "name": "Echo Valley and Hanging Coffins",
+     "placeType": "Cultural Site",
+     "priceRange": "Guide fee ₱200-400 per group"
+    },
+    {
+     "area": "Danum",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "Sagada's most famous cave, with towering limestone formations, underground pools, and chambers reached by rappelling and wading. The standard 2-hour spelunking route needs a guide and basic fitness.",
+     "id": "sagada-sumaguing-cave",
+     "lat": 17.0836,
+     "lng": 120.9091,
+     "name": "Sumaguing Cave",
+     "placeType": "Cave",
+     "priceRange": "Guide fee ₱500-800 per group"
+    },
+    {
+     "area": "Kiltepan",
+     "bestTime": "Sunrise",
+     "category": "where_to_go",
+     "description": "A sunrise viewpoint famous for its sea of clouds rolling over the valley below. Arrive before dawn and dress warmly, since temperatures drop sharply at this elevation.",
+     "id": "sagada-kiltepan",
+     "lat": 17.0958,
+     "lng": 120.9207,
+     "name": "Kiltepan Peak Sunrise Viewpoint",
+     "placeType": "Viewpoint",
+     "priceRange": "Entrance ₱50-100"
+    },
+    {
+     "area": "Banga-an",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "A tall, powerful waterfall reached by a scenic trek through rice terraces from Banga-an village. Swimming is allowed in the catch basin on calm days.",
+     "id": "sagada-bomod-ok-falls",
+     "lat": 17.0672,
+     "lng": 120.8879,
+     "name": "Bomod-ok Falls",
+     "placeType": "Waterfall",
+     "priceRange": "Guide fee ₱300-500 per group"
+    },
+    {
+     "area": "Aguid",
+     "bestTime": "Sunrise",
+     "category": "things_to_do",
+     "description": "A pre-dawn trek to rolling hills with panoramic sunrise views over the Cordillera mountains. Local guides lead the hike and can arrange the connecting Blue Soil Hills side trip.",
+     "id": "sagada-marlboro-hills",
+     "lat": 17.0987,
+     "lng": 120.9345,
+     "name": "Marlboro Hills Sunrise Trek",
+     "placeType": "Hiking",
+     "priceRange": "Guide fee ₱300-500 per group"
+    },
+    {
+     "area": "Poblacion",
+     "bestTime": "Afternoon",
+     "category": "where_to_buy",
+     "description": "A local weaving house selling handwoven bags, blankets, and garments made on traditional looms. You can watch the weavers at work before buying directly from the shop.",
+     "id": "sagada-weaving",
+     "lat": 17.0869,
+     "lng": 120.9048,
+     "name": "Sagada Weaving",
+     "placeType": "Weaving Shop",
+     "priceRange": "₱150-1,500"
+    },
+    {
+     "area": "Poblacion",
+     "bestTime": "Breakfast",
+     "category": "where_to_eat",
+     "description": "A cozy spot famous for its homemade yoghurt served with granola, honey, and local fruits. It also serves hearty mountain meals that hit the spot after a day of trekking.",
+     "id": "sagada-yoghurt-house",
+     "lat": 17.0865,
+     "lng": 120.9042,
+     "name": "Sagada Yoghurt House",
+     "placeType": "Restaurant",
+     "priceRange": "₱150-300"
+    },
+    {
+     "area": "Poblacion",
+     "bestTime": "Afternoon",
+     "category": "where_to_eat",
+     "description": "A Sagada institution baking its signature lemon pie along with other pastries and bread. A classic stop for dessert or pasalubong to bring home.",
+     "id": "sagada-lemon-pie-house",
+     "lat": 17.0863,
+     "lng": 120.9046,
+     "name": "Sagada Lemon Pie House",
+     "placeType": "Bakery",
+     "priceRange": "₱100-250"
+    },
+    {
+     "area": "Poblacion",
+     "bestTime": "Year-round",
+     "category": "where_to_stay",
+     "description": "A rustic inn with a cafe serving good coffee and comfort food, popular with backpackers. The pine-surrounded setting keeps it cool and quiet at night.",
+     "id": "sagada-rock-inn",
+     "lat": 17.0874,
+     "lng": 120.9053,
+     "name": "Rock Inn and Cafe",
+     "placeType": "Inn",
+     "priceRange": "₱₱"
+    },
+    {
+     "area": "Poblacion",
+     "bestTime": "Year-round",
+     "category": "where_to_stay",
+     "description": "One of Sagada's long-running inns with simple rooms and a restaurant, close to the town center. A dependable mid-range choice for first-time visitors.",
+     "id": "sagada-shamrock-tavern",
+     "lat": 17.0861,
+     "lng": 120.9039,
+     "name": "Shamrock Tavern Inn",
+     "placeType": "Inn",
+     "priceRange": "₱₱"
+    },
+    {
+     "area": "Poblacion",
+     "bestTime": "Afternoon",
+     "category": "things_to_do",
+     "description": "A small private museum of Igorot artifacts, weapons, and ritual objects collected over decades. It is a quick but meaningful stop to understand local culture before the treks.",
+     "id": "sagada-ganduyan-museum",
+     "lat": 17.0871,
+     "lng": 120.9041,
+     "name": "Ganduyan Museum",
+     "placeType": "Museum",
+     "priceRange": "₱50-100"
+    },
+    {
+     "area": "Sagada",
+     "bestTime": "Daytime",
+     "category": "how_to_get_around",
+     "description": "Jeepneys connect Sagada town to Bontoc and nearby villages like Banga-an and Aguid. Schedules are limited, so confirm departure times at the tourism office.",
+     "id": "sagada-jeepney",
+     "lat": 17.0869,
+     "lng": 120.9048,
+     "name": "Jeepney",
+     "placeType": "Transport",
+     "priceRange": "₱50-150"
+    }
+   ],
+   "province": "Mountain Province",
+   "provinceId": "mountain-province",
+   "region": "Luzon",
+   "tagline": "Misty mountain town of hanging coffins and caves",
+   "transport": [
+    {
+     "notes": "Limited daily schedules; check the tourism office for departure times",
+     "priceRange": "₱50-150",
+     "type": "Jeepney",
+     "useCase": "Travel between Sagada, Bontoc, and trailhead villages"
+    },
+    {
+     "notes": "Vans can also be chartered for Kiltepan and Marlboro Hills sunrise trips",
+     "priceRange": "₱100-200 per person",
+     "type": "Van",
+     "useCase": "Bontoc to Sagada transfers and group tours"
+    },
+    {
+     "notes": "Most of Poblacion is walkable, but bring a jacket for chilly mornings",
+     "priceRange": "Free",
+     "type": "Walking",
+     "useCase": "Town center, Echo Valley, and nearby cafes"
+    },
+    {
+     "notes": "Coda Lines runs direct Manila to Sagada trips on select schedules",
+     "priceRange": "₱600-800 Manila to Bontoc",
+     "type": "Bus",
+     "useCase": "Manila or Baguio to Sagada via Bontoc"
+    }
+   ],
+   "whyPopular": "Travelers come for the Echo Valley hanging coffins, Sumaguing Cave spelunking, and sunrise views over the clouds at Kiltepan and Marlboro Hills."
+  },
+  {
+   "bestTime": "March to May for green terraces; November to February for cool weather",
+   "centerLat": 16.9088,
+   "centerLng": 121.0617,
+   "description": "Banaue is the gateway to the Ifugao rice terraces, often called the Eighth Wonder of the World, carved into the mountains over 2,000 years ago. The town sits in a valley ringed by terraced amphitheaters, with nearby villages like Batad and Bangaan holding the most spectacular clusters. It is the classic starting point for Cordillera terrace trekking.",
+   "howToGetThere": "Take an overnight bus from Manila to Banaue via Ohayami Trans; from Banaue, jeepneys and tricycles reach nearby villages.",
+   "id": "banaue",
+   "name": "Banaue",
+   "places": [
+    {
+     "area": "Viewpoint Road",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "The classic postcard viewpoint overlooking vast terraced slopes from the main road. Souvenir stalls and photo spots with traditional Ifugao costumes line the viewing area.",
+     "id": "banaue-viewpoint",
+     "lat": 16.9115,
+     "lng": 121.0603,
+     "name": "Banaue Rice Terraces Viewpoint",
+     "placeType": "Viewpoint",
+     "priceRange": "Free"
+    },
+    {
+     "area": "Batad",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "A UNESCO-listed cluster of terraces shaped like a giant amphitheater, reached by a jeepney ride and a downhill trek from the saddle. It is widely considered the most beautiful terrace formation in the Cordilleras.",
+     "id": "banaue-batad-terraces",
+     "lat": 16.9412,
+     "lng": 121.0447,
+     "name": "Batad Amphitheater Rice Terraces",
+     "placeType": "Rice Terraces",
+     "priceRange": "Guide fee ₱500-1,000 per group"
+    },
+    {
+     "area": "Batad",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "A towering waterfall at the base of the Batad terraces, reached by a steep trek down from the village. The cold, powerful cascade is a rewarding finish after the terrace hike.",
+     "id": "banaue-tappiya-falls",
+     "lat": 16.9468,
+     "lng": 121.0491,
+     "name": "Tappiya Falls",
+     "placeType": "Waterfall",
+     "priceRange": "Included in Batad guide fee"
+    },
+    {
+     "area": "Bangaan",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "A traditional Ifugao village nestled in a bowl of rice terraces, also part of the UNESCO listing. A short trek from the road brings you into the village for homestays and cultural immersion.",
+     "id": "banaue-bangaan-village",
+     "lat": 16.9096,
+     "lng": 121.1304,
+     "name": "Bangaan Village",
+     "placeType": "Village",
+     "priceRange": "Guide fee ₱300-500 per group"
+    },
+    {
+     "area": "Poblacion",
+     "bestTime": "Afternoon",
+     "category": "things_to_do",
+     "description": "A museum of Ifugao artifacts including bulul rice gods, weapons, and traditional clothing. It is a compact stop that deepens the terrace experience with cultural context.",
+     "id": "banaue-museum",
+     "lat": 16.9103,
+     "lng": 121.0621,
+     "name": "Banaue Museum",
+     "placeType": "Museum",
+     "priceRange": "₱50-100"
+    },
+    {
+     "area": "Hungduan",
+     "bestTime": "Morning",
+     "category": "things_to_do",
+     "description": "A longer trek through the Hungduan cluster of terraces, known for stone-walled paddies and hot springs along the route. Less crowded than Batad, with equally dramatic scenery.",
+     "id": "banaue-hapao-terraces",
+     "lat": 16.8702,
+     "lng": 121.0288,
+     "name": "Hapao Rice Terraces Trek",
+     "placeType": "Hiking",
+     "priceRange": "Guide fee ₱500-800 per group"
+    },
+    {
+     "area": "Poblacion",
+     "bestTime": "Dinner",
+     "category": "where_to_eat",
+     "description": "A lodge restaurant serving Filipino and continental dishes with terrace views from its dining area. A convenient dinner spot for travelers staying in the town center.",
+     "id": "banaue-peoples-lodge",
+     "lat": 16.9098,
+     "lng": 121.0612,
+     "name": "People's Lodge Restaurant",
+     "placeType": "Restaurant",
+     "priceRange": "₱150-350"
+    },
+    {
+     "area": "Viewpoint Road",
+     "bestTime": "Lunch",
+     "category": "where_to_eat",
+     "description": "A native-style restaurant near the viewpoint road serving local Ifugao dishes and grilled meats. The nipa-hut dining setup adds to the highland atmosphere.",
+     "id": "banaue-native-village-inn",
+     "lat": 16.9112,
+     "lng": 121.0601,
+     "name": "Native Village Inn Restaurant",
+     "placeType": "Restaurant",
+     "priceRange": "₱150-300"
+    },
+    {
+     "area": "Poblacion",
+     "bestTime": "Year-round",
+     "category": "where_to_stay",
+     "description": "The landmark hotel in town with native-inspired architecture and sweeping views over the valley. It offers the most comfortable rooms and amenities in Banaue proper.",
+     "id": "banaue-hotel",
+     "lat": 16.9132,
+     "lng": 121.0634,
+     "name": "Banaue Hotel",
+     "placeType": "Hotel",
+     "priceRange": "₱₱₱"
+    },
+    {
+     "area": "Batad",
+     "bestTime": "Year-round",
+     "category": "where_to_stay",
+     "description": "Simple family-run homestays inside Batad village, some in traditional native huts overlooking the amphitheater. Basic but atmospheric, with home-cooked meals available.",
+     "id": "banaue-homestay",
+     "lat": 16.9412,
+     "lng": 121.0447,
+     "name": "Batad Village Homestays",
+     "placeType": "Homestay",
+     "priceRange": "₱"
+    },
+    {
+     "area": "Poblacion",
+     "bestTime": "Afternoon",
+     "category": "where_to_buy",
+     "description": "Woodcarving shops along the main road selling bulul statues, woven textiles, and miniature terrace models. Haggle politely and compare a few stalls for the best carvings.",
+     "id": "banaue-souvenir-shops",
+     "lat": 16.9103,
+     "lng": 121.0618,
+     "name": "Banaue Souvenir Shops",
+     "placeType": "Souvenir Shop",
+     "priceRange": "₱100-2,000"
+    },
+    {
+     "area": "Banaue",
+     "bestTime": "Daytime",
+     "category": "how_to_get_around",
+     "description": "Tricycles handle short trips around town and to nearby trailheads like the viewpoint and Tam-an. For Batad and Hapao, jeepneys are the standard ride.",
+     "id": "banaue-tricycle",
+     "lat": 16.9088,
+     "lng": 121.0617,
+     "name": "Tricycle",
+     "placeType": "Transport",
+     "priceRange": "₱20-200"
+    }
+   ],
+   "province": "Ifugao",
+   "provinceId": "ifugao",
+   "region": "Luzon",
+   "tagline": "Home of the ancient rice terraces carved by hand",
+   "transport": [
+    {
+     "notes": "Often chartered per group; arrange through your hotel or the tourism office",
+     "priceRange": "₱150-300 per person",
+     "type": "Jeepney",
+     "useCase": "Banaue to Batad saddle, Bangaan, and Hapao trailheads"
+    },
+    {
+     "notes": "Hire for the day when visiting the viewpoint, Tam-an, and Ducligan hot spring",
+     "priceRange": "₱20-200 per trip",
+     "type": "Tricycle",
+     "useCase": "Short trips around Banaue town and nearby viewpoints"
+    },
+    {
+     "notes": "Ohayami Trans runs overnight buses from Sampaloc, Manila",
+     "priceRange": "₱600-800",
+     "type": "Bus",
+     "useCase": "Manila to Banaue overnight"
+    },
+    {
+     "notes": "The town center is compact; many restaurants and shops are walkable",
+     "priceRange": "Free",
+     "type": "Walking",
+     "useCase": "Getting around Banaue Poblacion"
+    }
+   ],
+   "whyPopular": "Travelers come to see the sweeping Banaue viewpoint terraces and trek to Batad's amphitheater-like terraces and Tappiya Falls."
+  },
+  {
+   "bestTime": "October to March for surfing; November to February for cooler weather",
+   "centerLat": 15.7597,
+   "centerLng": 121.561,
+   "description": "Baler is the birthplace of Philippine surfing and the surf capital of Luzon's east coast, facing the Pacific Ocean. Its star is Sabang Beach, where the 1979 film Apocalypse Now was shot, but it also packs waterfalls, rock formations, a giant balete tree, and the historic Siege of Baler church into one small town. It is an easy weekend escape from Manila with a laid-back surf-town feel.",
+   "howToGetThere": "Take a 5 to 6 hour bus from Manila to Cabanatuan, then a 3 to 4 hour van to Baler; direct JoyBus and Genesis buses also run from Manila.",
+   "id": "baler",
+   "name": "Baler",
+   "places": [
+    {
+     "area": "Sabang",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "Baler's main surf beach with gentle rolling waves ideal for beginners and longboarders. Surf schools and board rentals line the shore, and the beach comes alive at sunrise with learners catching their first waves.",
+     "id": "baler-sabang-beach",
+     "lat": 15.7665,
+     "lng": 121.5676,
+     "name": "Sabang Beach",
+     "placeType": "Beach",
+     "priceRange": "Free; surf lessons ₱400-600 per hour"
+    },
+    {
+     "area": "Diguisit",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "A waterfall a short drive from town, reached by an easy walk through riverside scenery. A refreshing dip here is a classic add-on to the Diguisit rock formations trip.",
+     "id": "baler-diguisit-falls",
+     "lat": 15.7856,
+     "lng": 121.6088,
+     "name": "Diguisit Falls",
+     "placeType": "Waterfall",
+     "priceRange": "Entrance ₱20-50"
+    },
+    {
+     "area": "Ditumabo",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "Known as the Mother Falls, this 140-foot cascade is reached by a scenic 30 to 45 minute trek from Barangay Ditumabo. It is one of Aurora's most photographed natural attractions.",
+     "id": "baler-ditumabo-mother-falls",
+     "lat": 15.6749,
+     "lng": 121.4772,
+     "name": "Ditumabo Mother Falls",
+     "placeType": "Waterfall",
+     "priceRange": "Entrance ₱300 per person"
+    },
+    {
+     "area": "Maria Aurora",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "A centuries-old balete tree with massive roots you can climb on, located in the neighboring town of Maria Aurora. The 20 to 30 minute drive from Baler is a staple of the town's countryside tour.",
+     "id": "baler-balete-tree",
+     "lat": 15.8058,
+     "lng": 121.4761,
+     "name": "Millennium Balete Tree",
+     "placeType": "Nature Park",
+     "priceRange": "Entrance ₱30-50"
+    },
+    {
+     "area": "Poblacion",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "A 17th-century church famous as the site of the Siege of Baler, where Spanish soldiers held out for nearly a year after the Philippine revolution. The adjacent museum tells the story of the last Spanish garrison in the country.",
+     "id": "baler-church",
+     "lat": 15.7589,
+     "lng": 121.5603,
+     "name": "Baler Church and Museo de Baler",
+     "placeType": "Church",
+     "priceRange": "Free"
+    },
+    {
+     "area": "Zabali",
+     "bestTime": "Morning",
+     "category": "things_to_do",
+     "description": "A secluded cove with white sand and clear water, reached by a boat ride from Sabang or a trek over the hills. It is quieter than Sabang and popular for day-trip picnics.",
+     "id": "baler-dicasalarin-cove",
+     "lat": 15.7383,
+     "lng": 121.6335,
+     "name": "Dicasalarin Cove",
+     "placeType": "Beach",
+     "priceRange": "Entrance ₱300 per person"
+    },
+    {
+     "area": "Sabang",
+     "bestTime": "Afternoon",
+     "category": "where_to_eat",
+     "description": "A garden restaurant serving Filipino comfort food with Baler touches, known for its relaxed open-air setting. A favorite dinner spot after a day of surfing.",
+     "id": "baler-kusina-luntian",
+     "lat": 15.7652,
+     "lng": 121.5658,
+     "name": "Kusina Luntian",
+     "placeType": "Restaurant",
+     "priceRange": "₱200-400"
+    },
+    {
+     "area": "Sabang",
+     "bestTime": "Lunch",
+     "category": "where_to_eat",
+     "description": "A beachfront grill serving seafood, sizzling dishes, and cold drinks steps from the surf. Live music nights make it a go-to hangout for the surf crowd.",
+     "id": "baler-surfer-grill",
+     "lat": 15.7644,
+     "lng": 121.5668,
+     "name": "Baler Surfer Grill",
+     "placeType": "Restaurant",
+     "priceRange": "₱200-400"
+    },
+    {
+     "area": "Sabang",
+     "bestTime": "Year-round",
+     "category": "where_to_stay",
+     "description": "The landmark beachfront resort on Sabang Beach with a pool, surf shop, and direct access to the waves. The top choice for a comfortable surf holiday in Baler.",
+     "id": "baler-costa-pacifica",
+     "lat": 15.7611,
+     "lng": 121.5632,
+     "name": "Costa Pacifica",
+     "placeType": "Resort",
+     "priceRange": "₱₱₱"
+    },
+    {
+     "area": "Sabang",
+     "bestTime": "Year-round",
+     "category": "where_to_stay",
+     "description": "A popular mid-range inn near the beach with clean rooms and a friendly surf-town atmosphere. Walking distance to surf schools and restaurants along the strip.",
+     "id": "baler-bays-inn",
+     "lat": 15.7661,
+     "lng": 121.5661,
+     "name": "Bay's Inn",
+     "placeType": "Inn",
+     "priceRange": "₱₱"
+    },
+    {
+     "area": "Poblacion",
+     "bestTime": "Afternoon",
+     "category": "where_to_buy",
+     "description": "A local shop selling woven abaca products, suman, and Aurora souvenirs. A good stop for pasalubong before heading back to Manila.",
+     "id": "baler-souvenir-shops",
+     "lat": 15.7597,
+     "lng": 121.561,
+     "name": "Baler Souvenir Shops",
+     "placeType": "Souvenir Shop",
+     "priceRange": "₱100-500"
+    },
+    {
+     "area": "Baler",
+     "bestTime": "Daytime",
+     "category": "how_to_get_around",
+     "description": "Tricycles are the main way to reach the falls, the balete tree, and the rock formations, often hired for half-day tours. Agree on the itinerary and price with the driver beforehand.",
+     "id": "baler-tricycle",
+     "lat": 15.7597,
+     "lng": 121.561,
+     "name": "Tricycle Tour",
+     "placeType": "Transport",
+     "priceRange": "₱500-1,000 for half-day tour"
+    }
+   ],
+   "province": "Aurora",
+   "provinceId": "aurora",
+   "region": "Luzon",
+   "tagline": "The birthplace of Philippine surfing on the Pacific coast",
+   "transport": [
+    {
+     "notes": "The standard way to tour the falls, balete tree, and rock formations",
+     "priceRange": "₱500-1,000 for half-day tour",
+     "type": "Tricycle",
+     "useCase": "Town tours and nearby attractions"
+    },
+    {
+     "notes": "Genesis Transport and JoyBus run direct services from Cubao and Pasay",
+     "priceRange": "₱700-1,000",
+     "type": "Bus",
+     "useCase": "Manila to Baler direct or via Cabanatuan"
+    },
+    {
+     "notes": "Public vans connect Cabanatuan to Baler for the last leg",
+     "priceRange": "₱250-350",
+     "type": "Van",
+     "useCase": "Cabanatuan to Baler transfers"
+    },
+    {
+     "notes": "Some attractions like Dicasalarin Cove are reached by boat from Sabang",
+     "priceRange": "₱300-600 per person",
+     "type": "Boat",
+     "useCase": "Dicasalarin Cove and coastal day trips"
+    },
+    {
+     "notes": "Sabang strip and the town center are easily walkable",
+     "priceRange": "Free",
+     "type": "Walking",
+     "useCase": "Sabang Beach and Poblacion exploration"
+    }
+   ],
+   "whyPopular": "Travelers come to learn surfing on Sabang Beach's beginner-friendly waves and to tour the Mother Falls, Diguisit rock formations, and the historic Baler Church."
+  },
+  {
+   "bestTime": "November to April for calm seas; avoid the June to September monsoon",
+   "centerLat": 16.1559,
+   "centerLng": 119.9806,
+   "description": "Hundred Islands is a protected national park in Alaminos, Pangasinan, made up of 123 islands and islets scattered across Lingayen Gulf. Only a few are developed for visitors, with Governor's Island's view deck, snorkeling spots, and caves as the highlights. Island hopping here is one of the classic Luzon weekend trips, easy to pair with Bolinao.",
+   "howToGetThere": "Take a 5 to 6 hour bus from Manila to Alaminos, Pangasinan, then a tricycle to Lucap Wharf where tour boats depart.",
+   "id": "hundred-islands",
+   "name": "Hundred Islands",
+   "places": [
+    {
+     "area": "Lingayen Gulf",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "The island with the famous 123-step view deck overlooking the scattered islets of the national park. It also hosts a zipline and a narrow channel connecting it to Virgin Island at low tide.",
+     "id": "hundred-islands-governors-island",
+     "lat": 16.2078,
+     "lng": 120.0384,
+     "name": "Governor's Island",
+     "placeType": "Island",
+     "priceRange": "Included in island hopping package"
+    },
+    {
+     "area": "Lingayen Gulf",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "A small island with a shallow lagoon popular for swimming and beginner snorkeling. Its calm waters make it a favorite family stop on the island-hopping route.",
+     "id": "hundred-islands-childrens-island",
+     "lat": 16.1998,
+     "lng": 120.0031,
+     "name": "Children's Island",
+     "placeType": "Island",
+     "priceRange": "Included in island hopping package"
+    },
+    {
+     "area": "Lingayen Gulf",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "An island known for Imelda Cave and a natural swimming pool enclosed by rock formations. It is one of the most scenic stops for photos and cliff jumping.",
+     "id": "hundred-islands-marcos-island",
+     "lat": 16.2196,
+     "lng": 120.051,
+     "name": "Marcos Island",
+     "placeType": "Island",
+     "priceRange": "Included in island hopping package"
+    },
+    {
+     "area": "Lingayen Gulf",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "A developed island with cottages, camping grounds, and snorkeling areas. Many tour packages use it as the lunch and swimming stop of the day.",
+     "id": "hundred-islands-quezon-island",
+     "lat": 16.2224,
+     "lng": 120.0471,
+     "name": "Quezon Island",
+     "placeType": "Island",
+     "priceRange": "Included in island hopping package"
+    },
+    {
+     "area": "Lingayen Gulf",
+     "bestTime": "Midday",
+     "category": "things_to_do",
+     "description": "A cave on Marcos Island where sunlight pours through an opening onto the water below, popular for cliff jumping and swimming. The drop into the water is a rite of passage for Hundred Islands visitors.",
+     "id": "hundred-islands-imelda-cave",
+     "lat": 16.1967,
+     "lng": 119.9415,
+     "name": "Imelda Cave",
+     "placeType": "Cave",
+     "priceRange": "Included in island hopping package"
+    },
+    {
+     "area": "Lingayen Gulf",
+     "bestTime": "Morning",
+     "category": "things_to_do",
+     "description": "A 546-meter zipline flying from Governor's Island across the water, with views of the islets below. It is one of the most thrilling add-ons to the island-hopping tour.",
+     "id": "hundred-islands-zipline",
+     "lat": 16.2075,
+     "lng": 119.9381,
+     "name": "Hundred Islands Zipline",
+     "placeType": "Adventure Activity",
+     "priceRange": "₱250-350 per ride"
+    },
+    {
+     "area": "Lucap",
+     "bestTime": "Morning",
+     "category": "where_to_eat",
+     "description": "A seafood restaurant near Lucap Wharf serving fresh catches, grilled squid, and Filipino classics. A natural lunch stop before or after the island-hopping tour.",
+     "id": "hundred-islands-maxine-by-the-sea",
+     "lat": 16.1648,
+     "lng": 119.9721,
+     "name": "Maxine by the Sea",
+     "placeType": "Restaurant",
+     "priceRange": "₱200-400"
+    },
+    {
+     "area": "Alaminos",
+     "bestTime": "Lunch",
+     "category": "where_to_eat",
+     "description": "A local eatery in Alaminos town known for Pangasinan dishes like pigar-pigar and bangus preparations. A good taste of the province beyond the wharf restaurants.",
+     "id": "hundred-islands-alaminos-eatery",
+     "lat": 16.1561,
+     "lng": 119.9806,
+     "name": "Alaminos Town Eateries",
+     "placeType": "Restaurant",
+     "priceRange": "₱150-300"
+    },
+    {
+     "area": "Alaminos",
+     "bestTime": "Year-round",
+     "category": "where_to_stay",
+     "description": "A well-known hotel in Alaminos with a pool and restaurant, a short ride from Lucap Wharf. The most comfortable base for visitors doing the Hundred Islands tour.",
+     "id": "hundred-islands-island-tropic",
+     "lat": 16.1587,
+     "lng": 119.9821,
+     "name": "Island Tropic Hotel",
+     "placeType": "Hotel",
+     "priceRange": "₱₱"
+    },
+    {
+     "area": "Lucap",
+     "bestTime": "Year-round",
+     "category": "where_to_stay",
+     "description": "Budget inns near the wharf area catering to island-hopping tourists with simple, clean rooms. Ideal for early departures since the wharf is minutes away.",
+     "id": "hundred-islands-lucap-inns",
+     "lat": 16.1652,
+     "lng": 119.9718,
+     "name": "Lucap Wharf Area Inns",
+     "placeType": "Inn",
+     "priceRange": "₱"
+    },
+    {
+     "area": "Lucap",
+     "bestTime": "Afternoon",
+     "category": "where_to_buy",
+     "description": "Souvenir stalls near Lucap Wharf selling shell crafts, dried seafood, and Pangasinan delicacies like tupig. Stock up on pasalubong right after your boat returns.",
+     "id": "hundred-islands-lucap-souvenirs",
+     "lat": 16.1655,
+     "lng": 119.9712,
+     "name": "Lucap Souvenir Stalls",
+     "placeType": "Souvenir Shop",
+     "priceRange": "₱50-500"
+    },
+    {
+     "area": "Lucap Wharf",
+     "bestTime": "Morning",
+     "category": "how_to_get_around",
+     "description": "Licensed motorized boats leave Lucap Wharf for guided island-hopping circuits of 3 to 5 islands. Register at the tourism office and choose between small, medium, or large boats based on group size.",
+     "id": "hundred-islands-boat-tour",
+     "lat": 16.1655,
+     "lng": 119.9712,
+     "name": "Island Hopping Boat",
+     "placeType": "Transport",
+     "priceRange": "₱1,800-4,000 per boat"
+    }
+   ],
+   "province": "Pangasinan",
+   "provinceId": "pangasinan",
+   "region": "Luzon",
+   "tagline": "123 scattered islets made for island hopping",
+   "transport": [
+    {
+     "notes": "Register at the Hundred Islands tourism office; rates depend on boat size",
+     "priceRange": "₱1,800-4,000 per boat",
+     "type": "Boat",
+     "useCase": "Island hopping around the national park"
+    },
+    {
+     "notes": "The jump-off point for all island tours",
+     "priceRange": "₱50-100",
+     "type": "Tricycle",
+     "useCase": "Alaminos town to Lucap Wharf"
+    },
+    {
+     "notes": "Five Star and Victory Liner run Manila to Alaminos routes",
+     "priceRange": "₱400-600",
+     "type": "Bus",
+     "useCase": "Manila to Alaminos, Pangasinan"
+    },
+    {
+     "notes": "Boats can also stop at snorkeling and kayaking stations on request",
+     "priceRange": "₱150-300 per activity",
+     "type": "Boat Add-on",
+     "useCase": "Snorkeling, kayaking, and helmet diving"
+    }
+   ],
+   "whyPopular": "Travelers come for affordable island hopping across dozens of islets, the Governor's Island view deck, and snorkeling in the clear waters of Lingayen Gulf."
+  },
+  {
+   "bestTime": "February to May for clear Mayon views; June to October is the rainy season",
+   "centerLat": 13.1391,
+   "centerLng": 123.7438,
+   "description": "Legazpi is the gateway city to Mayon Volcano, the world's most perfect cone, which dominates every skyline view in town. Beyond the volcano, Legazpi offers ATV adventures on Mayon's slopes, the haunting Cagsawa Ruins, and some of Bicol's best food. It is a compact city that works as both a destination and a base for Albay tours.",
+   "howToGetThere": "Fly 1 hour from Manila to Legazpi via Bicol International Airport; buses take 10 to 12 hours.",
+   "id": "legazpi",
+   "name": "Legazpi",
+   "places": [
+    {
+     "area": "Daraga",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "The bell tower ruins of a church buried by Mayon's 1814 eruption, now the most iconic photo spot in Bicol. The park around it has ATV jump-off points and Mayon-facing viewpoints.",
+     "id": "legazpi-cagsawa-ruins",
+     "lat": 13.1465,
+     "lng": 123.6906,
+     "name": "Cagsawa Ruins",
+     "placeType": "Historical Site",
+     "priceRange": "Entrance ₱20-50"
+    },
+    {
+     "area": "Mayon",
+     "bestTime": "Morning",
+     "category": "things_to_do",
+     "description": "Ride an ATV across lava fields and riverbeds on Mayon's slopes, passing through landscapes shaped by past eruptions. Tour lengths range from short 45-minute runs to full-day black lava wall treks.",
+     "id": "legazpi-mayon-atv",
+     "lat": 13.1521,
+     "lng": 123.6892,
+     "name": "Mayon ATV Adventure",
+     "placeType": "Adventure Activity",
+     "priceRange": "₱600-3,000 per ATV"
+    },
+    {
+     "area": "Legazpi",
+     "bestTime": "Sunrise",
+     "category": "where_to_go",
+     "description": "A 156-meter hill in the city with a zipline and the best close-up sunrise views of Mayon Volcano. On clear mornings the volcano fills the entire horizon from the viewing deck.",
+     "id": "legazpi-lignon-hill",
+     "lat": 13.1432,
+     "lng": 123.7358,
+     "name": "Lignon Hill Nature Park",
+     "placeType": "Viewpoint",
+     "priceRange": "Entrance ₱20-50"
+    },
+    {
+     "area": "Daraga",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "A baroque church perched on a hill in Daraga with Mayon Volcano perfectly framed behind it. One of the oldest stone churches in the Bicol region, built in the 1700s.",
+     "id": "legazpi-daraga-church",
+     "lat": 13.1498,
+     "lng": 123.6987,
+     "name": "Daraga Church",
+     "placeType": "Church",
+     "priceRange": "Free"
+    },
+    {
+     "area": "Camalig",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "A serene lake in Camalig with bamboo rafts and floating cottages, famous for its mirror-like reflections of Mayon. A quieter, greener alternative to the Cagsawa crowds.",
+     "id": "legazpi-sumlang-lake",
+     "lat": 13.1467,
+     "lng": 123.6456,
+     "name": "Sumlang Lake",
+     "placeType": "Lake",
+     "priceRange": "Entrance ₱25-50"
+    },
+    {
+     "area": "Legazpi",
+     "bestTime": "Late afternoon",
+     "category": "things_to_do",
+     "description": "A 5-kilometer seaside boulevard with jogging paths, food stalls, and Mayon views across the water. The go-to sunset promenade for locals and visitors alike.",
+     "id": "legazpi-boulevard",
+     "lat": 13.1436,
+     "lng": 123.7612,
+     "name": "Legazpi Boulevard",
+     "placeType": "Promenade",
+     "priceRange": "Free"
+    },
+    {
+     "area": "Legazpi",
+     "bestTime": "Lunch",
+     "category": "where_to_eat",
+     "description": "The home of the famous sili ice cream, flavored with Bicol's fiery chili, plus pili desserts and Bicol dishes. A must-visit for adventurous eaters in Albay.",
+     "id": "legazpi-first-colonial",
+     "lat": 13.1398,
+     "lng": 123.7432,
+     "name": "1st Colonial Grill",
+     "placeType": "Restaurant",
+     "priceRange": "₱150-350"
+    },
+    {
+     "area": "Legazpi",
+     "bestTime": "Dinner",
+     "category": "where_to_eat",
+     "description": "A local favorite serving Bicolano classics like Bicol express, laing, and pinangat with generous spice levels. Hearty servings at prices locals are happy to pay.",
+     "id": "legazpi-waways",
+     "lat": 13.1372,
+     "lng": 123.7418,
+     "name": "Waway's Restaurant",
+     "placeType": "Restaurant",
+     "priceRange": "₱150-300"
+    },
+    {
+     "area": "Legazpi",
+     "bestTime": "Year-round",
+     "category": "where_to_stay",
+     "description": "The premier hotel in Legazpi, perched on a hill with sweeping views of Mayon Volcano and Albay Gulf. An infinity pool and full amenities make it the splurge stay in the city.",
+     "id": "legazpi-oriental",
+     "lat": 13.1287,
+     "lng": 123.7456,
+     "name": "The Oriental Legazpi",
+     "placeType": "Hotel",
+     "priceRange": "₱₱₱"
+    },
+    {
+     "area": "Legazpi",
+     "bestTime": "Year-round",
+     "category": "where_to_stay",
+     "description": "A modern mid-range hotel near the city center with clean rooms and a rooftop pool. Convenient for business and leisure travelers exploring Albay.",
+     "id": "legazpi-hotel-st-ellis",
+     "lat": 13.1392,
+     "lng": 123.7431,
+     "name": "Hotel St. Ellis",
+     "placeType": "Hotel",
+     "priceRange": "₱₱"
+    },
+    {
+     "area": "Legazpi",
+     "bestTime": "Afternoon",
+     "category": "where_to_buy",
+     "description": "The city's pasalubong center for pili nuts, pili candies, and Bicol handicrafts. One stop covers most of the souvenir list for Albay.",
+     "id": "legazpi-pasalubong-center",
+     "lat": 13.1398,
+     "lng": 123.7441,
+     "name": "Legazpi Pasalubong Center",
+     "placeType": "Souvenir Shop",
+     "priceRange": "₱100-500"
+    },
+    {
+     "area": "Legazpi",
+     "bestTime": "Daytime",
+     "category": "how_to_get_around",
+     "description": "Jeepneys and tricycles cover routes between Legazpi, Daraga, and Camalig, including the Cagsawa and Sumlang Lake stops. For Mayon tours, most operators include transfers in the package.",
+     "id": "legazpi-tricycle",
+     "lat": 13.1391,
+     "lng": 123.7438,
+     "name": "Tricycle and Jeepney",
+     "placeType": "Transport",
+     "priceRange": "₱15-100"
+    }
+   ],
+   "province": "Albay",
+   "provinceId": "albay",
+   "region": "Luzon",
+   "tagline": "The city under the perfect cone of Mayon Volcano",
+   "transport": [
+    {
+     "notes": "Direct 1-hour flights from Manila to Bicol International Airport",
+     "priceRange": "₱2,500-5,000 roundtrip",
+     "type": "Plane",
+     "useCase": "Manila to Legazpi flights"
+    },
+    {
+     "notes": "Book through accredited operators in Cagsawa or Ligñon Hill",
+     "priceRange": "₱600-3,000 per ATV",
+     "type": "ATV Tour",
+     "useCase": "Mayon lava trail adventures"
+    },
+    {
+     "notes": "Fares vary by distance; jeepneys are cheaper for fixed routes",
+     "priceRange": "₱15-100",
+     "type": "Tricycle and Jeepney",
+     "useCase": "Getting around Legazpi, Daraga, and Camalig"
+    },
+    {
+     "notes": "Shared vans run the Legazpi to Donsol and Legazpi to Naga routes",
+     "priceRange": "₱150-250",
+     "type": "Van",
+     "useCase": "Day trips to Donsol and other Albay towns"
+    }
+   ],
+   "whyPopular": "Travelers come for postcard views of Mayon Volcano, the Cagsawa Ruins, ATV rides on lava trails, and Bicol's famously spicy food."
+  },
+  {
+   "bestTime": "March to June for calm seas; avoid the July to October typhoon season",
+   "centerLat": 13.7719,
+   "centerLng": 123.8694,
+   "description": "Caramoan is a remote peninsula in Camarines Sur famous as a filming location for multiple seasons of Survivor. Its limestone islands, hidden lagoons, and white-sand beaches are reached only by island-hopping boats from Paniman Beach. Raw and undeveloped, it rewards travelers who do not mind the long journey.",
+   "howToGetThere": "Fly or bus to Naga, take a van to Sabang port, a boat to Guijalo, then a jeepney to Caramoan town; island tours depart from Paniman Beach.",
+   "id": "caramoan",
+   "name": "Caramoan",
+   "places": [
+    {
+     "area": "Caramoan Islands",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "A small island with white sand, clear water, and limestone cliffs, famous from Survivor seasons. One of the standard stops on the Caramoan island-hopping circuit.",
+     "id": "caramoan-lahos-island",
+     "lat": 13.6842,
+     "lng": 123.8918,
+     "name": "Lahos Island",
+     "placeType": "Island",
+     "priceRange": "Included in island hopping package"
+    },
+    {
+     "area": "Caramoan Islands",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "An island with a hidden lagoon enclosed by limestone karsts, reached by swimming through a narrow opening at low tide. One of Caramoan's most photographed natural formations.",
+     "id": "caramoan-matukad-island",
+     "lat": 13.6798,
+     "lng": 123.9001,
+     "name": "Matukad Island",
+     "placeType": "Island",
+     "priceRange": "Included in island hopping package"
+    },
+    {
+     "area": "Caramoan Islands",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "A tiny island with a sandbar, a small chapel, and a giant cross on its limestone peak. The short climb rewards visitors with sweeping views of the surrounding islands.",
+     "id": "caramoan-minalahos-island",
+     "lat": 13.6901,
+     "lng": 123.8842,
+     "name": "Minalahos Island",
+     "placeType": "Island",
+     "priceRange": "Included in island hopping package"
+    },
+    {
+     "area": "Paniman",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "The jump-off beach for Caramoan island hopping, with boats lined up along its shore. The surrounding area also has coves and snorkeling spots worth exploring.",
+     "id": "caramoan-gota-beach",
+     "lat": 13.80239,
+     "lng": 123.87777,
+     "name": "Gota Beach",
+     "placeType": "Beach",
+     "priceRange": "Included in island hopping package"
+    },
+    {
+     "area": "Caramoan Town",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "The 17th-century parish church of Caramoan, dedicated to St. Michael the Archangel. Its red-brick facade is one of the oldest church structures in Camarines Sur.",
+     "id": "caramoan-church",
+     "lat": 13.7701,
+     "lng": 123.8698,
+     "name": "St. Michael the Archangel Church",
+     "placeType": "Church",
+     "priceRange": "Free"
+    },
+    {
+     "area": "Paniman",
+     "bestTime": "Full day",
+     "category": "things_to_do",
+     "description": "A full-day boat circuit visiting Lahos, Matukad, Minalahos, and other islets with stops for swimming and snorkeling. Boats are arranged at Paniman Beach through the tourism office.",
+     "id": "caramoan-island-hopping",
+     "lat": 13.80239,
+     "lng": 123.87777,
+     "name": "Caramoan Island Hopping Tour",
+     "placeType": "Boat Tour",
+     "priceRange": "₱3,500-5,000 per boat"
+    },
+    {
+     "area": "Paniman",
+     "bestTime": "Lunch",
+     "category": "where_to_eat",
+     "description": "The resort restaurant at Gota Beach serving Filipino dishes and fresh seafood with sea views. The most reliable full-service dining option near the island jump-off point.",
+     "id": "caramoan-gota-village-restaurant",
+     "lat": 13.80239,
+     "lng": 123.87777,
+     "name": "Gota Village Resort Restaurant",
+     "placeType": "Restaurant",
+     "priceRange": "₱200-450"
+    },
+    {
+     "area": "Caramoan Town",
+     "bestTime": "Lunch",
+     "category": "where_to_eat",
+     "description": "Simple carinderias in the town proper serving Bicol dishes like laing and Bicol express at local prices. Stock up on meals here before heading to Paniman Beach.",
+     "id": "caramoan-town-eateries",
+     "lat": 13.7701,
+     "lng": 123.8698,
+     "name": "Caramoan Town Eateries",
+     "placeType": "Restaurant",
+     "priceRange": "₱100-250"
+    },
+    {
+     "area": "Paniman",
+     "bestTime": "Year-round",
+     "category": "where_to_stay",
+     "description": "The go-to resort for Caramoan visitors, set on a hillside overlooking the islands. It offers the most comfortable rooms near the island-hopping jump-off point.",
+     "id": "caramoan-gota-village",
+     "lat": 13.80239,
+     "lng": 123.87777,
+     "name": "Gota Village Resort",
+     "placeType": "Resort",
+     "priceRange": "₱₱₱"
+    },
+    {
+     "area": "Caramoan",
+     "bestTime": "Year-round",
+     "category": "where_to_stay",
+     "description": "A secluded cove resort with a private beach, cottages, and kayaking, reachable by boat. A quieter alternative for travelers who want to stay right on the water.",
+     "id": "caramoan-tugawe-cove",
+     "lat": 13.7312,
+     "lng": 123.8712,
+     "name": "Tugawe Cove Resort",
+     "placeType": "Resort",
+     "priceRange": "₱₱"
+    },
+    {
+     "area": "Caramoan Town",
+     "bestTime": "Afternoon",
+     "category": "where_to_buy",
+     "description": "The town market sells pili nuts, dried fish, and Bicol handicrafts at local prices. A practical stop for pasalubong before the long trip back.",
+     "id": "caramoan-public-market",
+     "lat": 13.7705,
+     "lng": 123.8701,
+     "name": "Caramoan Public Market",
+     "placeType": "Market",
+     "priceRange": "₱100-500"
+    },
+    {
+     "area": "Caramoan",
+     "bestTime": "Daytime",
+     "category": "how_to_get_around",
+     "description": "Motorized boats are the only way to reach the islands, arranged through the tourism office at Paniman. On land, tricycles and habal-habal connect the town, Paniman, and Guijalo port.",
+     "id": "caramoan-boat",
+     "lat": 13.7719,
+     "lng": 123.8694,
+     "name": "Island Hopping Boat",
+     "placeType": "Transport",
+     "priceRange": "₱3,500-5,000 per boat"
+    }
+   ],
+   "province": "Camarines Sur",
+   "provinceId": "camarines-sur",
+   "region": "Luzon",
+   "tagline": "The Survivor-famous peninsula of hidden island lagoons",
+   "transport": [
+    {
+     "notes": "Book through the Caramoan tourism office; rates depend on boat size",
+     "priceRange": "₱3,500-5,000 per boat",
+     "type": "Boat",
+     "useCase": "Island hopping to Lahos, Matukad, and Minalahos"
+    },
+    {
+     "notes": "Sabang to Guijalo boats connect to vans bound for Naga",
+     "priceRange": "₱100-200 per leg",
+     "type": "Boat and Van",
+     "useCase": "Naga to Caramoan multi-leg transfer"
+    },
+    {
+     "notes": "The standard ride within town and to Paniman Beach",
+     "priceRange": "₱20-100",
+     "type": "Tricycle",
+     "useCase": "Caramoan town to Paniman and Guijalo"
+    },
+    {
+     "notes": "Motorbikes for hire for rougher roads around the peninsula",
+     "priceRange": "₱100-300",
+     "type": "Habal-habal",
+     "useCase": "Reaching remote beaches and viewpoints"
+    }
+   ],
+   "whyPopular": "Travelers come for Survivor-famous island hopping to limestone islets and hidden lagoons, plus some of the most untouched beaches in Luzon."
+  },
+  {
+   "bestTime": "November to April for dry weather; Underground River tours run year-round",
+   "centerLat": 9.7392,
+   "centerLng": 118.7353,
+   "description": "Puerto Princesa is Palawan's capital and the gateway to the world-famous Underground River, one of the New 7 Wonders of Nature. Beyond the subterranean river, the city offers Honda Bay island hopping, firefly watching on the Iwahig River, and a relaxed city center with good seafood. It is the natural first stop on any Palawan itinerary.",
+   "howToGetThere": "Fly 1.5 hours from Manila or Cebu to Puerto Princesa International Airport; ferries also connect from Manila and Coron.",
+   "id": "puerto-princesa",
+   "name": "Puerto Princesa",
+   "places": [
+    {
+     "area": "Sabang",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "A UNESCO World Heritage Site featuring an 8.2-kilometer navigable underground river through a limestone cave. Paddle boats glide past cathedral-like chambers filled with stalactites and bats.",
+     "id": "puerto-princesa-underground-river",
+     "lat": 10.1928,
+     "lng": 118.9246,
+     "name": "Puerto Princesa Subterranean River",
+     "placeType": "Cave",
+     "priceRange": "Tour package ₱1,500-2,500"
+    },
+    {
+     "area": "Honda Bay",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "A group of islets including Cowrie, Starfish, and Luli Islands, known for white sand and excellent snorkeling. The standard island-hopping circuit is the city's most popular day tour after the Underground River.",
+     "id": "puerto-princesa-honda-bay",
+     "lat": 9.8921,
+     "lng": 118.7823,
+     "name": "Honda Bay Island Hopping",
+     "placeType": "Island",
+     "priceRange": "Tour package ₱1,300-1,800"
+    },
+    {
+     "area": "Iwahig",
+     "bestTime": "Evening",
+     "category": "things_to_do",
+     "description": "A nighttime paddle-boat tour where thousands of fireflies light up mangrove trees along the river. The star-filled sky over the water makes it one of Palawan's most magical evening experiences.",
+     "id": "puerto-princesa-iwahig-firefly",
+     "lat": 9.7331,
+     "lng": 118.6987,
+     "name": "Iwahig Firefly Watching",
+     "placeType": "Boat Tour",
+     "priceRange": "₱600-1,000 per person"
+    },
+    {
+     "area": "Sta. Monica",
+     "bestTime": "Afternoon",
+     "category": "where_to_go",
+     "description": "A park with butterfly gardens, colorful blooms, and a good view deck over the city. Its in-house bakeshop is famous for hopia and other pastries worth taking home.",
+     "id": "puerto-princesa-bakers-hill",
+     "lat": 9.8077,
+     "lng": 118.73416,
+     "name": "Baker's Hill",
+     "placeType": "Park",
+     "priceRange": "Free"
+    },
+    {
+     "area": "Poblacion",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "A WWII memorial marking the site where American prisoners of war were killed in 1944. The small plaza and museum are a solemn reminder of Palawan's wartime history.",
+     "id": "puerto-princesa-plaza-cuartel",
+     "lat": 9.7412,
+     "lng": 118.7368,
+     "name": "Plaza Cuartel",
+     "placeType": "Historical Site",
+     "priceRange": "Free"
+    },
+    {
+     "area": "Poblacion",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "The city's main Catholic church with its distinctive blue facade, built in the late 1800s. It anchors the old town area near Plaza Cuartel and the baywalk.",
+     "id": "puerto-princesa-cathedral",
+     "lat": 9.7398,
+     "lng": 118.7345,
+     "name": "Immaculate Conception Cathedral",
+     "placeType": "Church",
+     "priceRange": "Free"
+    },
+    {
+     "area": "Poblacion",
+     "bestTime": "Dinner",
+     "category": "where_to_eat",
+     "description": "A beloved seafood restaurant where diners eat barefoot on sand floors under nipa roofing. Famous for fresh grilled seafood and its charming, rustic atmosphere.",
+     "id": "puerto-princesa-ka-lui",
+     "lat": 9.7421,
+     "lng": 118.7372,
+     "name": "Ka Lui Restaurant",
+     "placeType": "Restaurant",
+     "priceRange": "₱250-500"
+    },
+    {
+     "area": "Poblacion",
+     "bestTime": "Sunset",
+     "category": "where_to_eat",
+     "description": "A seafront restaurant on stilts over the water, perfect for sunset dinners of Filipino and seafood dishes. Live acoustic music adds to the bayfront atmosphere.",
+     "id": "puerto-princesa-badjao-seafront",
+     "lat": 9.7445,
+     "lng": 118.7401,
+     "name": "Badjao Seafront Restaurant",
+     "placeType": "Restaurant",
+     "priceRange": "₱200-450"
+    },
+    {
+     "area": "Poblacion",
+     "bestTime": "Year-round",
+     "category": "where_to_stay",
+     "description": "A modern resort-style hotel with pools and gardens, popular with families and tour groups. Well located for city tours and airport transfers.",
+     "id": "puerto-princesa-princesa-garden",
+     "lat": 9.7512,
+     "lng": 118.7456,
+     "name": "Princesa Garden Island Resort",
+     "placeType": "Resort",
+     "priceRange": "₱₱₱"
+    },
+    {
+     "area": "Sabang",
+     "bestTime": "Year-round",
+     "category": "where_to_stay",
+     "description": "A beachfront resort in Sabang near the Underground River wharf, with a pool facing the sea. Ideal for travelers who want to be close to the national park instead of the city.",
+     "id": "puerto-princesa-daluyon",
+     "lat": 10.1956,
+     "lng": 118.9212,
+     "name": "Daluyon Beach and Mountain Resort",
+     "placeType": "Resort",
+     "priceRange": "₱₱₱"
+    },
+    {
+     "area": "San Manuel",
+     "bestTime": "Afternoon",
+     "category": "where_to_buy",
+     "description": "A weaving center where you can watch artisans make colorful placemats and bags from indigenous fibers. Buying here directly supports the local weaving community.",
+     "id": "puerto-princesa-binuatan",
+     "lat": 9.7556,
+     "lng": 118.7489,
+     "name": "Binuatan Creations Weaving Center",
+     "placeType": "Craft Shop",
+     "priceRange": "₱150-1,000"
+    },
+    {
+     "area": "Puerto Princesa",
+     "bestTime": "Daytime",
+     "category": "how_to_get_around",
+     "description": "Tricycles are everywhere and handle most city trips, with multicabs serving fixed routes. For Sabang and the Underground River, book a van tour that includes permits and transfers.",
+     "id": "puerto-princesa-tricycle",
+     "lat": 9.7392,
+     "lng": 118.7353,
+     "name": "Tricycle",
+     "placeType": "Transport",
+     "priceRange": "₱15-100"
+    }
+   ],
+   "province": "Palawan",
+   "provinceId": "palawan",
+   "region": "Luzon",
+   "tagline": "Gateway to the world-famous Underground River",
+   "transport": [
+    {
+     "notes": "Daily 1.5-hour flights from Manila, Cebu, and Clark",
+     "priceRange": "₱2,500-6,000 roundtrip",
+     "type": "Plane",
+     "useCase": "Getting to Puerto Princesa"
+    },
+    {
+     "notes": "Book Underground River permits a day ahead through tour operators",
+     "priceRange": "₱1,500-2,500",
+     "type": "Van Tour",
+     "useCase": "City to Sabang and Underground River day tours"
+    },
+    {
+     "notes": "The standard city ride; agree on the fare for longer trips",
+     "priceRange": "₱15-100",
+     "type": "Tricycle",
+     "useCase": "Getting around the city center"
+    },
+    {
+     "notes": "Vans run regularly between the city and the El Nido terminal",
+     "priceRange": "₱600-800",
+     "type": "Van",
+     "useCase": "Puerto Princesa to El Nido transfers"
+    }
+   ],
+   "whyPopular": "Travelers come for the Underground River, one of the New 7 Wonders of Nature, plus Honda Bay island hopping and the magical Iwahig firefly tours."
+  },
+  {
+   "bestTime": "October to March for surfing; November to February for the best waves",
+   "centerLat": 16.6718,
+   "centerLng": 120.326,
+   "description": "San Juan, La Union is the surf capital of the North, where the laid-back beach town of Urbiztondo draws surfers, digital nomads, and weekenders from Manila. Beyond the waves, it has a thriving cafe and food scene, from famous coffee shops to beachfront party spots. It is the easiest surf trip from Manila at just 4 to 5 hours by bus.",
+   "howToGetThere": "Take a 4 to 5 hour bus from Manila to San Juan via Partas, Viron, or Victory Liner.",
+   "id": "san-juan-la-union",
+   "name": "San Juan, La Union",
+   "places": [
+    {
+     "area": "Urbiztondo",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "The main surf beach of La Union with consistent beach-break waves suitable for beginners and intermediates. Surf schools line the shore, and the sunset sessions here are legendary.",
+     "id": "san-juan-la-union-urbiztondo-beach",
+     "lat": 16.6698,
+     "lng": 120.3212,
+     "name": "Urbiztondo Beach",
+     "placeType": "Beach",
+     "priceRange": "Free; surf lessons ₱400-600 per hour"
+    },
+    {
+     "area": "Urbiztondo",
+     "bestTime": "Morning",
+     "category": "where_to_eat",
+     "description": "A famous surf-town cafe credited with kickstarting La Union's coffee culture, serving slow-bar coffee and brunch. Expect lines on weekends, but the people-watching is worth it.",
+     "id": "san-juan-la-union-el-union",
+     "lat": 16.6701,
+     "lng": 120.3218,
+     "name": "El Union Coffee",
+     "placeType": "Cafe",
+     "priceRange": "₱150-350"
+    },
+    {
+     "area": "Urbiztondo",
+     "bestTime": "Evening",
+     "category": "where_to_eat",
+     "description": "A beachfront food park with container stalls, live DJs, and fire dancers, and one of the birthplaces of Elyu's party scene. The place to be after the sun goes down on weekends.",
+     "id": "san-juan-la-union-flotsam-jetsam",
+     "lat": 16.6689,
+     "lng": 120.3208,
+     "name": "Flotsam and Jetsam",
+     "placeType": "Food Park",
+     "priceRange": "₱200-500"
+    },
+    {
+     "area": "San Gabriel",
+     "bestTime": "Morning",
+     "category": "things_to_do",
+     "description": "A multi-tiered waterfall in nearby San Gabriel, reached by a trek through rice fields and forest trails. The deep natural pools are perfect for cliff jumping and swimming.",
+     "id": "san-juan-la-union-tangadan-falls",
+     "lat": 16.6442,
+     "lng": 120.44853,
+     "name": "Tangadan Falls",
+     "placeType": "Waterfall",
+     "priceRange": "Entrance ₱30-50; guide ₱200-400"
+    },
+    {
+     "area": "Urbiztondo",
+     "bestTime": "Morning",
+     "category": "things_to_do",
+     "description": "Take a lesson from one of the many accredited surf schools along Urbiztondo Beach. Instructors provide boards and an hour of coaching, with most beginners standing up by the end.",
+     "id": "san-juan-la-union-surf-lesson",
+     "lat": 16.6698,
+     "lng": 120.3212,
+     "name": "Surf Lessons at Urbiztondo",
+     "placeType": "Surf School",
+     "priceRange": "₱400-600 per hour"
+    },
+    {
+     "area": "Urbiztondo",
+     "bestTime": "Lunch",
+     "category": "where_to_eat",
+     "description": "A go-to spot for Mexican-Filipino fusion, famous for its tacos and nachos served steps from the sand. A staple of the Urbiztondo food crawl.",
+     "id": "san-juan-la-union-tagpuan",
+     "lat": 16.6695,
+     "lng": 120.3215,
+     "name": "Tagpuan",
+     "placeType": "Restaurant",
+     "priceRange": "₱200-400"
+    },
+    {
+     "area": "Urbiztondo",
+     "bestTime": "Year-round",
+     "category": "where_to_stay",
+     "description": "A boutique beachfront resort with stylish rooms, a pool, and a restaurant facing the surf. One of the most photographed stays in Elyu for its design and beach access.",
+     "id": "san-juan-la-union-kahuna",
+     "lat": 16.6721,
+     "lng": 120.3228,
+     "name": "Kahuna Beach Resort and Spa",
+     "placeType": "Resort",
+     "priceRange": "₱₱₱"
+    },
+    {
+     "area": "Urbiztondo",
+     "bestTime": "Year-round",
+     "category": "where_to_stay",
+     "description": "A mid-range beach resort with a pool and direct access to Urbiztondo Beach. A comfortable base within walking distance of the surf schools and cafes.",
+     "id": "san-juan-la-union-costa-villa",
+     "lat": 16.6678,
+     "lng": 120.3201,
+     "name": "Costa Villa Beach Resort",
+     "placeType": "Resort",
+     "priceRange": "₱₱"
+    },
+    {
+     "area": "Urbiztondo",
+     "bestTime": "Afternoon",
+     "category": "where_to_buy",
+     "description": "Surf shops along the beach road sell boards, wax, rash guards, and Elyu-branded apparel. A good place to gear up before lessons or grab souvenirs after.",
+     "id": "san-juan-la-union-surf-shops",
+     "lat": 16.6701,
+     "lng": 120.3212,
+     "name": "Urbiztondo Surf Shops",
+     "placeType": "Souvenir Shop",
+     "priceRange": "₱200-2,000"
+    },
+    {
+     "area": "San Juan",
+     "bestTime": "Morning",
+     "category": "where_to_buy",
+     "description": "The town market sells fresh produce, dried fish, and La Union delicacies like tupig and basi. A glimpse of local life beyond the surf strip.",
+     "id": "san-juan-la-union-public-market",
+     "lat": 16.6742,
+     "lng": 120.3298,
+     "name": "San Juan Public Market",
+     "placeType": "Market",
+     "priceRange": "₱50-500"
+    },
+    {
+     "area": "Urbiztondo",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "A cliffside viewpoint and small park overlooking the surf break, popular for sunrise and sunset photos. A short walk from the main beach strip.",
+     "id": "san-juan-la-union-point",
+     "lat": 16.6642,
+     "lng": 120.3198,
+     "name": "Urbiztondo Point View Deck",
+     "placeType": "Viewpoint",
+     "priceRange": "Free"
+    },
+    {
+     "area": "San Juan",
+     "bestTime": "Daytime",
+     "category": "how_to_get_around",
+     "description": "Tricycles connect the beach strip, the town proper, and nearby attractions like Tangadan Falls. Most of Urbiztondo itself is walkable on foot.",
+     "id": "san-juan-la-union-tricycle",
+     "lat": 16.6718,
+     "lng": 120.326,
+     "name": "Tricycle",
+     "placeType": "Transport",
+     "priceRange": "₱15-100"
+    }
+   ],
+   "province": "La Union",
+   "provinceId": "la-union",
+   "region": "Luzon",
+   "tagline": "The surf capital of the North with a buzzing beach scene",
+   "transport": [
+    {
+     "notes": "Partas, Viron, and Victory Liner run regular Manila to San Juan routes",
+     "priceRange": "₱450-650",
+     "type": "Bus",
+     "useCase": "Manila to San Juan, La Union"
+    },
+    {
+     "notes": "The main ride for trips to Tangadan Falls and the town proper",
+     "priceRange": "₱15-100",
+     "type": "Tricycle",
+     "useCase": "Getting around San Juan and nearby sights"
+    },
+    {
+     "notes": "The beach strip is compact and easy to explore on foot",
+     "priceRange": "Free",
+     "type": "Walking",
+     "useCase": "Urbiztondo Beach and cafe hopping"
+    },
+    {
+     "notes": "Vans can be chartered for Tangadan Falls and San Fernando trips",
+     "priceRange": "₱300-600 per person",
+     "type": "Van",
+     "useCase": "Day trips to waterfalls and nearby towns"
+    }
+   ],
+   "whyPopular": "Travelers come to surf the beginner-friendly waves of Urbiztondo Beach, cafe-hop through Elyu's famous coffee scene, and party at the beachfront food parks."
+  },
+  {
+   "bestTime": "November to June for whale sharks; November to May for calm seas",
+   "centerLat": 12.9053,
+   "centerLng": 123.5996,
+   "description": "Donsol is the whale shark capital of the Philippines, where gentle butanding gather in its plankton-rich waters from November to June. Swimming alongside these giants under strict interaction rules is a once-in-a-lifetime experience. Beyond the whale sharks, Donsol offers firefly river tours, manta ray diving, and quiet beaches.",
+   "howToGetThere": "Fly to Legazpi, then take a 1 to 1.5 hour van or bus to Donsol; buses from Manila take 10 to 12 hours.",
+   "id": "donsol",
+   "name": "Donsol",
+   "places": [
+    {
+     "area": "Donsol Bay",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "The main whale shark interaction site, where spotters locate butanding and boats bring swimmers to snorkel beside them. Strict rules keep the experience safe for both visitors and the gentle giants.",
+     "id": "donsol-whale-shark-interaction",
+     "lat": 12.9156,
+     "lng": 123.6108,
+     "name": "Donsol Whale Shark Interaction",
+     "placeType": "Marine Sanctuary",
+     "priceRange": "₱3,500-5,000 per boat"
+    },
+    {
+     "area": "Donsol Bay",
+     "bestTime": "Morning",
+     "category": "things_to_do",
+     "description": "Snorkel or free-dive beside whale sharks under the guidance of trained Butanding Interaction Officers. November to June offers the best chances of sightings.",
+     "id": "donsol-butanding-swimming",
+     "lat": 12.9156,
+     "lng": 123.6108,
+     "name": "Swimming with Whale Sharks",
+     "placeType": "Snorkeling",
+     "priceRange": "₱500-1,000 per person"
+    },
+    {
+     "area": "Ogod",
+     "bestTime": "Evening",
+     "category": "things_to_do",
+     "description": "A peaceful night cruise on the Ogod River where fireflies cluster in the riverside trees. The calm water and dark skies make it a romantic end to a whale shark day.",
+     "id": "donsol-ogod-firefly",
+     "lat": 12.8812,
+     "lng": 123.5901,
+     "name": "Ogod River Firefly Watching",
+     "placeType": "Boat Tour",
+     "priceRange": "₱1,000-1,500 per boat"
+    },
+    {
+     "area": "San Miguel Island",
+     "bestTime": "Morning",
+     "category": "things_to_do",
+     "description": "A world-class dive site off nearby Ticao Island known for manta ray encounters and cleaning stations. Advanced divers visit from Donsol for day trips during the season.",
+     "id": "donsol-manta-bowl",
+     "lat": 12.8512,
+     "lng": 123.6801,
+     "name": "Manta Bowl Dive Site",
+     "placeType": "Dive Site",
+     "priceRange": "₱3,000-5,000 per dive"
+    },
+    {
+     "area": "Donsol",
+     "bestTime": "Morning",
+     "category": "where_to_go",
+     "description": "The registration and briefing center for all whale shark interactions, with exhibits about butanding conservation. Every tour starts here with an orientation from the tourism office.",
+     "id": "donsol-tourism-center",
+     "lat": 12.9053,
+     "lng": 123.5996,
+     "name": "Donsol Tourism Center",
+     "placeType": "Visitor Center",
+     "priceRange": "Free"
+    },
+    {
+     "area": "Donsol",
+     "bestTime": "Lunch",
+     "category": "where_to_eat",
+     "description": "A beachfront resort restaurant serving Bicol dishes and fresh seafood with views of Donsol Bay. A convenient meal stop after the morning whale shark tour.",
+     "id": "donsol-vitton-restaurant",
+     "lat": 12.9187,
+     "lng": 123.6142,
+     "name": "Vitton Beach Resort Restaurant",
+     "placeType": "Restaurant",
+     "priceRange": "₱200-450"
+    },
+    {
+     "area": "Donsol",
+     "bestTime": "Dinner",
+     "category": "where_to_eat",
+     "description": "A beach resort restaurant known for Filipino comfort food and grilled seafood in a garden setting. A relaxing dinner spot for divers and whale shark watchers.",
+     "id": "donsol-amor-farm-restaurant",
+     "lat": 12.9212,
+     "lng": 123.6187,
+     "name": "Amor Farm Beach Resort Restaurant",
+     "placeType": "Restaurant",
+     "priceRange": "₱200-400"
+    },
+    {
+     "area": "Donsol",
+     "bestTime": "Year-round",
+     "category": "where_to_stay",
+     "description": "A popular beachfront resort in Donsol with a pool, dive shop, and whale shark tour arrangements. The most established stay for butanding season visitors.",
+     "id": "donsol-vitton-beach-resort",
+     "lat": 12.9187,
+     "lng": 123.6142,
+     "name": "Vitton Beach Resort",
+     "placeType": "Resort",
+     "priceRange": "₱₱"
+    },
+    {
+     "area": "Donsol",
+     "bestTime": "Year-round",
+     "category": "where_to_stay",
+     "description": "A beach resort with native-style cottages, a garden, and easy access to the whale shark jump-off points. A quieter, mid-range alternative on the coast.",
+     "id": "donsol-amor-farm",
+     "lat": 12.9212,
+     "lng": 123.6187,
+     "name": "Amor Farm Beach Resort",
+     "placeType": "Resort",
+     "priceRange": "₱₱"
+    },
+    {
+     "area": "Donsol",
+     "bestTime": "Afternoon",
+     "category": "where_to_buy",
+     "description": "The town market sells dried fish, pili products, and Bicol delicacies at local prices. A good stop for pasalubong and snacks before the trip back to Legazpi.",
+     "id": "donsol-public-market",
+     "lat": 12.9058,
+     "lng": 123.6001,
+     "name": "Donsol Public Market",
+     "placeType": "Market",
+     "priceRange": "₱100-500"
+    },
+    {
+     "area": "Donsol",
+     "bestTime": "Daytime",
+     "category": "how_to_get_around",
+     "description": "Tricycles connect the town center, resorts, and the tourism center, and can be hired for half-day tours. Vans handle the Legazpi to Donsol transfer.",
+     "id": "donsol-tricycle",
+     "lat": 12.9053,
+     "lng": 123.5996,
+     "name": "Tricycle",
+     "placeType": "Transport",
+     "priceRange": "₱15-150"
+    }
+   ],
+   "province": "Sorsogon",
+   "provinceId": "sorsogon",
+   "region": "Luzon",
+   "tagline": "Swim with gentle whale sharks in their natural habitat",
+   "transport": [
+    {
+     "notes": "Required for all whale shark interactions; includes spotter and guide",
+     "priceRange": "₱3,500-5,000 per boat",
+     "type": "Boat",
+     "useCase": "Whale shark interaction tours"
+    },
+    {
+     "notes": "The standard ride around town and to the resorts",
+     "priceRange": "₱15-150",
+     "type": "Tricycle",
+     "useCase": "Getting around Donsol town"
+    },
+    {
+     "notes": "Regular vans connect Legazpi Grand Terminal to Donsol",
+     "priceRange": "₱150-200",
+     "type": "Van",
+     "useCase": "Legazpi to Donsol transfers"
+    },
+    {
+     "notes": "Overnight buses from Manila serve Donsol via Legazpi",
+     "priceRange": "₱800-1,100",
+     "type": "Bus",
+     "useCase": "Manila to Donsol"
+    }
+   ],
+   "whyPopular": "Travelers come to swim with whale sharks in the wild, cruise the firefly-lit Ogod River at night, and dive with manta rays at Manta Bowl."
+  }
+ ]
+}

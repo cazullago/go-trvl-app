@@ -1,0 +1,304 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Users can read any profile (leaderboard, matching) but only write their own.
+    // The `suspended` flag is admin-only: users can never set or clear it on
+    // their own doc. Suspension itself is enforced at sign-in in AuthService
+    // (suspended users are signed out immediately); rules guarantee the flag
+    // cannot be tampered with client-side.
+    // The `blockedUids` array is the user's own block list: only the owner
+    // may write it (covered by the update rule below, which already limits
+    // writes to the doc owner and only excludes the `suspended` key).
+    // Delete is owner-only and backs the in-app Delete Account flow
+    // (Apple guideline 5.1.1(v)); admins can delete via isAdmin() too.
+    match /users/{uid} {
+      allow read: if request.auth != null;
+      allow create: if request.auth != null && request.auth.uid == uid;
+      allow update: if isAdmin() || (request.auth != null
+        && request.auth.uid == uid
+        && !request.resource.data.diff(resource.data).affectedKeys().hasAny(['suspended']));
+      allow delete: if isAdmin() || (request.auth != null
+        && request.auth.uid == uid);
+
+      match /donePlaces/{placeId} {
+        allow read: if request.auth != null;
+        allow write: if request.auth != null && request.auth.uid == uid;
+      }
+
+      // Own likes: full control. Mutual-match bookkeeping: the OTHER user may
+      // only flip the `matched` flag to true on the doc they are named in.
+      // The named user can also READ that one doc (needed by the mutual
+      // match check in DatabaseService.swipeRight); other docs stay private.
+      match /likesGiven/{otherUid} {
+        allow read: if request.auth != null
+          && (request.auth.uid == uid || request.auth.uid == otherUid);
+        allow create: if request.auth != null && request.auth.uid == uid;
+        allow update: if request.auth != null && (
+          request.auth.uid == uid ||
+          (request.auth.uid == otherUid
+            && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['matched'])
+            && request.resource.data.matched == true
+            && resource.data.matched != true)
+        );
+        allow delete: if request.auth != null && request.auth.uid == uid;
+      }
+
+      match /passes/{otherUid} {
+        allow read, write: if request.auth != null && request.auth.uid == uid;
+      }
+
+      // Match mirror docs: the liker writes both sides in one batch, so the
+      // matched user may write the doc under the other's subtree; both may
+      // read (badge count).
+      match /matches/{otherUid} {
+        allow read, write: if request.auth != null
+          && (request.auth.uid == uid || request.auth.uid == otherUid);
+      }
+
+      // Notification inbox: any signed-in user may write (like / comment /
+      // follow / view teasers); only the owner reads, marks read, deletes.
+      match /notifications/{notifId} {
+        allow read: if request.auth != null && request.auth.uid == uid;
+        allow create: if request.auth != null;
+        allow update: if request.auth != null && request.auth.uid == uid;
+        allow delete: if request.auth != null && request.auth.uid == uid;
+      }
+
+      // View-throttle bookkeeping: owner only.
+      match /viewsGiven/{otherUid} {
+        allow read, write: if request.auth != null && request.auth.uid == uid;
+      }
+
+      // Social graph: follow writes both sides in one batch; unfollow
+      // deletes both.
+      match /following/{otherUid} {
+        allow read, write: if request.auth != null && request.auth.uid == uid;
+      }
+      match /followers/{followerUid} {
+        allow read: if request.auth != null && request.auth.uid == uid;
+        allow create, delete: if request.auth != null
+          && (request.auth.uid == uid || request.auth.uid == followerUid);
+      }
+    }
+
+    // Feed posts: readable by signed-in users; authors can edit/delete.
+    // Other users may only bump likes/likedBy/commentCount (transactional
+    // counters); all other fields stay author-only.
+    match /posts/{postId} {
+      allow read: if request.auth != null;
+      allow create: if request.auth != null
+        && request.resource.data.uid == request.auth.uid;
+      allow update: if request.auth != null && (
+        resource.data.uid == request.auth.uid ||
+        (
+          request.resource.data.diff(resource.data)
+            .affectedKeys().hasOnly(['likes', 'likedBy', 'commentCount'])
+          && request.resource.data.uid == resource.data.uid
+        )
+      );
+      allow delete: if request.auth != null
+        && (resource.data.uid == request.auth.uid || isAdmin());
+
+      match /comments/{commentId} {
+        allow read: if request.auth != null;
+        allow create: if request.auth != null
+          && request.resource.data.uid == request.auth.uid;
+      }
+    }
+
+    // Matches: readable/creatable by the two matched users.
+    match /matches/{matchId} {
+      allow read: if request.auth != null
+        && request.auth.uid in resource.data.users;
+      allow create, update: if request.auth != null
+        && request.auth.uid in request.resource.data.users;
+    }
+
+    // Quest memories: 'public' memories readable by any signed-in user;
+    // 'only_me' memories only by their owner. Authors write their own.
+    match /memories/{memoryId} {
+      allow read: if request.auth != null && (
+        resource.data.privacy == 'public'
+        || resource.data.uid == request.auth.uid
+        || isAdmin());
+      allow create: if request.auth != null
+        && request.resource.data.uid == request.auth.uid;
+      allow update, delete: if request.auth != null && (
+        resource.data.uid == request.auth.uid || isAdmin());
+    }
+
+    // Stories (24h, expiry filtered client-side): signed-in read; owners write.
+    match /stories/{storyId} {
+      allow read: if request.auth != null;
+      allow create: if request.auth != null
+        && request.resource.data.uid == request.auth.uid;
+      allow delete: if request.auth != null && (
+        resource.data.uid == request.auth.uid || isAdmin());
+    }
+
+    // Travel invitations: public read; authors create; any signed-in user
+    // may toggle interest (interestedUids only — the client only ever
+    // adds/removes its own uid).
+    match /invitations/{invId} {
+      allow read: if request.auth != null;
+      allow create: if request.auth != null
+        && request.resource.data.uid == request.auth.uid;
+      allow update: if request.auth != null && (
+        resource.data.uid == request.auth.uid
+        || request.resource.data.diff(resource.data)
+          .affectedKeys().hasOnly(['interestedUids']));
+      allow delete: if request.auth != null && (
+        resource.data.uid == request.auth.uid || isAdmin());
+    }
+
+    // Invitation geo-alerts (Cloud-Function-free fan-out): signed-in users
+    // read; anyone signed in may post one for their own invitation.
+    match /invitation_alerts/{alertId} {
+      allow read: if request.auth != null;
+      allow create: if request.auth != null;
+      allow delete: if request.auth != null
+        && resource.data.uid == request.auth.uid;
+    }
+
+    // Conversations + messages: members only.
+    function isMember(convId) {
+      return request.auth != null
+        && request.auth.uid in get(
+          /databases/$(database)/documents/conversations/$(convId)
+        ).data.memberIds;
+    }
+
+    match /conversations/{convId} {
+      allow read, update: if request.auth != null
+        && request.auth.uid in resource.data.memberIds;
+      allow create: if request.auth != null
+        && request.auth.uid in request.resource.data.memberIds;
+
+      match /messages/{msgId} {
+        allow read: if isMember(convId);
+        allow create: if isMember(convId)
+          && request.resource.data.senderId == request.auth.uid;
+      }
+    }
+
+    // Admin check via custom claim (set with Firebase Admin SDK).
+    function isAdmin() {
+      return request.auth != null
+        && request.auth.token.admin == true;
+    }
+
+    // ---- Monetization collections ----
+    // Deploy + test these rules in the Firestore emulator before production.
+    // Policy: GoTRVL PH never holds user balances or moves money between
+    // users (see MONETIZATION_POLICY.md). Bookings and payouts always go
+    // through external authorized providers.
+
+    // Business listings: public read of APPROVED docs only; owners and
+    // admins can also read their own pending/rejected docs (the "My
+    // listings" screen depends on this). Owners create (forced to pending)
+    // and edit their own; admin moderates/deletes. Owners can never change
+    // `status` or `ownerUid` themselves: self-approval is an admin action.
+    // Paid perks (`isFeatured`, `tier`, `isQuestStop`, `questPlaceId`,
+    // `featuredUntil`) are set only by the two narrow post-purchase upgrade
+    // paths below — never by ordinary edits.
+    match /businesses/{bizId} {
+      allow read: if resource.data.status == 'approved'
+        || isAdmin()
+        || (request.auth != null
+          && resource.data.ownerUid == request.auth.uid);
+      allow create: if request.auth != null
+        && request.resource.data.ownerUid == request.auth.uid
+        && request.resource.data.status == 'pending'
+        && request.resource.data.tier == 'free'
+        && request.resource.data.isFeatured == false
+        && request.resource.data.isQuestStop == false
+        && request.resource.data.featuredUntil == null;
+      allow update: if request.auth != null && (
+        isAdmin() || (
+          resource.data.ownerUid == request.auth.uid
+          && !request.resource.data.diff(resource.data)
+            .affectedKeys().hasAny(['status', 'ownerUid', 'createdAt'])
+          && (
+            // 1. Ordinary edits never touch paid perks.
+            !request.resource.data.diff(resource.data).affectedKeys()
+              .hasAny(['isFeatured', 'tier', 'isQuestStop', 'questPlaceId',
+                       'featuredUntil'])
+            // 2. Business-premium upgrade after a verified store purchase
+            //    (verified client-side today; server-side purchase
+            //    verification via the Play/Apple APIs is recommended
+            //    before scaling).
+            || (
+              resource.data.tier == 'free'
+              && request.resource.data.tier == 'premium'
+              && request.resource.data.isQuestStop == true
+              && request.resource.data.diff(resource.data)
+                .affectedKeys().hasOnly(
+                  ['tier', 'isQuestStop', 'questPlaceId', 'featuredUntil'])
+            )
+            // 3. Featured-listing purchase (pins the listing on top until
+            //    featuredUntil).
+            || (
+              request.resource.data.isFeatured == true
+              && request.resource.data.featuredUntil is timestamp
+              && request.resource.data.featuredUntil > request.time
+              && request.resource.data.diff(resource.data)
+                .affectedKeys().hasOnly(['isFeatured', 'featuredUntil'])
+            )
+          )
+        )
+      );
+      allow delete: if isAdmin();
+    }
+
+    // Live streams: public read; creators own their stream docs; chat is
+    // public-read, authenticated-write. No money or gifts move through chat.
+    match /live_streams/{streamId} {
+      allow read: if true;
+      allow create: if request.auth != null
+        && request.resource.data.creatorUid == request.auth.uid;
+      allow update: if request.auth != null && (
+        resource.data.creatorUid == request.auth.uid || isAdmin()
+      );
+      allow delete: if isAdmin();
+
+      match /chat/{msgId} {
+        allow read: if true;
+        allow create: if request.auth != null
+          && request.resource.data.senderUid == request.auth.uid;
+      }
+    }
+
+    // ---- Admin collections ----
+    // Deploy + test these rules in the Firestore emulator before production.
+    // The admin role is a Firebase Auth custom claim ({admin: true}) set via
+    // the Admin SDK (tools/make_admin.js). Client-side checks are never
+    // trusted; every admin power below is enforced here, server-side.
+
+    // Moderation reports: any signed-in user may file one; only admins triage.
+    match /reports/{reportId} {
+      allow create: if request.auth != null
+        && request.resource.data.reporterUid == request.auth.uid;
+      allow read, update, delete: if isAdmin();
+    }
+
+    // Announcements: public read; admin-only write.
+    match /announcements/{annId} {
+      allow read: if true;
+      allow create, update, delete: if isAdmin();
+    }
+
+    // Remote feature flags (Admin Dashboard → Settings): public read so the
+    // app can apply them without a new build; admin-only write.
+    match /app_config/{docId} {
+      allow read: if true;
+      allow create, update, delete: if isAdmin();
+    }
+
+    // Revenue ledger (reserved for a future Cloud Function): admin only.
+    // GoTRVL PH never holds user balances; see MONETIZATION_POLICY.md.
+    match /revenue_events/{eventId} {
+      allow read, write: if isAdmin();
+    }
+  }
+}

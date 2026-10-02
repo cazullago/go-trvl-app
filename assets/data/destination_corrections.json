@@ -1,0 +1,1074 @@
+[
+ {
+  "file": "destinations_visayas.json",
+  "destId": "boracay",
+  "field": "centerLng",
+  "oldValue": 126.232,
+  "newValue": 121.9204,
+  "source": "map.geocode: Boracay Island, Malay, Aklan -> 11.96842, 121.92044 (FULL_ADDRESS, relevance 100)"
+ },
+ {
+  "file": "destinations_luzon.json",
+  "destId": "batangas",
+  "field": "lat",
+  "oldValue": 13.7157,
+  "newValue": 13.6422,
+  "source": "en.wikipedia.org/wiki/Mother_of_All_Asia–Tower_of_Peace (13°38′32″N 121°02′36″E = 13.6422, 121.0433), Brgy. Pagkilatan, Batangas City; map.geocode FULL_ADDRESS relevance 100",
+  "placeId": "batangas-monte-maria"
+ },
+ {
+  "file": "destinations_luzon.json",
+  "destId": "tagaytay",
+  "field": "lat",
+  "oldValue": 14.127,
+  "newValue": 14.1414,
+  "source": "en.wikipedia.org/wiki/People's_Park_in_the_Sky (14°8′29″N 121°1′19″E = 14.14139, 121.02194), Mt. Sungay; map.geocode relevance 99",
+  "placeId": "tagaytay-peoples-park"
+ },
+ {
+  "file": "destinations_luzon.json",
+  "destId": "tagaytay",
+  "field": "lng",
+  "oldValue": 120.955,
+  "newValue": 121.0219,
+  "source": "en.wikipedia.org/wiki/People's_Park_in_the_Sky (14°8′29″N 121°1′19″E = 14.14139, 121.02194), Mt. Sungay; map.geocode relevance 99",
+  "placeId": "tagaytay-peoples-park"
+ },
+ {
+  "file": "destinations_new_1.json",
+  "destId": "baler",
+  "field": "lat",
+  "oldValue": 15.7931,
+  "newValue": 15.7383,
+  "source": "map.geocode FULL_ADDRESS match relevance 100, district Zabali; vigattintourism.com (Brgy. Zabali, Baler)",
+  "placeId": "baler-dicasalarin-cove"
+ },
+ {
+  "file": "destinations_new_1.json",
+  "destId": "baler",
+  "field": "lng",
+  "oldValue": 121.6034,
+  "newValue": 121.6335,
+  "source": "map.geocode FULL_ADDRESS match relevance 100, district Zabali; vigattintourism.com (Brgy. Zabali, Baler)",
+  "placeId": "baler-dicasalarin-cove"
+ },
+ {
+  "file": "destinations_new_1.json",
+  "destId": "baler",
+  "field": "area",
+  "oldValue": "Dicaloyungan",
+  "newValue": "Zabali",
+  "source": "map.geocode district Zabali; vigattintourism.com (Brgy. Zabali, Baler)",
+  "placeId": "baler-dicasalarin-cove"
+ },
+ {
+  "file": "destinations_new_1.json",
+  "destId": "baler",
+  "field": "lat",
+  "oldValue": 15.8214,
+  "newValue": 15.6749,
+  "source": "meta.ai place listing (15.674893, 121.477161); philatlas.com barangay Ditumabo, San Luis, Aurora (15.6584, 121.4644)",
+  "placeId": "baler-ditumabo-mother-falls"
+ },
+ {
+  "file": "destinations_new_1.json",
+  "destId": "baler",
+  "field": "lng",
+  "oldValue": 121.4941,
+  "newValue": 121.4772,
+  "source": "meta.ai place listing (15.674893, 121.477161); philatlas.com barangay Ditumabo, San Luis, Aurora (15.6584, 121.4644)",
+  "placeId": "baler-ditumabo-mother-falls"
+ },
+ {
+  "file": "destinations_new_1.json",
+  "destId": "hundred-islands",
+  "field": "lng",
+  "oldValue": 119.9379,
+  "newValue": 120.0384,
+  "source": "mapcarta.com Governor's Island page (16.2049, 120.03838)",
+  "placeId": "hundred-islands-governors-island"
+ },
+ {
+  "file": "destinations_new_1.json",
+  "destId": "hundred-islands",
+  "field": "lng",
+  "oldValue": 119.9356,
+  "newValue": 120.0031,
+  "source": "map.geocode FULL_ADDRESS match relevance 100, district Lucap, Alaminos (16.19246, 120.00311)",
+  "placeId": "hundred-islands-childrens-island"
+ },
+ {
+  "file": "destinations_new_1.json",
+  "destId": "hundred-islands",
+  "field": "lat",
+  "oldValue": 16.1967,
+  "newValue": 16.2196,
+  "source": "mapcarta.com 'Marcos Island Guest House' page — guest house located on Marcos Island (16.21956, 120.05103)",
+  "placeId": "hundred-islands-marcos-island"
+ },
+ {
+  "file": "destinations_new_1.json",
+  "destId": "hundred-islands",
+  "field": "lng",
+  "oldValue": 119.9412,
+  "newValue": 120.051,
+  "source": "mapcarta.com 'Marcos Island Guest House' page — guest house located on Marcos Island (16.21956, 120.05103)",
+  "placeId": "hundred-islands-marcos-island"
+ },
+ {
+  "file": "destinations_new_1.json",
+  "destId": "hundred-islands",
+  "field": "lat",
+  "oldValue": 16.2028,
+  "newValue": 16.2224,
+  "source": "mapcarta.com Quezon Island page (16.22238, 120.04707), https://mapcarta.com/29294038",
+  "placeId": "hundred-islands-quezon-island"
+ },
+ {
+  "file": "destinations_new_1.json",
+  "destId": "hundred-islands",
+  "field": "lng",
+  "oldValue": 119.9289,
+  "newValue": 120.0471,
+  "source": "mapcarta.com Quezon Island page (16.22238, 120.04707), https://mapcarta.com/29294038",
+  "placeId": "hundred-islands-quezon-island"
+ },
+ {
+  "file": "destinations_new_1.json",
+  "destId": "banaue",
+  "field": "lat",
+  "oldValue": 16.8972,
+  "newValue": 16.9096,
+  "source": "philatlas.com/luzon/car/ifugao/banaue/bangaan.html — barangay Bangaan profile",
+  "placeId": "banaue-bangaan-village"
+ },
+ {
+  "file": "destinations_new_1.json",
+  "destId": "banaue",
+  "field": "lng",
+  "oldValue": 121.0756,
+  "newValue": 121.1304,
+  "source": "philatlas.com/luzon/car/ifugao/banaue/bangaan.html — barangay Bangaan profile",
+  "placeId": "banaue-bangaan-village"
+ },
+ {
+  "file": "destinations_luzon.json",
+  "destId": "batangas",
+  "field": "description",
+  "oldValue": "Gateway to Anilao's dive sites and Laiya's white sands — Batangas mixes beach weekends, volcano treks, and bold barako coffee culture.",
+  "newValue": "Gateway to Anilao's dive sites and Laiya's white sands — Batangas mixes beach weekends, Taal Volcano views from the Tagaytay ridge, and bold barako coffee culture.",
+  "source": "pna.gov.ph/articles/1203576, /1248252, /1091040 — entry to Taal Volcano Island prohibited; permanent danger zone since the Jan 2020 eruption"
+ },
+ {
+  "file": "destinations_luzon.json",
+  "destId": "batangas",
+  "field": "description",
+  "oldValue": "The world's smallest active volcano — trek up for crater-lake views.",
+  "newValue": "The world's smallest active volcano — best viewed from the Tagaytay ridge or by boat on Taal Lake; the island itself is a permanent danger zone and off-limits to visitors.",
+  "source": "pna.gov.ph/articles/1203576, /1248252, /1091040 — entry to Taal Volcano Island prohibited; permanent danger zone since the Jan 2020 eruption",
+  "placeId": "batangas-taal-volcano"
+ },
+ {
+  "file": "destinations_luzon.json",
+  "destId": "batangas",
+  "field": "description",
+  "oldValue": "Boat across Taal Lake then hike to the crater rim viewpoint.",
+  "newValue": "Taal Lake boat tours offer crater views from the water — landing on the volcano island has been prohibited since the 2020 eruption.",
+  "source": "pna.gov.ph/articles/1203576, /1248252, /1091040 — entry to Taal Volcano Island prohibited; permanent danger zone since the Jan 2020 eruption",
+  "placeId": "batangas-taal-trek"
+ },
+ {
+  "file": "destinations_luzon.json",
+  "destId": "manila",
+  "field": "heroPhotoCandidate",
+  "oldValue": null,
+  "newValue": "https://commons.wikimedia.org/wiki/File:Dusk_Along_the_Walls_of_Intramuros.jpg",
+  "source": "commons file page verified; direct upload URL unverified (403)"
+ },
+ {
+  "file": "destinations_luzon.json",
+  "destId": "baguio",
+  "field": "heroPhotoCandidate",
+  "oldValue": null,
+  "newValue": "https://commons.wikimedia.org/wiki/File:Burnham_Park_Lake_Philippines.jpeg",
+  "source": "commons file page verified; direct upload URL unverified (403)"
+ },
+ {
+  "file": "destinations_luzon.json",
+  "destId": "tagaytay",
+  "field": "heroPhotoCandidate",
+  "oldValue": null,
+  "newValue": "https://commons.wikimedia.org/wiki/File:Panoramic_Shot_of_Taal_Volcano.jpg",
+  "source": "commons file page verified; direct upload URL unverified (403)"
+ },
+ {
+  "file": "destinations_luzon.json",
+  "destId": "ilocos-norte",
+  "field": "heroPhotoCandidate",
+  "oldValue": null,
+  "newValue": "https://commons.wikimedia.org/wiki/File:KIRKAMON_BANGUI_WINDMILLS.jpg",
+  "source": "file existence confirmed via Commons upload thumbnail locator (upload.wikimedia.org/wikipedia/commons/thumb/5/52/KIRKAMON_BANGUI_WINDMILLS.jpg returned by image search); commons file-page fetch returned 403"
+ },
+ {
+  "file": "destinations_new_1.json",
+  "destId": "vigan",
+  "field": "heroPhotoCandidate",
+  "oldValue": null,
+  "newValue": "https://commons.wikimedia.org/wiki/File:Calle_Crisologo,_Vigan,_Philippines_(50025182191).jpg",
+  "source": "commons file page verified; direct upload URL unverified (403)"
+ },
+ {
+  "file": "destinations_new_1.json",
+  "destId": "sagada",
+  "field": "heroPhotoCandidate",
+  "oldValue": null,
+  "newValue": "https://commons.wikimedia.org/wiki/File:Hanging_Coffins_of_Sagada.jpg",
+  "source": "commons file page verified via Commons Category:Sagada listing (4167x2768, 8.13 MB); direct upload URL unverified (403)"
+ },
+ {
+  "file": "destinations_new_1.json",
+  "destId": "banaue",
+  "field": "heroPhotoCandidate",
+  "oldValue": null,
+  "newValue": "https://commons.wikimedia.org/wiki/File:Banaue_Philippines_Banaue-Rice-Terraces-01.jpg",
+  "source": "commons file page verified (beta-Wikipedia file page gave the canonical Commons URL verbatim); direct upload URL unverified (403)"
+ },
+ {
+  "file": "destinations_new_1.json",
+  "destId": "hundred-islands",
+  "field": "heroPhotoCandidate",
+  "oldValue": null,
+  "newValue": "https://commons.wikimedia.org/wiki/File:Pangasinan_Hundred_Islands.jpg",
+  "source": "file existence confirmed via Commons upload thumbnail locator (upload.wikimedia.org/wikipedia/commons/thumb/1/16/Pangasinan_Hundred_Islands.jpg returned by image search); commons file-page fetch returned 403"
+ },
+ {
+  "destId": "san-juan-la-union",
+  "field": "lat",
+  "file": "destinations_new_1.json",
+  "newValue": 16.6442,
+  "oldValue": 16.5512,
+  "placeId": "san-juan-la-union-tangadan-falls",
+  "source": "map.geocode 'Tangadan Falls, San Gabriel, La Union, Philippines' — relevance 100, FULL_ADDRESS; stored point was ~11km from actual falls"
+ },
+ {
+  "destId": "san-juan-la-union",
+  "field": "lng",
+  "file": "destinations_new_1.json",
+  "newValue": 120.44853,
+  "oldValue": 120.4108,
+  "placeId": "san-juan-la-union-tangadan-falls",
+  "source": "map.geocode 'Tangadan Falls, San Gabriel, La Union, Philippines' — relevance 100, FULL_ADDRESS; stored point was ~11km from actual falls"
+ },
+ {
+  "destId": "puerto-princesa",
+  "field": "lat",
+  "file": "destinations_new_1.json",
+  "newValue": 9.8077,
+  "oldValue": 9.7668,
+  "placeId": "puerto-princesa-bakers-hill",
+  "source": "map.geocode \"Baker's Hill, Puerto Princesa, Palawan, Philippines\" — relevance 100; stored point was ~5.2km from actual site"
+ },
+ {
+  "destId": "puerto-princesa",
+  "field": "lng",
+  "file": "destinations_new_1.json",
+  "newValue": 118.73416,
+  "oldValue": 118.7571,
+  "placeId": "puerto-princesa-bakers-hill",
+  "source": "map.geocode \"Baker's Hill, Puerto Princesa, Palawan, Philippines\" — relevance 100; stored point was ~5.2km from actual site"
+ },
+ {
+  "destId": "guimaras",
+  "field": "lat",
+  "file": "destinations_new_2.json",
+  "newValue": 10.4825,
+  "oldValue": 10.448,
+  "placeId": "guimaras-guisi-lighthouse",
+  "source": "map.geocode 'Guisi Lighthouse, Nueva Valencia, Guimaras, Philippines' — relevance 100; stored point was ~17km from actual lighthouse (confirmed against MapCarta 10.48137,122.47449)"
+ },
+ {
+  "destId": "guimaras",
+  "field": "lng",
+  "file": "destinations_new_2.json",
+  "newValue": 122.47592,
+  "oldValue": 122.628,
+  "placeId": "guimaras-guisi-lighthouse",
+  "source": "map.geocode 'Guisi Lighthouse, Nueva Valencia, Guimaras, Philippines' — relevance 100; stored point was ~17km from actual lighthouse (confirmed against MapCarta 10.48137,122.47449)"
+ },
+ {
+  "destId": "caramoan",
+  "field": "lat",
+  "file": "destinations_new_1.json",
+  "newValue": 13.80239,
+  "oldValue": 13.6978,
+  "placeId": "caramoan-gota-beach",
+  "source": "map.geocode 'Gota Beach / Gota Village Resort, Caramoan, Camarines Sur, Philippines' — relevance 100, FULL_ADDRESS 'Gota Village Resort'; corroborated by map.geocode 'Paniman, Caramoan' at (13.8107,123.87683) relevance 100 and OSM/MapCarta island cluster at ~13.81N. Stored point was ~11.6km south of the real Gota/Paniman area."
+ },
+ {
+  "destId": "caramoan",
+  "field": "lng",
+  "file": "destinations_new_1.json",
+  "newValue": 123.87777,
+  "oldValue": 123.8831,
+  "placeId": "caramoan-gota-beach",
+  "source": "map.geocode 'Gota Beach / Gota Village Resort, Caramoan, Camarines Sur, Philippines' — relevance 100, FULL_ADDRESS 'Gota Village Resort'; corroborated by map.geocode 'Paniman, Caramoan' at (13.8107,123.87683) relevance 100 and OSM/MapCarta island cluster at ~13.81N. Stored point was ~11.6km south of the real Gota/Paniman area."
+ },
+ {
+  "destId": "caramoan",
+  "field": "lat",
+  "file": "destinations_new_1.json",
+  "newValue": 13.80239,
+  "oldValue": 13.6975,
+  "placeId": "caramoan-gota-village",
+  "source": "map.geocode 'Gota Village Resort, Caramoan, Camarines Sur, Philippines' — relevance 100, FULL_ADDRESS; this place IS the geocoded entity. Stored point was ~11.6km south of actual resort."
+ },
+ {
+  "destId": "caramoan",
+  "field": "lng",
+  "file": "destinations_new_1.json",
+  "newValue": 123.87777,
+  "oldValue": 123.8828,
+  "placeId": "caramoan-gota-village",
+  "source": "map.geocode 'Gota Village Resort, Caramoan, Camarines Sur, Philippines' — relevance 100, FULL_ADDRESS; this place IS the geocoded entity. Stored point was ~11.6km south of actual resort."
+ },
+ {
+  "destId": "caramoan",
+  "field": "lat",
+  "file": "destinations_new_1.json",
+  "newValue": 13.80239,
+  "oldValue": 13.6975,
+  "placeId": "caramoan-gota-village-restaurant",
+  "source": "map.geocode 'Gota Village Resort, Caramoan' — relevance 100, FULL_ADDRESS; restaurant is inside the resort, same coordinates apply. Stored point was ~11.6km south."
+ },
+ {
+  "destId": "caramoan",
+  "field": "lng",
+  "file": "destinations_new_1.json",
+  "newValue": 123.87777,
+  "oldValue": 123.8828,
+  "placeId": "caramoan-gota-village-restaurant",
+  "source": "map.geocode 'Gota Village Resort, Caramoan' — relevance 100, FULL_ADDRESS; restaurant is inside the resort, same coordinates apply. Stored point was ~11.6km south."
+ },
+ {
+  "destId": "caramoan",
+  "field": "lat",
+  "file": "destinations_new_1.json",
+  "newValue": 13.80239,
+  "oldValue": 13.6978,
+  "placeId": "caramoan-island-hopping",
+  "source": "map.geocode 'Gota Village Resort, Caramoan' — relevance 100; island-hopping tour departs from Paniman Beach at Gota, the geocoded jump-off point. Stored point was ~11.6km south."
+ },
+ {
+  "destId": "caramoan",
+  "field": "lng",
+  "file": "destinations_new_1.json",
+  "newValue": 123.87777,
+  "oldValue": 123.8831,
+  "placeId": "caramoan-island-hopping",
+  "source": "map.geocode 'Gota Village Resort, Caramoan' — relevance 100; island-hopping tour departs from Paniman Beach at Gota, the geocoded jump-off point. Stored point was ~11.6km south."
+ },
+ {
+  "destId": "legazpi",
+  "field": "heroPhotoCandidate",
+  "file": "destinations_new_1.json",
+  "newValue": "https://commons.wikimedia.org/wiki/File:Mayon_Volcano_&_Cagsawa_Church,_Daraga,_Albay,_Dec_2025_(2).jpg",
+  "oldValue": null,
+  "source": "commons file page verified; direct upload URL unverified (403). Mayon Volcano + Cagsawa Church, Dec 2025, 4080x3072."
+ },
+ {
+  "destId": "donsol",
+  "field": "heroPhotoCandidate",
+  "file": "destinations_new_1.json",
+  "newValue": "https://commons.wikimedia.org/wiki/File:Butanding_Interaction_Officer_looking_for_whale_shark_shadows..JPG",
+  "oldValue": null,
+  "source": "commons file page verified; direct upload URL unverified (403). Used on en.wikivoyage Donsol page. NOTE: shows the Butanding Interaction Officer scanning for whale shark shadows, not a whale shark itself — weak hero, use only if no better option."
+ },
+ {
+  "destId": "el-nido",
+  "field": "heroPhotoCandidate",
+  "file": "destinations_luzon.json",
+  "newValue": "https://commons.wikimedia.org/wiki/File:El_Nido_Palawan_Big_Lagoon.jpg",
+  "oldValue": null,
+  "source": "Existence confirmed via en.wikivoyage file page (global usage on en.wikipedia 'El Nido, Palawan'); commons file page itself returned 403; direct upload URL unverified (403). Big Lagoon, Miniloc Island, 3888x2592."
+ },
+ {
+  "destId": "puerto-princesa",
+  "field": "heroPhotoCandidate",
+  "file": "destinations_new_1.json",
+  "newValue": "https://commons.wikimedia.org/wiki/File:Puerto_Princesa_Subterranean_Park,_limestone_formations,_Palawan,_Philippines.jpg",
+  "oldValue": null,
+  "source": "commons file page verified; direct upload URL unverified (403). Underground River limestone formations, used on en.wikipedia Palawan (island), 4000x2667."
+ },
+ {
+  "destId": "boracay",
+  "field": "heroPhotoCandidate",
+  "file": "destinations_visayas.json",
+  "newValue": "https://commons.wikimedia.org/wiki/File:Beach_of_Boracay.JPG",
+  "oldValue": null,
+  "source": "commons file page verified; direct upload URL unverified (403). Sunset at Boracay beaches, 4000x3000, GPS-tagged 11°57′35″N 121°55′30″E."
+ },
+ {
+  "destId": "guimaras",
+  "field": "heroPhotoCandidate",
+  "file": "destinations_new_2.json",
+  "newValue": "https://commons.wikimedia.org/wiki/File:Guisi_Beach,_Tahi_Beach_Resort_(Nueva_Valencia,_Guimaras;_01-25-2023).jpg",
+  "oldValue": null,
+  "source": "commons file page verified; direct upload URL unverified (403). Guisi Beach, Nueva Valencia, Jan 2023, 3552x2664."
+ },
+ {
+  "destId": "dumaguete",
+  "field": "centerLat",
+  "file": "destinations_visayas.json",
+  "newValue": 9.316,
+  "oldValue": 10.3111,
+  "source": "geocode"
+ },
+ {
+  "destId": "dumaguete",
+  "field": "centerLng",
+  "file": "destinations_visayas.json",
+  "newValue": 123.30221,
+  "oldValue": 123.5185,
+  "source": "geocode"
+ },
+ {
+  "destId": "bohol",
+  "field": "centerLat",
+  "file": "destinations_visayas.json",
+  "newValue": 9.66813,
+  "oldValue": 9.5678,
+  "source": "geocode"
+ },
+ {
+  "destId": "bohol",
+  "field": "centerLng",
+  "file": "destinations_visayas.json",
+  "newValue": 123.87033,
+  "oldValue": 123.7474,
+  "source": "geocode"
+ },
+ {
+  "destId": "cebu",
+  "field": "lat",
+  "file": "destinations_visayas.json",
+  "newValue": 9.4636,
+  "oldValue": 9.8086,
+  "placeId": "cebu-oslob-whale",
+  "source": "geocode"
+ },
+ {
+  "destId": "cebu",
+  "field": "lng",
+  "file": "destinations_visayas.json",
+  "newValue": 123.37918,
+  "oldValue": 123.3745,
+  "placeId": "cebu-oslob-whale",
+  "source": "geocode"
+ },
+ {
+  "destId": "bohol",
+  "field": "lat",
+  "file": "destinations_visayas.json",
+  "newValue": 9.69084,
+  "oldValue": 9.6515,
+  "placeId": "bohol-tarsier",
+  "source": "geocode"
+ },
+ {
+  "destId": "bohol",
+  "field": "lng",
+  "file": "destinations_visayas.json",
+  "newValue": 123.95263,
+  "oldValue": 123.9289,
+  "placeId": "bohol-tarsier",
+  "source": "geocode"
+ },
+ {
+  "destId": "siquijor",
+  "field": "lat",
+  "file": "destinations_visayas.json",
+  "newValue": 9.14016,
+  "oldValue": 9.186,
+  "placeId": "siquijor-cambugahay",
+  "source": "geocode"
+ },
+ {
+  "destId": "siquijor",
+  "field": "lng",
+  "file": "destinations_visayas.json",
+  "newValue": 123.62641,
+  "oldValue": 123.617,
+  "placeId": "siquijor-cambugahay",
+  "source": "geocode"
+ },
+ {
+  "destId": "siquijor",
+  "field": "lat",
+  "file": "destinations_visayas.json",
+  "newValue": 9.2127,
+  "oldValue": 9.228,
+  "placeId": "siquijor-salagdoong",
+  "source": "geocode"
+ },
+ {
+  "destId": "siquijor",
+  "field": "lng",
+  "file": "destinations_visayas.json",
+  "newValue": 123.68112,
+  "oldValue": 123.568,
+  "placeId": "siquijor-salagdoong",
+  "source": "geocode"
+ },
+ {
+  "destId": "siquijor",
+  "field": "lat",
+  "file": "destinations_visayas.json",
+  "newValue": 9.2127,
+  "oldValue": 9.228,
+  "placeId": "siquijor-cliff-jump",
+  "source": "geocode"
+ },
+ {
+  "destId": "siquijor",
+  "field": "lng",
+  "file": "destinations_visayas.json",
+  "newValue": 123.68112,
+  "oldValue": 123.568,
+  "placeId": "siquijor-cliff-jump",
+  "source": "geocode"
+ },
+ {
+  "destId": "siquijor",
+  "field": "lat",
+  "file": "destinations_visayas.json",
+  "newValue": 9.12705,
+  "oldValue": 9.208,
+  "placeId": "siquijor-lazi-church",
+  "source": "geocode"
+ },
+ {
+  "destId": "siquijor",
+  "field": "lng",
+  "file": "destinations_visayas.json",
+  "newValue": 123.63328,
+  "oldValue": 123.634,
+  "placeId": "siquijor-lazi-church",
+  "source": "geocode"
+ },
+ {
+  "destId": "dumaguete",
+  "field": "lat",
+  "file": "destinations_visayas.json",
+  "newValue": 9.31011,
+  "oldValue": 10.308,
+  "placeId": "dumaguete-rizal-blvd",
+  "source": "geocode"
+ },
+ {
+  "destId": "dumaguete",
+  "field": "lng",
+  "file": "destinations_visayas.json",
+  "newValue": 123.30933,
+  "oldValue": 123.523,
+  "placeId": "dumaguete-rizal-blvd",
+  "source": "geocode"
+ },
+ {
+  "destId": "dumaguete",
+  "field": "lat",
+  "file": "destinations_visayas.json",
+  "newValue": 9.3134,
+  "oldValue": 10.309,
+  "placeId": "dumaguete-silliman",
+  "source": "geocode"
+ },
+ {
+  "destId": "dumaguete",
+  "field": "lng",
+  "file": "destinations_visayas.json",
+  "newValue": 123.30563,
+  "oldValue": 123.511,
+  "placeId": "dumaguete-silliman",
+  "source": "geocode"
+ },
+ {
+  "destId": "dumaguete",
+  "field": "lat",
+  "file": "destinations_visayas.json",
+  "newValue": 9.32127,
+  "oldValue": 10.352,
+  "placeId": "dumaguete-pulangbato",
+  "source": "Mapcarta"
+ },
+ {
+  "destId": "dumaguete",
+  "field": "lng",
+  "file": "destinations_visayas.json",
+  "newValue": 123.19348,
+  "oldValue": 123.508,
+  "placeId": "dumaguete-pulangbato",
+  "source": "Mapcarta"
+ },
+ {
+  "destId": "dumaguete",
+  "field": "lat",
+  "file": "destinations_visayas.json",
+  "newValue": 9.311714,
+  "oldValue": 10.34,
+  "placeId": "dumaguete-tierra-alta",
+  "source": "tierraaltaresort.com"
+ },
+ {
+  "destId": "dumaguete",
+  "field": "lng",
+  "file": "destinations_visayas.json",
+  "newValue": 123.237253,
+  "oldValue": 123.495,
+  "placeId": "dumaguete-tierra-alta",
+  "source": "tierraaltaresort.com"
+ },
+ {
+  "destId": "davao",
+  "field": "heroPhotoCandidate",
+  "file": "destinations_mindanao.json",
+  "newValue": "https://commons.wikimedia.org/wiki/File:Davao_MacArthur_Highway-Crossing_Bayabas_SB,_Mount_Apo_drone_(Davao_City;_03-23-2026).jpg",
+  "oldValue": "",
+  "source": "commons file page verified; direct upload URL unverified (403)"
+ },
+ {
+  "destId": "cagayan-de-oro",
+  "field": "heroPhotoCandidate",
+  "file": "destinations_mindanao.json",
+  "newValue": "https://commons.wikimedia.org/wiki/File:CDO_Poblacion,_A._Velez_Street-Plaza_Divisoria,_CDO_River,_Carmen_drone_(Cagayan_De_Oro_City;_03-19-2026).jpg",
+  "oldValue": "",
+  "source": "commons file page verified; direct upload URL unverified (403)"
+ },
+ {
+  "destId": "lake-sebu",
+  "field": "heroPhotoCandidate",
+  "file": "destinations_new_2.json",
+  "newValue": "https://commons.wikimedia.org/wiki/File:Lake_Sebu.JPG",
+  "oldValue": "",
+  "source": "commons file page verified; direct upload URL unverified (403)"
+ },
+ {
+  "destId": "bislig",
+  "field": "heroPhotoCandidate",
+  "file": "destinations_new_2.json",
+  "newValue": "https://commons.wikimedia.org/wiki/File:Tinuy-an_Falls_in_Bislig.jpg",
+  "oldValue": "",
+  "source": "file confirmed on Commons via upload.wikimedia.org media path (image-search provider); Commons file page open blocked (403), not retried; direct upload URL unverified (403)"
+ },
+ {
+  "destId": "davao",
+  "field": "centerLat",
+  "file": "destinations_mindanao.json",
+  "newValue": 7.06574,
+  "oldValue": 7.1907,
+  "source": "map.geocode; Wikipedia confirms 7.066233, 125.609442 (stored point was rural Calinan Pob., ~13 km off)"
+ },
+ {
+  "destId": "davao",
+  "field": "centerLng",
+  "file": "destinations_mindanao.json",
+  "newValue": 125.6108,
+  "oldValue": 125.4553,
+  "source": "map.geocode; Wikipedia confirms 7.066233, 125.609442 (stored point was rural Calinan Pob., ~13 km off)"
+ },
+ {
+  "destId": "davao",
+  "field": "lat",
+  "file": "destinations_mindanao.json",
+  "newValue": 7.18512,
+  "oldValue": 7.2772,
+  "placeId": "davao-philippine-eagle-center",
+  "source": "map.geocode (~12.8 km off)"
+ },
+ {
+  "destId": "davao",
+  "field": "lng",
+  "file": "destinations_mindanao.json",
+  "newValue": 125.41533,
+  "oldValue": 125.345,
+  "placeId": "davao-philippine-eagle-center",
+  "source": "map.geocode (~12.8 km off)"
+ },
+ {
+  "destId": "samal-island",
+  "field": "lat",
+  "file": "destinations_new_2.json",
+  "newValue": 7.00709,
+  "oldValue": 7.13,
+  "placeId": "samal-island-pearl-farm",
+  "source": "map.geocode (~13.8 km off)"
+ },
+ {
+  "destId": "samal-island",
+  "field": "lng",
+  "file": "destinations_new_2.json",
+  "newValue": 125.72689,
+  "oldValue": 125.71,
+  "placeId": "samal-island-pearl-farm",
+  "source": "map.geocode (~13.8 km off)"
+ },
+ {
+  "destId": "samal-island",
+  "field": "lat",
+  "file": "destinations_new_2.json",
+  "newValue": 7.16519,
+  "oldValue": 7.07,
+  "placeId": "samal-island-bat-sanctuary",
+  "source": "map.geocode (~11 km off)"
+ },
+ {
+  "destId": "samal-island",
+  "field": "lng",
+  "file": "destinations_new_2.json",
+  "newValue": 125.69197,
+  "oldValue": 125.72,
+  "placeId": "samal-island-bat-sanctuary",
+  "source": "map.geocode (~11 km off)"
+ },
+ {
+  "destId": "samal-island",
+  "field": "lat",
+  "file": "destinations_new_2.json",
+  "newValue": 7.0938,
+  "oldValue": 7.06,
+  "placeId": "samal-island-discovery-samal",
+  "source": "map.geocode (~6.1 km off)"
+ },
+ {
+  "destId": "samal-island",
+  "field": "lng",
+  "file": "destinations_new_2.json",
+  "newValue": 125.66828,
+  "oldValue": 125.712,
+  "placeId": "samal-island-discovery-samal",
+  "source": "map.geocode (~6.1 km off)"
+ },
+ {
+  "destId": "cagayan-de-oro",
+  "field": "lat",
+  "file": "destinations_mindanao.json",
+  "newValue": 8.4351,
+  "oldValue": 8.5222,
+  "placeId": "cagayan-de-oro-mapawa",
+  "source": "map.geocode (~10.6 km off)"
+ },
+ {
+  "destId": "cagayan-de-oro",
+  "field": "lng",
+  "file": "destinations_mindanao.json",
+  "newValue": 124.70349,
+  "oldValue": 124.6633,
+  "placeId": "cagayan-de-oro-mapawa",
+  "source": "map.geocode (~10.6 km off)"
+ },
+ {
+  "destId": "cagayan-de-oro",
+  "field": "lat",
+  "file": "destinations_mindanao.json",
+  "newValue": 8.51866,
+  "oldValue": 8.49,
+  "placeId": "cagayan-de-oro-seven-seas",
+  "source": "map.geocode (~8.8 km off)"
+ },
+ {
+  "destId": "cagayan-de-oro",
+  "field": "lng",
+  "file": "destinations_mindanao.json",
+  "newValue": 124.60903,
+  "oldValue": 124.6833,
+  "placeId": "cagayan-de-oro-seven-seas",
+  "source": "map.geocode (~8.8 km off)"
+ },
+ {
+  "destId": "bislig",
+  "field": "lat",
+  "file": "destinations_new_2.json",
+  "newValue": 8.45862,
+  "oldValue": 8.36,
+  "placeId": "bislig-enchanted-river",
+  "source": "map.geocode; corroborated by FB official page 8.458791,126.354752 and parking/reception pins ~8.455-8.459, 126.352-126.356"
+ },
+ {
+  "destId": "bislig",
+  "field": "lng",
+  "file": "destinations_new_2.json",
+  "newValue": 126.3547,
+  "oldValue": 126.33,
+  "placeId": "bislig-enchanted-river",
+  "source": "map.geocode; corroborated by FB official page 8.458791,126.354752 and parking/reception pins ~8.455-8.459, 126.352-126.356"
+ },
+ {
+  "destId": "bislig",
+  "field": "lat",
+  "file": "destinations_new_2.json",
+  "newValue": 8.45862,
+  "oldValue": 8.36,
+  "placeId": "bislig-enchanted-river-swim",
+  "source": "map.geocode (same attraction as bislig-enchanted-river)"
+ },
+ {
+  "destId": "bislig",
+  "field": "lng",
+  "file": "destinations_new_2.json",
+  "newValue": 126.3547,
+  "oldValue": 126.331,
+  "placeId": "bislig-enchanted-river-swim",
+  "source": "map.geocode (same attraction as bislig-enchanted-river)"
+ },
+ {
+  "destId": "zamboanga",
+  "field": "lat",
+  "file": "destinations_mindanao.json",
+  "newValue": 7.31082,
+  "oldValue": 6.9889,
+  "placeId": "zamboanga-merloquet-falls",
+  "source": "map.geocode (~36 km off); corroborated by lakwatsero.com, taraletsanywhere.com, vismin.ph: Brgy Sibulao, ~78 km/2 h east of downtown"
+ },
+ {
+  "destId": "zamboanga",
+  "field": "lng",
+  "file": "destinations_mindanao.json",
+  "newValue": 122.21365,
+  "oldValue": 122.1861,
+  "placeId": "zamboanga-merloquet-falls",
+  "source": "map.geocode (~36 km off); corroborated by lakwatsero.com, taraletsanywhere.com, vismin.ph: Brgy Sibulao, ~78 km/2 h east of downtown"
+ },
+ {
+  "destId": "zamboanga",
+  "field": "lat",
+  "file": "destinations_mindanao.json",
+  "newValue": 7.31082,
+  "oldValue": 6.9889,
+  "placeId": "zamboanga-falls-trek",
+  "source": "map.geocode (~36 km off; same attraction as zamboanga-merloquet-falls)"
+ },
+ {
+  "destId": "zamboanga",
+  "field": "lng",
+  "file": "destinations_mindanao.json",
+  "newValue": 122.21365,
+  "oldValue": 122.1861,
+  "placeId": "zamboanga-falls-trek",
+  "source": "map.geocode (~36 km off; same attraction as zamboanga-merloquet-falls)"
+ },
+ {
+  "file": "destinations_visayas.json",
+  "destId": "dumaguete",
+  "placeId": "dumaguete-rizal-sunset",
+  "field": "lat",
+  "oldValue": 10.308,
+  "newValue": 9.31011,
+  "source": "map.geocode Rizal Boulevard (same attraction as dumaguete-rizal-blvd)"
+ },
+ {
+  "file": "destinations_visayas.json",
+  "destId": "dumaguete",
+  "placeId": "dumaguete-rizal-sunset",
+  "field": "lng",
+  "oldValue": 123.523,
+  "newValue": 123.30933,
+  "source": "map.geocode Rizal Boulevard (same attraction as dumaguete-rizal-blvd)"
+ },
+ {
+  "file": "destinations_visayas.json",
+  "destId": "dumaguete",
+  "placeId": "dumaguete-hot-springs",
+  "field": "lat",
+  "oldValue": 10.343,
+  "newValue": 9.31423,
+  "source": "map.geocode 'Red Rock Hot Spring, Valencia, Negros Oriental' relevance 100"
+ },
+ {
+  "file": "destinations_visayas.json",
+  "destId": "dumaguete",
+  "placeId": "dumaguete-hot-springs",
+  "field": "lng",
+  "oldValue": 123.496,
+  "newValue": 123.19685,
+  "source": "map.geocode 'Red Rock Hot Spring, Valencia, Negros Oriental' relevance 100"
+ },
+ {
+  "file": "destinations_visayas.json",
+  "destId": "dumaguete",
+  "placeId": "dumaguete-buglasan",
+  "field": "lat",
+  "oldValue": 10.3111,
+  "newValue": 9.316,
+  "source": "event; pinned to verified Dumaguete center (9.316, 123.30221)"
+ },
+ {
+  "file": "destinations_visayas.json",
+  "destId": "dumaguete",
+  "placeId": "dumaguete-buglasan",
+  "field": "lng",
+  "oldValue": 123.5185,
+  "newValue": 123.30221,
+  "source": "event; pinned to verified Dumaguete center (9.316, 123.30221)"
+ },
+ {
+  "file": "destinations_visayas.json",
+  "destId": "dumaguete",
+  "placeId": "dumaguete-sans-rival",
+  "field": "lat",
+  "oldValue": 10.308,
+  "newValue": 9.30843,
+  "source": "map.geocode 'Sans Rival Cakes and Pastries, Dumaguete City' relevance 100"
+ },
+ {
+  "file": "destinations_visayas.json",
+  "destId": "dumaguete",
+  "placeId": "dumaguete-sans-rival",
+  "field": "lng",
+  "oldValue": 123.515,
+  "newValue": 123.30704,
+  "source": "map.geocode 'Sans Rival Cakes and Pastries, Dumaguete City' relevance 100"
+ },
+ {
+  "file": "destinations_visayas.json",
+  "destId": "dumaguete",
+  "placeId": "dumaguete-jos-inato",
+  "field": "lat",
+  "oldValue": 10.312,
+  "newValue": 9.29926,
+  "source": "map.geocode \"Jo's Chicken Inato, Dumaguete City\" relevance 100"
+ },
+ {
+  "file": "destinations_visayas.json",
+  "destId": "dumaguete",
+  "placeId": "dumaguete-jos-inato",
+  "field": "lng",
+  "oldValue": 123.516,
+  "newValue": 123.30923,
+  "source": "map.geocode \"Jo's Chicken Inato, Dumaguete City\" relevance 100"
+ },
+ {
+  "file": "destinations_visayas.json",
+  "destId": "dumaguete",
+  "placeId": "dumaguete-bethel",
+  "field": "lat",
+  "oldValue": 10.31,
+  "newValue": 9.30628,
+  "source": "map.geocode 'Bethel Guest House, Dumaguete City' relevance 100"
+ },
+ {
+  "file": "destinations_visayas.json",
+  "destId": "dumaguete",
+  "placeId": "dumaguete-bethel",
+  "field": "lng",
+  "oldValue": 123.518,
+  "newValue": 123.30999,
+  "source": "map.geocode 'Bethel Guest House, Dumaguete City' relevance 100"
+ },
+ {
+  "file": "destinations_visayas.json",
+  "destId": "dumaguete",
+  "placeId": "dumaguete-florentina",
+  "field": "lat",
+  "oldValue": 10.305,
+  "newValue": 9.32659,
+  "source": "map.geocode 'Florentina Homes, Dumaguete City' relevance 100"
+ },
+ {
+  "file": "destinations_visayas.json",
+  "destId": "dumaguete",
+  "placeId": "dumaguete-florentina",
+  "field": "lng",
+  "oldValue": 123.516,
+  "newValue": 123.30424,
+  "source": "map.geocode 'Florentina Homes, Dumaguete City' relevance 100"
+ },
+ {
+  "file": "destinations_visayas.json",
+  "destId": "dumaguete",
+  "placeId": "dumaguete-robinsons",
+  "field": "lat",
+  "oldValue": 10.309,
+  "newValue": 9.29867,
+  "source": "map.geocode 'Robinsons Place Dumaguete, Negros Oriental' relevance 99"
+ },
+ {
+  "file": "destinations_visayas.json",
+  "destId": "dumaguete",
+  "placeId": "dumaguete-robinsons",
+  "field": "lng",
+  "oldValue": 123.512,
+  "newValue": 123.30227,
+  "source": "map.geocode 'Robinsons Place Dumaguete, Negros Oriental' relevance 99"
+ },
+ {
+  "file": "destinations_mindanao.json",
+  "destId": "siargao",
+  "placeId": "siargao-sugba-lagoon",
+  "field": "lat",
+  "oldValue": 9.7497,
+  "newValue": 9.90615,
+  "source": "Mapcarta OSM tourism=attraction pin (9.90615, 125.90037); corroborated by whatdoyousea.com + ajourneywithmeblog (Del Carmen, boat access)"
+ },
+ {
+  "file": "destinations_mindanao.json",
+  "destId": "siargao",
+  "placeId": "siargao-sugba-lagoon",
+  "field": "lng",
+  "oldValue": 126.0489,
+  "newValue": 125.90037,
+  "source": "Mapcarta OSM tourism=attraction pin (9.90615, 125.90037); corroborated by whatdoyousea.com + ajourneywithmeblog (Del Carmen, boat access)"
+ },
+ {
+  "file": "destinations_mindanao.json",
+  "destId": "siargao",
+  "placeId": "siargao-sohoton-cove",
+  "field": "lat",
+  "oldValue": 9.7167,
+  "newValue": 9.59708,
+  "source": "Mapcarta OSM tourism=attraction pin (9.59708, 125.92786); corroborated by siargaohotels.ph (9.599521, 125.916516)"
+ },
+ {
+  "file": "destinations_mindanao.json",
+  "destId": "siargao",
+  "placeId": "siargao-sohoton-cove",
+  "field": "lng",
+  "oldValue": 126.1333,
+  "newValue": 125.92786,
+  "source": "Mapcarta OSM tourism=attraction pin (9.59708, 125.92786); corroborated by siargaohotels.ph (9.599521, 125.916516)"
+ },
+ {
+  "file": "destinations_mindanao.json",
+  "destId": "davao",
+  "placeId": "davao-crocodile-park",
+  "field": "area",
+  "oldValue": "Talon-Talon",
+  "newValue": "Ma-a",
+  "source": "map.geocode district; Davao Crocodile Park is in Ma-a, Davao City"
+ },
+ {
+  "file": "destinations_new_2.json",
+  "destId": "mati",
+  "placeId": "mati-subangan-museum",
+  "field": "area",
+  "oldValue": "Mati city",
+  "newValue": "Dahican",
+  "source": "map.geocode; Subangan Museum is in Dahican, Mati"
+ },
+ {
+  "file": "destinations_mindanao.json",
+  "destId": "zamboanga",
+  "placeId": "zamboanga-merloquet-falls",
+  "field": "area",
+  "oldValue": "Vicente Alvarez",
+  "newValue": "Sibulao",
+  "source": "map.geocode; Merloquet Falls is in Brgy. Sibulao (3 travel sites corroborate)"
+ },
+ {
+  "file": "destinations_mindanao.json",
+  "destId": "zamboanga",
+  "placeId": "zamboanga-falls-trek",
+  "field": "area",
+  "oldValue": "Vicente Alvarez",
+  "newValue": "Sibulao",
+  "source": "map.geocode; Merloquet Falls is in Brgy. Sibulao (3 travel sites corroborate)"
+ }
+]

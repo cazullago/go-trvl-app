@@ -1,0 +1,62 @@
+name: go_trvl
+description: GoTRVL - a gamified, bohemian-island Philippines travel app.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_maps_flutter: ^2.12.3
+  firebase_core: ^3.15.2
+  firebase_auth: ^5.7.0
+  cloud_firestore: ^5.6.12
+  firebase_storage: ^12.4.10
+  google_fonts: ^6.3.1
+  provider: ^6.1.5
+  image_picker: ^1.1.2
+  url_launcher: ^6.3.2
+  geolocator: ^13.0.4
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.1
+  shared_preferences: ^2.5.3
+  uuid: ^4.5.1
+  intl: ^0.20.2
+  cached_network_image: ^3.4.1
+  timeago: ^3.7.1
+  http: ^1.6.0
+  in_app_purchase: ^3.2.3
+  permission_handler: ^12.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.4
+  flutter_native_splash: ^2.4.8
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/
+    - assets/map_style.json
+
+# Launcher icons: `dart run flutter_launcher_icons`
+# Source art: assets/icon/gotrvl_icon*.png (boho sun/waves/palm emblem).
+flutter_launcher_icons:
+  android: true
+  ios: false # iOS icons are handled separately; flip to true to regenerate both
+  image_path: "assets/icon/gotrvl_icon.png"
+  adaptive_icon_background: "#F5EFE6"
+  adaptive_icon_foreground: "assets/icon/gotrvl_icon_foreground.png"
+  adaptive_icon_monochrome: "assets/icon/gotrvl_icon_monochrome.png"
+  min_sdk_android: 21
+
+# Native splash: `dart run flutter_native_splash:create`
+flutter_native_splash:
+  color: "#F5EFE6"
+  image: "assets/icon/gotrvl_icon_foreground.png"
+  android: true
+  ios: false # iOS splash is handled separately

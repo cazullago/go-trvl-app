@@ -1,0 +1,1522 @@
+{
+ "destinations": [
+  {
+   "id": "siargao",
+   "name": "Siargao",
+   "region": "Mindanao",
+   "province": "Surigao del Norte",
+   "tagline": "Surfing Capital of the Philippines",
+   "description": "A laid-back island paradise famous for world-class waves, coconut groves, and island-hopping lagoons. Perfect for surfers and beach lovers alike.",
+   "whyPopular": "Home to the legendary Cloud 9 surf break and some of the country's dreamiest beaches, Siargao blends epic surf with a relaxed tropical lifestyle.",
+   "bestTime": "Dry season March to May; surfing season July to November",
+   "howToGetThere": "Direct flights to Siargao airport (IAO) from Manila, Cebu and Clark",
+   "centerLat": 9.786,
+   "centerLng": 126.1644,
+   "places": [
+    {
+     "id": "siargao-cloud-9",
+     "name": "Cloud 9",
+     "category": "where_to_go",
+     "placeType": "surf spot",
+     "description": "Siargao's iconic surf break with a boardwalk over the reef, famous for its perfect barreling waves.",
+     "priceRange": "Free",
+     "area": "General Luna",
+     "bestTime": "July to November for big swells",
+     "lat": 9.8144,
+     "lng": 126.1647
+    },
+    {
+     "id": "siargao-magpupungko",
+     "name": "Magpupungko Rock Pools",
+     "category": "where_to_go",
+     "placeType": "rock pools",
+     "description": "Natural tidal pools revealed at low tide, ideal for swimming and cliff jumping into crystal-clear water.",
+     "priceRange": "Free",
+     "area": "Pilar",
+     "bestTime": "Low tide hours, morning",
+     "lat": 9.8317,
+     "lng": 126.1117
+    },
+    {
+     "id": "siargao-sohoton-cove",
+     "name": "Sohoton Cove",
+     "category": "where_to_go",
+     "placeType": "lagoon",
+     "description": "A hidden cove on Bucas Grande with emerald lagoons, stingless jellyfish, and towering limestone cliffs.",
+     "priceRange": "$$",
+     "area": "Bucas Grande",
+     "bestTime": "March to May, calm seas",
+     "lat": 9.59708,
+     "lng": 125.92786
+    },
+    {
+     "id": "siargao-maasin-river",
+     "name": "Maasin River",
+     "category": "where_to_go",
+     "placeType": "river",
+     "description": "A winding palm-fringed river famous for paddleboarding, rope swings, and the bent coconut tree photo spot.",
+     "priceRange": "$",
+     "area": "Pilar",
+     "bestTime": "Morning for calm water",
+     "lat": 9.91,
+     "lng": 126.02
+    },
+    {
+     "id": "siargao-guyam-island",
+     "name": "Guyam Island",
+     "category": "where_to_go",
+     "placeType": "island",
+     "description": "A tiny postcard-perfect islet with powdery white sand and palm trees, part of the tri-island hopping tour.",
+     "priceRange": "$",
+     "area": "General Luna",
+     "bestTime": "Morning, before crowds",
+     "lat": 9.7728,
+     "lng": 126.1822
+    },
+    {
+     "id": "siargao-sugba-lagoon",
+     "name": "Sugba Lagoon",
+     "category": "where_to_go",
+     "placeType": "lagoon",
+     "description": "A stunning blue lagoon on Kawhagan Island with a diving platform, perfect for kayaking and swimming.",
+     "priceRange": "$$",
+     "area": "Del Carmen",
+     "bestTime": "Midday for brightest water",
+     "lat": 9.90615,
+     "lng": 125.90037
+    },
+    {
+     "id": "siargao-surfing-lessons",
+     "name": "Surfing Lessons at Cloud 9",
+     "category": "things_to_do",
+     "placeType": "adventure",
+     "description": "Learn to ride your first wave with a local instructor on the gentle beginner breaks near Cloud 9.",
+     "priceRange": "$$",
+     "area": "General Luna",
+     "bestTime": "Year-round; July to November best",
+     "lat": 9.8144,
+     "lng": 126.1647
+    },
+    {
+     "id": "siargao-tri-island-tour",
+     "name": "Tri-Island Hopping Tour",
+     "category": "things_to_do",
+     "placeType": "nature",
+     "description": "Boat-hop between Naked, Daku, and Guyam islands in one day, with snorkeling stops and beach picnics.",
+     "priceRange": "$$",
+     "area": "General Luna",
+     "bestTime": "Morning departures",
+     "lat": 9.786,
+     "lng": 126.18
+    },
+    {
+     "id": "siargao-standup-paddleboard",
+     "name": "Stand-Up Paddleboarding",
+     "category": "things_to_do",
+     "placeType": "relaxation",
+     "description": "Glide along the calm Maasin River or lagoons at sunrise for a peaceful, scenic workout.",
+     "priceRange": "$",
+     "area": "General Luna",
+     "bestTime": "Sunrise",
+     "lat": 9.79,
+     "lng": 126.16
+    },
+    {
+     "id": "siargao-nightlife",
+     "name": "General Luna Nightlife",
+     "category": "things_to_do",
+     "placeType": "nightlife",
+     "description": "Beach bars and live music along Tourism Road keep the island buzzing after the sun goes down.",
+     "priceRange": "$$",
+     "area": "General Luna",
+     "bestTime": "Evenings, weekends busiest",
+     "lat": 9.786,
+     "lng": 126.1644
+    },
+    {
+     "id": "siargao-shaka-cafe",
+     "name": "Shaka Siargao",
+     "category": "where_to_eat",
+     "placeType": "cafe",
+     "description": "Famous smoothie bowls, acai, and coffee in a tropical garden setting loved by surfers.",
+     "priceRange": "$$",
+     "area": "General Luna",
+     "bestTime": "Breakfast and brunch",
+     "lat": 9.7903,
+     "lng": 126.1653
+    },
+    {
+     "id": "siargao-fat-lips",
+     "name": "Fat Lips Surf Shack",
+     "category": "where_to_eat",
+     "placeType": "restaurant",
+     "description": "Beachfront spot serving burgers, rice bowls, and cold drinks with live reggae vibes.",
+     "priceRange": "$$",
+     "area": "General Luna",
+     "bestTime": "Lunch and dinner",
+     "lat": 9.791,
+     "lng": 126.166
+    },
+    {
+     "id": "siargao-kermit",
+     "name": "Kermit Siargao",
+     "category": "where_to_eat",
+     "placeType": "restaurant",
+     "description": "Italian-Filipino fusion pizzas and pastas in a stylish surf-town setting near Cloud 9.",
+     "priceRange": "$$",
+     "area": "General Luna",
+     "bestTime": "Dinner",
+     "lat": 9.805,
+     "lng": 126.1665
+    },
+    {
+     "id": "siargao-cev-shack",
+     "name": "CEV: Ceviche & Kinilaw Shack",
+     "category": "where_to_eat",
+     "placeType": "restaurant",
+     "description": "Fresh kinilaw and ceviche bowls made from the day's catch, right by the beach.",
+     "priceRange": "$$",
+     "area": "General Luna",
+     "bestTime": "Lunch",
+     "lat": 9.7922,
+     "lng": 126.1672
+    },
+    {
+     "id": "siargao-bleu-resort",
+     "name": "Siargao Bleu Resort & Spa",
+     "category": "where_to_stay",
+     "placeType": "resort",
+     "description": "Upscale beachfront resort with villas, a spa, and fine dining near Cloud 9.",
+     "priceRange": "$$$",
+     "area": "General Luna",
+     "bestTime": "Year-round",
+     "lat": 9.8156,
+     "lng": 126.1706
+    },
+    {
+     "id": "siargao-kalinaw-resort",
+     "name": "Kalinaw Resort",
+     "category": "where_to_stay",
+     "placeType": "resort",
+     "description": "Balinese-style boutique resort with lush gardens, a pool, and steps from the beach.",
+     "priceRange": "$$$",
+     "area": "General Luna",
+     "bestTime": "Year-round",
+     "lat": 9.7964,
+     "lng": 126.1678
+    },
+    {
+     "id": "siargao-isla-villas",
+     "name": "Isla Villas Siargao",
+     "category": "where_to_stay",
+     "placeType": "hotel",
+     "description": "Comfortable mid-range rooms and suites a short stroll from the main strip.",
+     "priceRange": "$$",
+     "area": "General Luna",
+     "bestTime": "Year-round",
+     "lat": 9.7883,
+     "lng": 126.1633
+    },
+    {
+     "id": "siargao-public-market",
+     "name": "General Luna Public Market",
+     "category": "where_to_buy",
+     "placeType": "market",
+     "description": "Local market with fresh produce, fish, snacks, and affordable pasalubong finds.",
+     "priceRange": "$",
+     "area": "General Luna",
+     "bestTime": "Morning",
+     "lat": 9.7861,
+     "lng": 126.1606
+    },
+    {
+     "id": "siargao-souvenir-street",
+     "name": "Tourism Road Souvenir Shops",
+     "category": "where_to_buy",
+     "placeType": "market",
+     "description": "Stalls and boutiques along Tourism Road selling surf merch, handmade jewelry, and island crafts.",
+     "priceRange": "$$",
+     "area": "General Luna",
+     "bestTime": "Afternoon",
+     "lat": 9.789,
+     "lng": 126.1639
+    },
+    {
+     "id": "siargao-transport-1",
+     "name": "Sayak Airport",
+     "category": "how_to_get_around",
+     "lat": 9.8592,
+     "lng": 126.0139,
+     "description": "The island airport; 45-min van ride to General Luna.",
+     "priceRange": "₱3,000-7,000 from Manila",
+     "area": "Del Carmen",
+     "bestTime": "Check schedules before traveling",
+     "placeType": "airport"
+    },
+    {
+     "id": "siargao-transport-2",
+     "name": "Dapa Port",
+     "category": "how_to_get_around",
+     "lat": 9.7615,
+     "lng": 126.0594,
+     "description": "Ferry terminal for Surigao City connections and island-hopping boats.",
+     "priceRange": "₱300-500 to Surigao",
+     "area": "Dapa",
+     "bestTime": "Check schedules before traveling",
+     "placeType": "seaport"
+    },
+    {
+     "id": "siargao-transport-3",
+     "name": "General Luna Van Terminal",
+     "category": "how_to_get_around",
+     "lat": 9.7847,
+     "lng": 126.1581,
+     "description": "Vans to the airport, Dapa port and Maasin River jump-off.",
+     "priceRange": "₱150-400 by route",
+     "area": "General Luna",
+     "bestTime": "Check schedules before traveling",
+     "placeType": "van terminal"
+    }
+   ],
+   "transport": [
+    {
+     "type": "Tricycle",
+     "useCase": "Short hops around General Luna town",
+     "priceRange": "₱20-50 per ride",
+     "notes": "Habal-habal (motorbike taxi) is the more common option for reaching surf spots."
+    },
+    {
+     "type": "Jeepney",
+     "useCase": "Trips between towns like Dapa and General Luna",
+     "priceRange": "₱30-60 per ride",
+     "notes": "Limited schedules; ask locals for the latest departure times."
+    },
+    {
+     "type": "Van",
+     "useCase": "Airport transfers and group island tours",
+     "priceRange": "₱200-500 per person",
+     "notes": "Most hotels and resorts arrange shared van pickups from Siargao airport."
+    },
+    {
+     "type": "Scooter rental",
+     "useCase": "Best way to explore the island at your own pace",
+     "priceRange": "₱350-600 per day",
+     "notes": "Always wear a helmet; check the scooter's brakes and lights before renting."
+    },
+    {
+     "type": "Boat transfer",
+     "useCase": "Island-hopping to Naked, Daku, Guyam, and Sohoton Cove",
+     "priceRange": "₱1,500-3,500 per boat",
+     "notes": "Boats are shared or private; life vests are provided by law."
+    },
+    {
+     "type": "Taxi or ride-hailing",
+     "useCase": "Airport transfers on demand",
+     "priceRange": "₱300-600 per trip",
+     "notes": "Very limited availability; book through your hotel in advance."
+    }
+   ],
+   "provinceId": "surigao-del-norte"
+  },
+  {
+   "id": "davao",
+   "name": "Davao",
+   "region": "Mindanao",
+   "province": "Davao del Sur",
+   "tagline": "The Crown Jewel of the South",
+   "description": "A thriving, clean, and safe city with durian, the Philippine Eagle, and Mount Apo on its doorstep. Great mix of urban comfort and nature.",
+   "whyPopular": "Gateway to Mount Apo and the eagle sanctuary, plus a legendary food scene built around durian, tuna, and grilled Filipino barbecue.",
+   "bestTime": "Dry season November to April; Kadayawan Festival in August",
+   "howToGetThere": "Direct flights to Davao International Airport (DVO) from Manila, Cebu, Clark, and international hubs",
+   "centerLat": 7.06574,
+   "centerLng": 125.6108,
+   "places": [
+    {
+     "id": "davao-philippine-eagle-center",
+     "name": "Philippine Eagle Center",
+     "category": "where_to_go",
+     "placeType": "park",
+     "description": "Sanctuary protecting the majestic Philippine Eagle, with guided tours through lush forest enclosures.",
+     "priceRange": "$",
+     "area": "Malagos, Baguio District",
+     "bestTime": "Morning for active birds",
+     "lat": 7.18512,
+     "lng": 125.41533
+    },
+    {
+     "id": "davao-peoples-park",
+     "name": "People's Park",
+     "category": "where_to_go",
+     "placeType": "park",
+     "description": "A beloved city park with waterfalls, ponds, sculptures, and a dancing fountain show at night.",
+     "priceRange": "Free",
+     "area": "Poblacion",
+     "bestTime": "Evening for the fountain show",
+     "lat": 7.0728,
+     "lng": 125.6164
+    },
+    {
+     "id": "davao-eden-nature-park",
+     "name": "Eden Nature Park",
+     "category": "where_to_go",
+     "placeType": "mountain",
+     "description": "A mountain resort with gardens, sky rides, fishing village, and cool breezes above the city.",
+     "priceRange": "$$",
+     "area": "Toril",
+     "bestTime": "Morning for clear views",
+     "lat": 7.2847,
+     "lng": 125.3514
+    },
+    {
+     "id": "davao-mount-apo",
+     "name": "Mount Apo",
+     "category": "where_to_go",
+     "placeType": "mountain",
+     "description": "The highest peak in the Philippines at 2,954m, a bucket-list climb for serious trekkers.",
+     "priceRange": "$$",
+     "area": "Davao del Sur",
+     "bestTime": "March to May, dry trails",
+     "lat": 7.0017,
+     "lng": 125.2719
+    },
+    {
+     "id": "davao-crocodile-park",
+     "name": "Davao Crocodile Park",
+     "category": "where_to_go",
+     "placeType": "park",
+     "description": "Crocodile farm and wildlife park with feeding shows, tigers, and an exotic animal collection.",
+     "priceRange": "$$",
+     "area": "Ma-a",
+     "bestTime": "Morning shows",
+     "lat": 7.0842,
+     "lng": 125.615
+    },
+    {
+     "id": "davao-samal-island",
+     "name": "Samal Island",
+     "category": "where_to_go",
+     "placeType": "island",
+     "description": "Island of white-sand beaches and resorts just a short ferry ride from the city waterfront.",
+     "priceRange": "$$",
+     "area": "Island Garden City of Samal",
+     "bestTime": "November to May",
+     "lat": 7.0833,
+     "lng": 125.7167
+    },
+    {
+     "id": "davao-river-rafting",
+     "name": "Davao River White-Water Rafting",
+     "category": "things_to_do",
+     "placeType": "adventure",
+     "description": "Thrilling rapids through tropical jungle just outside the city, with certified river guides.",
+     "priceRange": "$$$",
+     "area": "Calinan",
+     "bestTime": "June to October, stronger flow",
+     "lat": 7.15,
+     "lng": 125.43
+    },
+    {
+     "id": "davao-samal-hopping",
+     "name": "Samal Island Beach Day",
+     "category": "things_to_do",
+     "placeType": "nature",
+     "description": "Ferry across the bay for a beach day, snorkeling, and resort pools with a city skyline backdrop.",
+     "priceRange": "$$",
+     "area": "Samal",
+     "bestTime": "Morning ferry crossings",
+     "lat": 7.09,
+     "lng": 125.72
+    },
+    {
+     "id": "davao-durian-tasting",
+     "name": "Durian Tasting Tour",
+     "category": "things_to_do",
+     "placeType": "culture",
+     "description": "Brave the king of fruits at Magsaysay Park fruit stalls, where durian is a way of life.",
+     "priceRange": "$",
+     "area": "Poblacion",
+     "bestTime": "August to October harvest",
+     "lat": 7.075,
+     "lng": 125.615
+    },
+    {
+     "id": "davao-roxas-night-market",
+     "name": "Roxas Night Market",
+     "category": "things_to_do",
+     "placeType": "nightlife",
+     "description": "Famous night market for grilled tuna, street food stalls, and local snacks under the lights.",
+     "priceRange": "$",
+     "area": "Poblacion",
+     "bestTime": "Evenings after 6 PM",
+     "lat": 7.0767,
+     "lng": 125.6094
+    },
+    {
+     "id": "davao-penongs",
+     "name": "Penong's",
+     "category": "where_to_eat",
+     "placeType": "restaurant",
+     "description": "Davao institution for chicken and pork barbecue served on banana leaves with unlimited rice.",
+     "priceRange": "$",
+     "area": "Poblacion",
+     "bestTime": "Lunch and dinner",
+     "lat": 7.0781,
+     "lng": 125.6094
+    },
+    {
+     "id": "davao-marina-tuna",
+     "name": "Marina Tuna",
+     "category": "where_to_eat",
+     "placeType": "restaurant",
+     "description": "Fresh tuna belly, sashimi, and kinilaw straight from the General Santos fishing grounds.",
+     "priceRange": "$$",
+     "area": "Poblacion",
+     "bestTime": "Lunch and dinner",
+     "lat": 7.0714,
+     "lng": 125.6089
+    },
+    {
+     "id": "davao-claudes-cafe",
+     "name": "Claude's Le Cafe de Ville",
+     "category": "where_to_eat",
+     "placeType": "cafe",
+     "description": "Charming French-style cafe with pastries, cakes, and brewed coffee in the city center.",
+     "priceRange": "$$",
+     "area": "Poblacion",
+     "bestTime": "Afternoon coffee",
+     "lat": 7.0697,
+     "lng": 125.6111
+    },
+    {
+     "id": "davao-lachis",
+     "name": "Lachi's",
+     "category": "where_to_eat",
+     "placeType": "restaurant",
+     "description": "Beloved homestyle Filipino dishes in a cozy setting, from kare-kare to sizzling sisig.",
+     "priceRange": "$$",
+     "area": "Poblacion",
+     "bestTime": "Dinner",
+     "lat": 7.0803,
+     "lng": 125.6086
+    },
+    {
+     "id": "davao-marco-polo",
+     "name": "Marco Polo Davao",
+     "category": "where_to_stay",
+     "placeType": "hotel",
+     "description": "Landmark luxury hotel on Shrine Hills with panoramic city views, pool, and fine dining.",
+     "priceRange": "$$$",
+     "area": "Poblacion",
+     "bestTime": "Year-round",
+     "lat": 7.0889,
+     "lng": 125.625
+    },
+    {
+     "id": "davao-park-inn",
+     "name": "Park Inn by Radisson Davao",
+     "category": "where_to_stay",
+     "placeType": "hotel",
+     "description": "Modern hotel beside SM Lanang with bright rooms, a rooftop pool, and all-day dining.",
+     "priceRange": "$$$",
+     "area": "Lanang",
+     "bestTime": "Year-round",
+     "lat": 7.1028,
+     "lng": 125.6422
+    },
+    {
+     "id": "davao-acacia-hotel",
+     "name": "Acacia Hotel Davao",
+     "category": "where_to_stay",
+     "placeType": "hotel",
+     "description": "Comfortable mid-range hotel with spacious rooms near the Davao Convention Center.",
+     "priceRange": "$$",
+     "area": "Lanang",
+     "bestTime": "Year-round",
+     "lat": 7.1006,
+     "lng": 125.6394
+    },
+    {
+     "id": "davao-sm-city",
+     "name": "SM City Davao",
+     "category": "where_to_buy",
+     "placeType": "mall",
+     "description": "Large mall with international brands, cinemas, and plenty of dining options.",
+     "priceRange": "$$",
+     "area": "Bajada",
+     "bestTime": "Afternoon and evening",
+     "lat": 7.0997,
+     "lng": 125.6256
+    },
+    {
+     "id": "davao-bankerohan",
+     "name": "Bankerohan Public Market",
+     "category": "where_to_buy",
+     "placeType": "market",
+     "description": "Bustling local market for fresh fruit, durian, seafood, and Davao pasalubong.",
+     "priceRange": "$",
+     "area": "Poblacion",
+     "bestTime": "Morning",
+     "lat": 7.0739,
+     "lng": 125.6125
+    },
+    {
+     "id": "davao-transport-1",
+     "name": "Francisco Bangoy International Airport",
+     "category": "how_to_get_around",
+     "lat": 7.1255,
+     "lng": 125.646,
+     "description": "Mindanao gateway; 30-min taxi to downtown.",
+     "priceRange": "₱2,000-5,000 from Manila",
+     "area": "Sasa",
+     "bestTime": "Check schedules before traveling",
+     "placeType": "airport"
+    },
+    {
+     "id": "davao-transport-2",
+     "name": "Ecoland Bus Terminal",
+     "category": "how_to_get_around",
+     "lat": 7.0603,
+     "lng": 125.6012,
+     "description": "Buses to the north (Butuan, Surigao), south (Gensan) and Cotabato.",
+     "priceRange": "₱200-800 by route",
+     "area": "Ecoland",
+     "bestTime": "Check schedules before traveling",
+     "placeType": "bus terminal"
+    },
+    {
+     "id": "davao-transport-3",
+     "name": "Sasa Wharf",
+     "category": "how_to_get_around",
+     "lat": 7.1006,
+     "lng": 125.6371,
+     "description": "Ferries to Samal Island (10 min) — beach day trips made easy.",
+     "priceRange": "₱20-50 per crossing",
+     "area": "Sasa",
+     "bestTime": "Check schedules before traveling",
+     "placeType": "seaport"
+    }
+   ],
+   "transport": [
+    {
+     "type": "Tricycle",
+     "useCase": "Short neighborhood trips",
+     "priceRange": "₱15-40 per ride",
+     "notes": "Common in barangays; flag one down or ask your hotel to call one."
+    },
+    {
+     "type": "Jeepney",
+     "useCase": "Main city routes across Davao",
+     "priceRange": "₱12-20 per ride",
+     "notes": "Extensive network; ask the driver or conductor if it passes your stop."
+    },
+    {
+     "type": "Van",
+     "useCase": "Airport transfers and tours to Eagle Center or Eden Park",
+     "priceRange": "₱150-400 per person",
+     "notes": "Tour vans are easy to book through hotels and travel desks."
+    },
+    {
+     "type": "Scooter rental",
+     "useCase": "Independent exploring within the city",
+     "priceRange": "₱400-700 per day",
+     "notes": "Less common than in beach towns; book from rental shops in advance."
+    },
+    {
+     "type": "Boat transfer",
+     "useCase": "Ferries and bangkas to Samal Island",
+     "priceRange": "₱50-150 per ride",
+     "notes": "Island City Express and resort boats run frequently from Sasa Wharf."
+    },
+    {
+     "type": "Taxi or ride-hailing",
+     "useCase": "Comfortable rides anywhere in the metro",
+     "priceRange": "₱100-300 per trip",
+     "notes": "Grab is widely available; metered taxis queue at malls and the airport."
+    }
+   ],
+   "provinceId": "davao-del-sur"
+  },
+  {
+   "id": "camiguin",
+   "name": "Camiguin",
+   "region": "Mindanao",
+   "province": "Camiguin",
+   "tagline": "The Island Born of Fire",
+   "description": "A small volcanic island packed with waterfalls, hot springs, and sandbars. Easy to circle in a day, but you'll want to stay longer.",
+   "whyPopular": "White Island's powdery sandbar, the haunting Sunken Cemetery cross, and sweet lanzones draw nature lovers from around the world.",
+   "bestTime": "Dry season April to June; Lanzones Festival in October",
+   "howToGetThere": "Fly to Camiguin (CGM) from Cebu, or ferry from Balingoan (Cagayan de Oro) and Jagna (Bohol)",
+   "centerLat": 9.2525,
+   "centerLng": 124.6846,
+   "places": [
+    {
+     "id": "camiguin-white-island",
+     "name": "White Island",
+     "category": "where_to_go",
+     "placeType": "island",
+     "description": "A shifting white-sand bar off Mambajao with views of Mt. Hibok-Hibok, perfect for sunrise photos.",
+     "priceRange": "$",
+     "area": "Mambajao",
+     "bestTime": "Sunrise, low tide",
+     "lat": 9.2511,
+     "lng": 124.6669
+    },
+    {
+     "id": "camiguin-sunken-cemetery",
+     "name": "Sunken Cemetery",
+     "category": "where_to_go",
+     "placeType": "city landmark",
+     "description": "A giant cross marking a cemetery swallowed by a volcanic eruption, now a famous snorkeling site.",
+     "priceRange": "$",
+     "area": "Bonbon, Catarman",
+     "bestTime": "Morning, calm seas",
+     "lat": 9.2008,
+     "lng": 124.6156
+    },
+    {
+     "id": "camiguin-katibawasan-falls",
+     "name": "Katibawasan Falls",
+     "category": "where_to_go",
+     "placeType": "waterfall",
+     "description": "A 250-foot cascade plunging into a cool natural pool, surrounded by giant ferns and orchids.",
+     "priceRange": "$",
+     "area": "Mambajao",
+     "bestTime": "Morning for fewer crowds",
+     "lat": 9.2219,
+     "lng": 124.6989
+    },
+    {
+     "id": "camiguin-tuasan-falls",
+     "name": "Tuasan Falls",
+     "category": "where_to_go",
+     "placeType": "waterfall",
+     "description": "A rugged waterfall reached by a short trek through farmland, with a refreshing swimming pool.",
+     "priceRange": "$",
+     "area": "Catarman",
+     "bestTime": "Morning",
+     "lat": 9.1928,
+     "lng": 124.7406
+    },
+    {
+     "id": "camiguin-ardent-hot-spring",
+     "name": "Ardent Hot Spring",
+     "category": "where_to_go",
+     "placeType": "hot spring",
+     "description": "Naturally heated pools from Mt. Hibok-Hibok, wonderful for a soothing evening soak.",
+     "priceRange": "$",
+     "area": "Mambajao",
+     "bestTime": "Evening",
+     "lat": 9.2158,
+     "lng": 124.6594
+    },
+    {
+     "id": "camiguin-mantigue-island",
+     "name": "Mantigue Island",
+     "category": "where_to_go",
+     "placeType": "island",
+     "description": "A marine sanctuary island with white beaches, giant clams, and excellent snorkeling.",
+     "priceRange": "$$",
+     "area": "Mahinog",
+     "bestTime": "Morning departures",
+     "lat": 9.1444,
+     "lng": 124.7742
+    },
+    {
+     "id": "camiguin-island-loop",
+     "name": "Camiguin Island Loop Tour",
+     "category": "things_to_do",
+     "placeType": "adventure",
+     "description": "Circle the whole island in a day by habal-habal or van, hitting waterfalls, springs, and viewpoints.",
+     "priceRange": "$$",
+     "area": "Mambajao",
+     "bestTime": "Full day, start early",
+     "lat": 9.2525,
+     "lng": 124.6846
+    },
+    {
+     "id": "camiguin-snorkeling",
+     "name": "Snorkeling at Sunken Cemetery",
+     "category": "things_to_do",
+     "placeType": "nature",
+     "description": "Snorkel over coral gardens growing on the sunken tombstones, with giant clam sanctuaries nearby.",
+     "priceRange": "$$",
+     "area": "Bonbon, Catarman",
+     "bestTime": "Morning, clear water",
+     "lat": 9.2008,
+     "lng": 124.6156
+    },
+    {
+     "id": "camiguin-hot-spring-soak",
+     "name": "Hot Spring Evening Soak",
+     "category": "things_to_do",
+     "placeType": "relaxation",
+     "description": "Unwind in the warm mineral pools of Ardent Hot Spring after a day of island exploring.",
+     "priceRange": "$",
+     "area": "Mambajao",
+     "bestTime": "Evening",
+     "lat": 9.2158,
+     "lng": 124.6594
+    },
+    {
+     "id": "camiguin-guiob-ruins",
+     "name": "Guiob Church Ruins Visit",
+     "category": "things_to_do",
+     "placeType": "culture",
+     "description": "Explore centuries-old church ruins left by the 1871 volcanic eruption, next to the old cemetery.",
+     "priceRange": "Free",
+     "area": "Bonbon, Catarman",
+     "bestTime": "Afternoon",
+     "lat": 9.2033,
+     "lng": 124.62
+    },
+    {
+     "id": "camiguin-beehive",
+     "name": "The Beehive",
+     "category": "where_to_eat",
+     "placeType": "cafe",
+     "description": "Cozy cafe serving hearty breakfasts, burgers, and fresh juices near the town center.",
+     "priceRange": "$$",
+     "area": "Mambajao",
+     "bestTime": "Breakfast and lunch",
+     "lat": 9.255,
+     "lng": 124.685
+    },
+    {
+     "id": "camiguin-luna-ristorante",
+     "name": "Luna Ristorante",
+     "category": "where_to_eat",
+     "placeType": "restaurant",
+     "description": "Italian-inspired dishes and Filipino favorites in a garden restaurant in Mambajao.",
+     "priceRange": "$$",
+     "area": "Mambajao",
+     "bestTime": "Dinner",
+     "lat": 9.2536,
+     "lng": 124.6869
+    },
+    {
+     "id": "camiguin-bahay-kubo",
+     "name": "Bahay Kubo Restaurant",
+     "category": "where_to_eat",
+     "placeType": "restaurant",
+     "description": "Traditional Filipino dishes served in a nipa hut setting, with fresh grilled seafood.",
+     "priceRange": "$",
+     "area": "Mambajao",
+     "bestTime": "Lunch and dinner",
+     "lat": 9.2564,
+     "lng": 124.6833
+    },
+    {
+     "id": "camiguin-guerrera-villas",
+     "name": "Guerrera Rice Paddy Villas",
+     "category": "where_to_stay",
+     "placeType": "resort",
+     "description": "Boutique villas set among rice paddies with views of the volcanoes and the sea.",
+     "priceRange": "$$$",
+     "area": "Mambajao",
+     "bestTime": "Year-round",
+     "lat": 9.2667,
+     "lng": 124.705
+    },
+    {
+     "id": "camiguin-paras-beach",
+     "name": "Paras Beach Resort",
+     "category": "where_to_stay",
+     "placeType": "resort",
+     "description": "Classic beachfront resort with cottages, gardens, and easy access to White Island boats.",
+     "priceRange": "$$",
+     "area": "Mambajao",
+     "bestTime": "Year-round",
+     "lat": 9.2578,
+     "lng": 124.6761
+    },
+    {
+     "id": "camiguin-mambajao-market",
+     "name": "Mambajao Public Market",
+     "category": "where_to_buy",
+     "placeType": "market",
+     "description": "Local market for fresh fruit, famous lanzones, and handmade souvenirs.",
+     "priceRange": "$",
+     "area": "Mambajao",
+     "bestTime": "Morning",
+     "lat": 9.2531,
+     "lng": 124.6856
+    },
+    {
+     "id": "camiguin-pasalubong",
+     "name": "Mambajao Pasalubong Center",
+     "category": "where_to_buy",
+     "placeType": "market",
+     "description": "Shops selling lanzones wine, pastillas, and Camiguin-themed crafts to take home.",
+     "priceRange": "$$",
+     "area": "Mambajao",
+     "bestTime": "Afternoon",
+     "lat": 9.2542,
+     "lng": 124.6844
+    },
+    {
+     "id": "camiguin-transport-1",
+     "name": "Benoni Port",
+     "category": "how_to_get_around",
+     "lat": 9.1563,
+     "lng": 124.7786,
+     "description": "Main RORO/fastcraft gateway from Balingoan, Misamis Oriental.",
+     "priceRange": "₱200-400 by route",
+     "area": "Mahinog",
+     "bestTime": "Check schedules before traveling",
+     "placeType": "seaport"
+    },
+    {
+     "id": "camiguin-transport-2",
+     "name": "Balbagon Port",
+     "category": "how_to_get_around",
+     "lat": 9.223,
+     "lng": 124.6833,
+     "description": "Fastcrafts to Jagna, Bohol.",
+     "priceRange": "₱400-600 by route",
+     "area": "Mambajao",
+     "bestTime": "Check schedules before traveling",
+     "placeType": "seaport"
+    }
+   ],
+   "transport": [
+    {
+     "type": "Tricycle",
+     "useCase": "Getting around Mambajao town",
+     "priceRange": "₱15-40 per ride",
+     "notes": "Trikes wait near the market and port; agree on the fare first."
+    },
+    {
+     "type": "Jeepney",
+     "useCase": "Routes between the five towns",
+     "priceRange": "₱20-50 per ride",
+     "notes": "Multicabs and jeepneys connect Mambajao, Catarman, Sagay, Guinsiliban, and Mahinog."
+    },
+    {
+     "type": "Van",
+     "useCase": "Day tours circling the island",
+     "priceRange": "₱1,500-2,500 per van",
+     "notes": "Private van tours are the easiest way to hit all the highlights in one day."
+    },
+    {
+     "type": "Scooter rental",
+     "useCase": "DIY island loop at your own pace",
+     "priceRange": "₱350-600 per day",
+     "notes": "The 64km circumferential road is well-paved and perfect for scooters."
+    },
+    {
+     "type": "Boat transfer",
+     "useCase": "Trips to White Island and Mantigue Island",
+     "priceRange": "₱500-1,500 per boat",
+     "notes": "Book through your resort or the tourism office; wear reef-safe sunscreen."
+    },
+    {
+     "type": "Taxi or ride-hailing",
+     "useCase": "Airport or port transfers",
+     "priceRange": "₱200-500 per trip",
+     "notes": "Very limited; most travelers use tricycles or hotel shuttles instead."
+    }
+   ],
+   "provinceId": "camiguin"
+  },
+  {
+   "id": "cagayan-de-oro",
+   "name": "Cagayan de Oro",
+   "region": "Mindanao",
+   "province": "Misamis Oriental",
+   "tagline": "The City of Golden Friendship",
+   "description": "Northern Mindanao's adventure hub, famous for white-water rafting on the Cagayan River and some of the friendliest locals in the Philippines.",
+   "whyPopular": "The white-water rafting capital of the country, with caves, nature parks, and day-trip access to Dahilayan's ziplines.",
+   "bestTime": "Dry season December to May; adventure tours run year-round",
+   "howToGetThere": "Direct flights to Laguindingan Airport (CGY) from Manila, Cebu, Clark, and Davao",
+   "centerLat": 8.4542,
+   "centerLng": 124.6319,
+   "places": [
+    {
+     "id": "cagayan-de-oro-mapawa",
+     "name": "Mapawa Nature Park",
+     "category": "where_to_go",
+     "placeType": "park",
+     "description": "A riverside nature park with waterfalls, natural pools, and cliff-jumping spots in a scenic gorge.",
+     "priceRange": "$$",
+     "area": "Cugman",
+     "bestTime": "Morning, dry season",
+     "lat": 8.4351,
+     "lng": 124.70349
+    },
+    {
+     "id": "cagayan-de-oro-gaston-park",
+     "name": "Gaston Park & St. Augustine Cathedral",
+     "category": "where_to_go",
+     "placeType": "city landmark",
+     "description": "Historic plaza and cathedral at the heart of the city, perfect for an evening stroll.",
+     "priceRange": "Free",
+     "area": "Poblacion",
+     "bestTime": "Evening",
+     "lat": 8.4775,
+     "lng": 124.6428
+    },
+    {
+     "id": "cagayan-de-oro-macahambus",
+     "name": "Macahambus Hill Cave",
+     "category": "where_to_go",
+     "placeType": "cave",
+     "description": "A short trek leads to a cave gorge with a hanging bridge and WWII historical markers.",
+     "priceRange": "$",
+     "area": "Lumbia",
+     "bestTime": "Morning",
+     "lat": 8.4769,
+     "lng": 124.6731
+    },
+    {
+     "id": "cagayan-de-oro-seven-seas",
+     "name": "Seven Seas Waterpark",
+     "category": "where_to_go",
+     "placeType": "park",
+     "description": "The country's largest pirate-themed waterpark with slides, a lazy river, and wave pools.",
+     "priceRange": "$$",
+     "area": "Opol",
+     "bestTime": "Weekday mornings",
+     "lat": 8.51866,
+     "lng": 124.60903
+    },
+    {
+     "id": "cagayan-de-oro-divine-mercy",
+     "name": "Divine Mercy Shrine",
+     "category": "where_to_go",
+     "placeType": "city landmark",
+     "description": "A 50-foot statue of the Divine Mercy overlooking Macajalar Bay, a popular pilgrimage site.",
+     "priceRange": "Free",
+     "area": "El Salvador (day trip)",
+     "bestTime": "Late afternoon",
+     "lat": 8.5644,
+     "lng": 124.5264
+    },
+    {
+     "id": "cagayan-de-oro-river-rafting",
+     "name": "Cagayan River White-Water Rafting",
+     "category": "things_to_do",
+     "placeType": "adventure",
+     "description": "The country's top rafting run, with beginner-friendly and extreme sections through jungle canyons.",
+     "priceRange": "$$$",
+     "area": "Cagayan River",
+     "bestTime": "June to November, strong rapids",
+     "lat": 8.48,
+     "lng": 124.62
+    },
+    {
+     "id": "cagayan-de-oro-dahilayan-day",
+     "name": "Dahilayan Adventure Park Day Trip",
+     "category": "things_to_do",
+     "placeType": "adventure",
+     "description": "Ride one of Asia's longest ziplines and cool pine-forest trails, an hour from the city.",
+     "priceRange": "$$",
+     "area": "Manolo Fortich (day trip)",
+     "bestTime": "Morning for clear views",
+     "lat": 8.2233,
+     "lng": 124.8917
+    },
+    {
+     "id": "cagayan-de-oro-nightlife",
+     "name": "Lifestyle District Nightlife",
+     "category": "things_to_do",
+     "placeType": "nightlife",
+     "description": "Bars, live bands, and late-night eats in the city's entertainment district.",
+     "priceRange": "$$",
+     "area": "Poblacion",
+     "bestTime": "Weekend evenings",
+     "lat": 8.4761,
+     "lng": 124.6419
+    },
+    {
+     "id": "cagayan-de-oro-lechon-tour",
+     "name": "Lechon Food Crawl",
+     "category": "things_to_do",
+     "placeType": "culture",
+     "description": "Taste the city's beloved roasted pork and local delicacies on a guided food crawl.",
+     "priceRange": "$$",
+     "area": "Poblacion",
+     "bestTime": "Lunch",
+     "lat": 8.4783,
+     "lng": 124.6417
+    },
+    {
+     "id": "cagayan-de-oro-kagayons",
+     "name": "Kagay-on's",
+     "category": "where_to_eat",
+     "placeType": "restaurant",
+     "description": "Classic Filipino buffet and grilled dishes in a spacious native-style dining hall.",
+     "priceRange": "$$",
+     "area": "Poblacion",
+     "bestTime": "Lunch and dinner",
+     "lat": 8.4803,
+     "lng": 124.6456
+    },
+    {
+     "id": "cagayan-de-oro-boy-zugba",
+     "name": "Boy Zugba",
+     "category": "where_to_eat",
+     "placeType": "restaurant",
+     "description": "Fun, colorful spot for affordable Filipino comfort food with a playful local vibe.",
+     "priceRange": "$",
+     "area": "Carmen",
+     "bestTime": "Lunch and dinner",
+     "lat": 8.4744,
+     "lng": 124.6317
+    },
+    {
+     "id": "cagayan-de-oro-missy-bon-bon",
+     "name": "Missy Bon Bon",
+     "category": "where_to_eat",
+     "placeType": "cafe",
+     "description": "Beloved CDO bakeshop and cafe famous for cakes, pastries, and rich chocolate drinks.",
+     "priceRange": "$$",
+     "area": "Poblacion",
+     "bestTime": "Afternoon merienda",
+     "lat": 8.4794,
+     "lng": 124.6439
+    },
+    {
+     "id": "cagayan-de-oro-bigbys",
+     "name": "Bigby's Cafe & Restaurant",
+     "category": "where_to_eat",
+     "placeType": "restaurant",
+     "description": "A Mindanao-born chain serving hearty Filipino-Western plates loved by locals.",
+     "priceRange": "$$",
+     "area": "Carmen",
+     "bestTime": "Lunch and dinner",
+     "lat": 8.4728,
+     "lng": 124.6344
+    },
+    {
+     "id": "cagayan-de-oro-limketkai",
+     "name": "Limketkai Luxe Hotel",
+     "category": "where_to_stay",
+     "placeType": "hotel",
+     "description": "Upscale hotel beside Limketkai Center with a rooftop pool and skyline views.",
+     "priceRange": "$$$",
+     "area": "Lapasan",
+     "bestTime": "Year-round",
+     "lat": 8.4847,
+     "lng": 124.6547
+    },
+    {
+     "id": "cagayan-de-oro-seda-centrio",
+     "name": "Seda Centrio",
+     "category": "where_to_stay",
+     "placeType": "hotel",
+     "description": "Sleek business hotel above Ayala Centrio Mall with a rooftop bar and pool.",
+     "priceRange": "$$$",
+     "area": "Poblacion",
+     "bestTime": "Year-round",
+     "lat": 8.4808,
+     "lng": 124.6472
+    },
+    {
+     "id": "cagayan-de-oro-mallberry",
+     "name": "Mallberry Suites Business Hotel",
+     "category": "where_to_stay",
+     "placeType": "hotel",
+     "description": "Comfortable mid-range suites near the business district, great value for families.",
+     "priceRange": "$$",
+     "area": "Poblacion",
+     "bestTime": "Year-round",
+     "lat": 8.4772,
+     "lng": 124.6428
+    },
+    {
+     "id": "cagayan-de-oro-sm-downtown",
+     "name": "SM CDO Downtown",
+     "category": "where_to_buy",
+     "placeType": "mall",
+     "description": "Central mall with fashion brands, electronics, cinemas, and dining terraces.",
+     "priceRange": "$$",
+     "area": "Poblacion",
+     "bestTime": "Afternoon and evening",
+     "lat": 8.4828,
+     "lng": 124.6494
+    },
+    {
+     "id": "cagayan-de-oro-cogon-market",
+     "name": "Cogon Public Market",
+     "category": "where_to_buy",
+     "placeType": "market",
+     "description": "The city's main public market for fresh produce, seafood, and affordable local goods.",
+     "priceRange": "$",
+     "area": "Poblacion",
+     "bestTime": "Morning",
+     "lat": 8.4769,
+     "lng": 124.6403
+    },
+    {
+     "id": "cagayan-de-oro-transport-1",
+     "name": "Laguindingan Airport",
+     "category": "how_to_get_around",
+     "lat": 8.6122,
+     "lng": 124.6111,
+     "description": "Airport serving CDO and Iligan; 45-min shuttle to the city.",
+     "priceRange": "₱2,000-5,000 from Manila",
+     "area": "Laguindingan",
+     "bestTime": "Check schedules before traveling",
+     "placeType": "airport"
+    },
+    {
+     "id": "cagayan-de-oro-transport-2",
+     "name": "Agora Bus Terminal",
+     "category": "how_to_get_around",
+     "lat": 8.4917,
+     "lng": 124.6314,
+     "description": "Buses to Davao, Butuan, Bukidnon and Iligan.",
+     "priceRange": "₱200-800 by route",
+     "area": "Agora",
+     "bestTime": "Check schedules before traveling",
+     "placeType": "bus terminal"
+    },
+    {
+     "id": "cagayan-de-oro-transport-3",
+     "name": "Macabalan Port",
+     "category": "how_to_get_around",
+     "lat": 8.5006,
+     "lng": 124.6461,
+     "description": "Ferries to Cebu, Bohol and Camiguin.",
+     "priceRange": "₱800-1,500 overnight",
+     "area": "Macabalan",
+     "bestTime": "Check schedules before traveling",
+     "placeType": "seaport"
+    }
+   ],
+   "transport": [
+    {
+     "type": "Tricycle",
+     "useCase": "Short trips within neighborhoods",
+     "priceRange": "₱15-40 per ride",
+     "notes": "Easy to hail on side streets; agree on the fare before riding."
+    },
+    {
+     "type": "Jeepney",
+     "useCase": "Main routes across the city",
+     "priceRange": "₱12-20 per ride",
+     "notes": "Look for route signs on the windshield; multicabs serve shorter hops."
+    },
+    {
+     "type": "Van",
+     "useCase": "Tours to Mapawa, Macahambus, and Dahilayan",
+     "priceRange": "₱200-600 per person",
+     "notes": "Most adventure operators include van transfers in their packages."
+    },
+    {
+     "type": "Scooter rental",
+     "useCase": "Flexible exploring around the metro",
+     "priceRange": "₱400-700 per day",
+     "notes": "Check the rental's condition and always wear a helmet."
+    },
+    {
+     "type": "Boat transfer",
+     "useCase": "Ferries to Camiguin via Balingoan port",
+     "priceRange": "₱250-400 per ride",
+     "notes": "Take a bus or van to Balingoan port, then the ferry to Benoni."
+    },
+    {
+     "type": "Taxi or ride-hailing",
+     "useCase": "Airport runs and comfortable city rides",
+     "priceRange": "₱100-350 per trip",
+     "notes": "Grab is available; metered taxis queue at malls and Laguindingan airport."
+    }
+   ],
+   "provinceId": "misamis-oriental"
+  },
+  {
+   "id": "zamboanga",
+   "name": "Zamboanga",
+   "region": "Mindanao",
+   "province": "Zamboanga del Sur",
+   "tagline": "Asia's Latin City",
+   "description": "A historic coastal city where Spanish-era forts meet pink-sand beaches and vibrant Chavacano culture. Off the beaten path and full of surprises.",
+   "whyPopular": "The famous pink sand of Santa Cruz Island, colorful vintas, and a unique blend of cultures make it unlike anywhere else in the country.",
+   "bestTime": "Dry season December to May; Hermosa Festival in October",
+   "howToGetThere": "Direct flights to Zamboanga International Airport (ZAM) from Manila, Cebu, and Davao",
+   "centerLat": 6.9214,
+   "centerLng": 122.079,
+   "places": [
+    {
+     "id": "zamboanga-santa-cruz-island",
+     "name": "Great Santa Cruz Island",
+     "category": "where_to_go",
+     "placeType": "beach",
+     "description": "One of the world's rare pink-sand beaches, with coral gardens and mangrove lagoons.",
+     "priceRange": "$$",
+     "area": "Santa Cruz Island",
+     "bestTime": "December to May, morning",
+     "lat": 6.8567,
+     "lng": 122.0617
+    },
+    {
+     "id": "zamboanga-fort-pilar",
+     "name": "Fort Pilar",
+     "category": "where_to_go",
+     "placeType": "city landmark",
+     "description": "A 17th-century Spanish fort housing a shrine and museum, the city's most iconic landmark.",
+     "priceRange": "Free",
+     "area": "Poblacion",
+     "bestTime": "Morning or late afternoon",
+     "lat": 6.9019,
+     "lng": 122.0744
+    },
+    {
+     "id": "zamboanga-paseo-del-mar",
+     "name": "Paseo del Mar",
+     "category": "where_to_go",
+     "placeType": "park",
+     "description": "A scenic waterfront promenade perfect for sunset walks, street food, and sea views.",
+     "priceRange": "Free",
+     "area": "Poblacion",
+     "bestTime": "Sunset",
+     "lat": 6.9003,
+     "lng": 122.0736
+    },
+    {
+     "id": "zamboanga-merloquet-falls",
+     "name": "Merloquet Falls",
+     "category": "where_to_go",
+     "placeType": "waterfall",
+     "description": "A two-tiered waterfall with a natural infinity pool, hidden in the hills east of the city.",
+     "priceRange": "$",
+     "area": "Sibulao",
+     "bestTime": "Morning, rainy season for full flow",
+     "lat": 7.31082,
+     "lng": 122.21365
+    },
+    {
+     "id": "zamboanga-yakan-village",
+     "name": "Yakan Weaving Village",
+     "category": "where_to_go",
+     "placeType": "city landmark",
+     "description": "Watch Yakan weavers create intricate traditional textiles and shop authentic handmade crafts.",
+     "priceRange": "Free",
+     "area": "Poblacion",
+     "bestTime": "Morning",
+     "lat": 6.915,
+     "lng": 122.09
+    },
+    {
+     "id": "zamboanga-pink-beach-trip",
+     "name": "Pink Beach Day Trip",
+     "category": "things_to_do",
+     "placeType": "nature",
+     "description": "Boat to Great Santa Cruz Island for pink sand, snorkeling, and a seafood lunch by the shore.",
+     "priceRange": "$$$",
+     "area": "Santa Cruz Island",
+     "bestTime": "Book 1-2 days ahead",
+     "lat": 6.8567,
+     "lng": 122.0617
+    },
+    {
+     "id": "zamboanga-yakan-weaving",
+     "name": "Yakan Weaving Workshop",
+     "category": "things_to_do",
+     "placeType": "culture",
+     "description": "Try your hand at the Yakan backstrap loom and learn the stories behind each pattern.",
+     "priceRange": "$",
+     "area": "Poblacion",
+     "bestTime": "Morning",
+     "lat": 6.915,
+     "lng": 122.09
+    },
+    {
+     "id": "zamboanga-falls-trek",
+     "name": "Merloquet Falls Trek",
+     "category": "things_to_do",
+     "placeType": "adventure",
+     "description": "Trek through forest trails to the falls' infinity pool for a swim above the canopy.",
+     "priceRange": "$",
+     "area": "Sibulao",
+     "bestTime": "Morning",
+     "lat": 7.31082,
+     "lng": 122.21365
+    },
+    {
+     "id": "zamboanga-sunset-promenade",
+     "name": "Sunset at Paseo del Mar",
+     "category": "things_to_do",
+     "placeType": "relaxation",
+     "description": "Grab grilled snacks from the stalls and watch the sun sink over the Sulu Sea.",
+     "priceRange": "$",
+     "area": "Poblacion",
+     "bestTime": "Late afternoon",
+     "lat": 6.9003,
+     "lng": 122.0736
+    },
+    {
+     "id": "zamboanga-alavar",
+     "name": "Alavar Seafood Restaurant",
+     "category": "where_to_eat",
+     "placeType": "restaurant",
+     "description": "Zamboanga institution famous for curacha crabs in coconut milk and fresh seafood platters.",
+     "priceRange": "$$",
+     "area": "Poblacion",
+     "bestTime": "Lunch and dinner",
+     "lat": 6.9156,
+     "lng": 122.0789
+    },
+    {
+     "id": "zamboanga-dennis-coffee",
+     "name": "Dennis Coffee Garden",
+     "category": "where_to_eat",
+     "placeType": "cafe",
+     "description": "Garden cafe serving native coffee, fresh buko juice, and classic Filipino snacks.",
+     "priceRange": "$",
+     "area": "Poblacion",
+     "bestTime": "Afternoon",
+     "lat": 6.9122,
+     "lng": 122.0767
+    },
+    {
+     "id": "zamboanga-jimmys-satti",
+     "name": "Jimmy's Satti House",
+     "category": "where_to_eat",
+     "placeType": "restaurant",
+     "description": "Local favorite for satti, Zamboanga's spicy Tausug-style grilled skewers with rice sauce.",
+     "priceRange": "$",
+     "area": "Poblacion",
+     "bestTime": "Breakfast and merienda",
+     "lat": 6.9183,
+     "lng": 122.0806
+    },
+    {
+     "id": "zamboanga-garden-orchid",
+     "name": "Garden Orchid Hotel",
+     "category": "where_to_stay",
+     "placeType": "hotel",
+     "description": "The city's premier hotel with gardens, pools, and restaurants near the waterfront.",
+     "priceRange": "$$$",
+     "area": "Poblacion",
+     "bestTime": "Year-round",
+     "lat": 6.9189,
+     "lng": 122.0778
+    },
+    {
+     "id": "zamboanga-marcian-hotel",
+     "name": "Marcian Hotel",
+     "category": "where_to_stay",
+     "placeType": "hotel",
+     "description": "Modern business hotel with comfortable rooms and a rooftop pool in the city center.",
+     "priceRange": "$$$",
+     "area": "Poblacion",
+     "bestTime": "Year-round",
+     "lat": 6.9206,
+     "lng": 122.0817
+    },
+    {
+     "id": "zamboanga-lm-metro",
+     "name": "LM Metro Hotel",
+     "category": "where_to_stay",
+     "placeType": "hotel",
+     "description": "Budget-friendly hotel with clean, spacious rooms close to shopping areas.",
+     "priceRange": "$$",
+     "area": "Poblacion",
+     "bestTime": "Year-round",
+     "lat": 6.9228,
+     "lng": 122.0833
+    },
+    {
+     "id": "zamboanga-sm-mindpro",
+     "name": "SM City Mindpro",
+     "category": "where_to_buy",
+     "placeType": "mall",
+     "description": "The city's main mall with local and national brands, plus a supermarket and cinemas.",
+     "priceRange": "$$",
+     "area": "Poblacion",
+     "bestTime": "Afternoon and evening",
+     "lat": 6.9197,
+     "lng": 122.0822
+    },
+    {
+     "id": "zamboanga-canelar-market",
+     "name": "Canelar Public Market",
+     "category": "where_to_buy",
+     "placeType": "market",
+     "description": "Lively market for seafood, seaweed delicacies, and Yakan woven souvenirs.",
+     "priceRange": "$",
+     "area": "Canelar",
+     "bestTime": "Morning",
+     "lat": 6.9278,
+     "lng": 122.085
+    },
+    {
+     "id": "zamboanga-transport-1",
+     "name": "Zamboanga International Airport",
+     "category": "how_to_get_around",
+     "lat": 6.9224,
+     "lng": 122.0596,
+     "description": "Gateway to the Zamboanga Peninsula; 15 min to downtown.",
+     "priceRange": "₱2,500-5,000 from Manila",
+     "area": "Tumaga",
+     "bestTime": "Check schedules before traveling",
+     "placeType": "airport"
+    },
+    {
+     "id": "zamboanga-transport-2",
+     "name": "Zamboanga Port",
+     "category": "how_to_get_around",
+     "lat": 6.9043,
+     "lng": 122.0745,
+     "description": "Ferries to Basilan, Jolo and Sandakan, Malaysia.",
+     "priceRange": "₱400-900 by route",
+     "area": "City Proper",
+     "bestTime": "Check schedules before traveling",
+     "placeType": "seaport"
+    },
+    {
+     "id": "zamboanga-transport-3",
+     "name": "Zamboanga Bus Terminal",
+     "category": "how_to_get_around",
+     "lat": 6.9161,
+     "lng": 122.0376,
+     "description": "Buses to Pagadian, Dipolog and Ipil.",
+     "priceRange": "₱200-600 by route",
+     "area": "Guiwan",
+     "bestTime": "Check schedules before traveling",
+     "placeType": "bus terminal"
+    }
+   ],
+   "transport": [
+    {
+     "type": "Tricycle",
+     "useCase": "Getting around the city center",
+     "priceRange": "₱15-40 per ride",
+     "notes": "Plentiful downtown; agree on the fare before the trip."
+    },
+    {
+     "type": "Jeepney",
+     "useCase": "Routes across the city and nearby towns",
+     "priceRange": "₱12-20 per ride",
+     "notes": "Routes cover most barangays; ask locals for the right jeepney sign."
+    },
+    {
+     "type": "Van",
+     "useCase": "Airport transfers and tours to Merloquet Falls",
+     "priceRange": "₱150-500 per person",
+     "notes": "Tour vans are best booked through hotels or travel agencies."
+    },
+    {
+     "type": "Scooter rental",
+     "useCase": "Independent day trips",
+     "priceRange": "₱400-700 per day",
+     "notes": "Limited rental shops; book in advance through your hotel."
+    },
+    {
+     "type": "Boat transfer",
+     "useCase": "Trips to Great Santa Cruz Island",
+     "priceRange": "₱1,000-2,000 per person",
+     "notes": "Book at the Paseo del Mar tourism desk; permits and guides are required."
+    },
+    {
+     "type": "Taxi or ride-hailing",
+     "useCase": "Airport runs and longer city rides",
+     "priceRange": "₱100-300 per trip",
+     "notes": "Metered taxis are common; ride-hailing apps have limited coverage."
+    }
+   ],
+   "provinceId": "zamboanga-del-sur"
+  }
+ ]
+}

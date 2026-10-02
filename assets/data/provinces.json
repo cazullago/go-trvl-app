@@ -1,0 +1,3878 @@
+{
+ "provinces": [
+  {
+   "capital": "Bangued",
+   "description": "A quiet Cordillera province of winding rivers and mountain valleys, known for its traditional weaving and riverside towns. It offers a slow-paced glimpse of upland life away from the tourist trail.",
+   "id": "abra",
+   "lat": 17.6,
+   "lng": 120.83,
+   "name": "Abra",
+   "region": "Luzon",
+   "tagline": "Cordillera rivers and traditional weaving",
+   "tags": [
+    "Province",
+    "Nature",
+    "Culture"
+   ],
+   "cities": [
+    {
+     "name": "Bangued",
+     "type": "municipality",
+     "lat": 17.6,
+     "lng": 120.61
+    },
+    {
+     "name": "Tayum",
+     "type": "municipality",
+     "lat": 17.62,
+     "lng": 120.64
+    },
+    {
+     "name": "Bucay",
+     "type": "municipality",
+     "lat": 17.73,
+     "lng": 120.72
+    },
+    {
+     "name": "Lagangilang",
+     "type": "municipality",
+     "lat": 17.63,
+     "lng": 120.74
+    }
+   ]
+  },
+  {
+   "capital": "Kabugao",
+   "description": "The northernmost Cordillera province, a remote land of forests and rivers with rich Isnag culture. River tubing and jungle trails reward adventurous travelers.",
+   "id": "apayao",
+   "lat": 18.0,
+   "lng": 121.15,
+   "name": "Apayao",
+   "region": "Luzon",
+   "tagline": "Remote forests and river adventures",
+   "tags": [
+    "Province",
+    "Nature",
+    "Adventure"
+   ],
+   "cities": [
+    {
+     "name": "Kabugao",
+     "type": "municipality",
+     "lat": 18.15,
+     "lng": 121.18
+    },
+    {
+     "name": "Luna",
+     "type": "municipality",
+     "lat": 18.3,
+     "lng": 121.37
+    },
+    {
+     "name": "Calanasan",
+     "type": "municipality",
+     "lat": 18.25,
+     "lng": 120.99
+    }
+   ]
+  },
+  {
+   "capital": "La Trinidad",
+   "description": "Highland province home to Baguio City, cool pine forests and the region's famous strawberry farms. Visitors come for the crisp mountain air and scenic vegetable terraces.",
+   "id": "benguet",
+   "lat": 16.5,
+   "lng": 120.6,
+   "name": "Benguet",
+   "region": "Luzon",
+   "tagline": "Summer Capital and strawberry country",
+   "tags": [
+    "Province",
+    "Nature",
+    "Food"
+   ],
+   "cities": [
+    {
+     "name": "Baguio City",
+     "type": "city",
+     "lat": 16.4,
+     "lng": 120.6
+    },
+    {
+     "name": "La Trinidad",
+     "type": "municipality",
+     "lat": 16.47,
+     "lng": 120.58
+    },
+    {
+     "name": "Tuba",
+     "type": "municipality",
+     "lat": 16.23,
+     "lng": 120.52
+    },
+    {
+     "name": "Sablan",
+     "type": "municipality",
+     "lat": 16.48,
+     "lng": 120.48
+    },
+    {
+     "name": "Itogon",
+     "type": "municipality",
+     "lat": 16.38,
+     "lng": 120.68
+    }
+   ]
+  },
+  {
+   "capital": "Lagawe",
+   "description": "Famed for the ancient rice terraces of Banaue and Batad, hand-carved into mountainsides centuries ago. It is the cultural heart of Cordillera mountain communities.",
+   "id": "ifugao",
+   "lat": 16.85,
+   "lng": 121.07,
+   "name": "Ifugao",
+   "region": "Luzon",
+   "tagline": "Rice terraces and mountain culture",
+   "tags": [
+    "Province",
+    "Nature",
+    "Culture"
+   ],
+   "cities": [
+    {
+     "name": "Lagawe",
+     "type": "municipality",
+     "lat": 16.8,
+     "lng": 121.12
+    },
+    {
+     "name": "Banaue",
+     "type": "municipality",
+     "lat": 16.91,
+     "lng": 121.06
+    },
+    {
+     "name": "Kiangan",
+     "type": "municipality",
+     "lat": 16.78,
+     "lng": 121.1
+    },
+    {
+     "name": "Mayoyao",
+     "type": "municipality",
+     "lat": 16.97,
+     "lng": 121.22
+    },
+    {
+     "name": "Hungduan",
+     "type": "municipality",
+     "lat": 16.83,
+     "lng": 120.99
+    }
+   ]
+  },
+  {
+   "capital": "Tabuk City",
+   "description": "A province of dramatic rice terraces, the Chico River and strong tribal traditions, including the tattoo artistry of Buscalan. Whitewater rafting and trekking draw adventure seekers.",
+   "id": "kalinga",
+   "lat": 17.75,
+   "lng": 121.28,
+   "name": "Kalinga",
+   "region": "Luzon",
+   "tagline": "Terraces, river rapids and tribal tattoos",
+   "tags": [
+    "Province",
+    "Nature",
+    "Adventure",
+    "Culture"
+   ],
+   "cities": [
+    {
+     "name": "Tabuk City",
+     "type": "city",
+     "lat": 17.41,
+     "lng": 121.44
+    },
+    {
+     "name": "Tinglayan",
+     "type": "municipality",
+     "lat": 17.27,
+     "lng": 121.14
+    },
+    {
+     "name": "Lubuagan",
+     "type": "municipality",
+     "lat": 17.36,
+     "lng": 121.13
+    }
+   ]
+  },
+  {
+   "capital": "Bontoc",
+   "description": "Home to Sagada's hanging coffins, limestone caves and cool pine forests. Its rice terraces and weaving villages showcase living Igorot culture.",
+   "id": "mountain-province",
+   "lat": 17.1,
+   "lng": 121.13,
+   "name": "Mountain Province",
+   "region": "Luzon",
+   "tagline": "Sagada's caves and hanging coffins",
+   "tags": [
+    "Province",
+    "Nature",
+    "Culture",
+    "Adventure"
+   ],
+   "cities": [
+    {
+     "name": "Bontoc",
+     "type": "municipality",
+     "lat": 17.09,
+     "lng": 121.0
+    },
+    {
+     "name": "Sagada",
+     "type": "municipality",
+     "lat": 17.08,
+     "lng": 120.91
+    },
+    {
+     "name": "Besao",
+     "type": "municipality",
+     "lat": 17.02,
+     "lng": 120.85
+    },
+    {
+     "name": "Sabangan",
+     "type": "municipality",
+     "lat": 16.98,
+     "lng": 121.03
+    }
+   ]
+  },
+  {
+   "capital": "Laoag City",
+   "description": "A province of Spanish-era churches, the famous Bangui windmills and rugged northern coastline. Laoag is the gateway to sand dunes and heritage towns.",
+   "id": "ilocos-norte",
+   "lat": 18.13,
+   "lng": 120.93,
+   "name": "Ilocos Norte",
+   "region": "Luzon",
+   "tagline": "Windmills and colonial heritage",
+   "tags": [
+    "Province",
+    "Culture",
+    "Beach"
+   ],
+   "cities": [
+    {
+     "name": "Laoag City",
+     "type": "city",
+     "lat": 18.19,
+     "lng": 120.59
+    },
+    {
+     "name": "Batac City",
+     "type": "city",
+     "lat": 18.05,
+     "lng": 120.56
+    },
+    {
+     "name": "Pagudpud",
+     "type": "municipality",
+     "lat": 18.56,
+     "lng": 120.79
+    },
+    {
+     "name": "Bangui",
+     "type": "municipality",
+     "lat": 18.54,
+     "lng": 120.77
+    },
+    {
+     "name": "Paoay",
+     "type": "municipality",
+     "lat": 18.06,
+     "lng": 120.52
+    }
+   ]
+  },
+  {
+   "capital": "Vigan City",
+   "description": "Home to Vigan, one of the best-preserved Spanish colonial cities in Asia with its cobblestone Calle Crisologo. The province blends heritage architecture with coastal scenery.",
+   "id": "ilocos-sur",
+   "lat": 17.68,
+   "lng": 120.45,
+   "name": "Ilocos Sur",
+   "region": "Luzon",
+   "tagline": "Home of historic Vigan",
+   "tags": [
+    "Province",
+    "Culture",
+    "Food"
+   ],
+   "cities": [
+    {
+     "name": "Vigan City",
+     "type": "city",
+     "lat": 17.57,
+     "lng": 120.39
+    },
+    {
+     "name": "Candon City",
+     "type": "city",
+     "lat": 17.19,
+     "lng": 120.45
+    },
+    {
+     "name": "Santa Maria",
+     "type": "municipality",
+     "lat": 17.41,
+     "lng": 120.48
+    },
+    {
+     "name": "Narvacan",
+     "type": "municipality",
+     "lat": 17.42,
+     "lng": 120.48
+    }
+   ]
+  },
+  {
+   "capital": "City of San Fernando",
+   "description": "A coastal province whose town of San Juan is a well-known surfing hub. It mixes beach bars, grape farms and Ilocano food culture.",
+   "id": "la-union",
+   "lat": 16.6,
+   "lng": 120.33,
+   "name": "La Union",
+   "region": "Luzon",
+   "tagline": "Surfing Capital of the North",
+   "tags": [
+    "Province",
+    "Beach",
+    "Food"
+   ],
+   "cities": [
+    {
+     "name": "San Fernando City",
+     "type": "city",
+     "lat": 16.61,
+     "lng": 120.32
+    },
+    {
+     "name": "San Juan",
+     "type": "municipality",
+     "lat": 16.67,
+     "lng": 120.33
+    },
+    {
+     "name": "Bauang",
+     "type": "municipality",
+     "lat": 16.52,
+     "lng": 120.33
+    },
+    {
+     "name": "Agoo",
+     "type": "municipality",
+     "lat": 16.32,
+     "lng": 120.37
+    }
+   ]
+  },
+  {
+   "capital": "Lingayen",
+   "description": "Home to the Hundred Islands National Park and the pilgrimage city of Manaoag. Its long coastline serves up seafood and beach resorts.",
+   "id": "pangasinan",
+   "lat": 16.02,
+   "lng": 120.35,
+   "name": "Pangasinan",
+   "region": "Luzon",
+   "tagline": "Home of the Hundred Islands",
+   "tags": [
+    "Province",
+    "Beach",
+    "Food"
+   ],
+   "cities": [
+    {
+     "name": "Lingayen",
+     "type": "municipality",
+     "lat": 16.02,
+     "lng": 120.23
+    },
+    {
+     "name": "Dagupan City",
+     "type": "city",
+     "lat": 16.04,
+     "lng": 120.34
+    },
+    {
+     "name": "Alaminos City",
+     "type": "city",
+     "lat": 16.15,
+     "lng": 119.98
+    },
+    {
+     "name": "Bolinao",
+     "type": "municipality",
+     "lat": 16.28,
+     "lng": 119.89
+    },
+    {
+     "name": "San Carlos City",
+     "type": "city",
+     "lat": 16.02,
+     "lng": 120.35
+    },
+    {
+     "name": "Urdaneta City",
+     "type": "city",
+     "lat": 15.98,
+     "lng": 120.57
+    }
+   ]
+  },
+  {
+   "capital": "Basco",
+   "description": "The northernmost province of the Philippines, a windswept archipelago of rolling hills and stone houses. Its dramatic landscapes and Ivatan culture feel worlds away from the mainland.",
+   "id": "batanes",
+   "lat": 20.45,
+   "lng": 121.97,
+   "name": "Batanes",
+   "region": "Luzon",
+   "tagline": "Home of the Winds",
+   "tags": [
+    "Province",
+    "Nature",
+    "Culture"
+   ],
+   "cities": [
+    {
+     "name": "Basco",
+     "type": "municipality",
+     "lat": 20.45,
+     "lng": 121.97
+    },
+    {
+     "name": "Ivana",
+     "type": "municipality",
+     "lat": 20.37,
+     "lng": 121.92
+    },
+    {
+     "name": "Sabtang",
+     "type": "municipality",
+     "lat": 20.33,
+     "lng": 121.87
+    },
+    {
+     "name": "Itbayat",
+     "type": "municipality",
+     "lat": 20.79,
+     "lng": 121.84
+    }
+   ]
+  },
+  {
+   "capital": "Tuguegarao City",
+   "description": "A northern Luzon province of limestone caves, the Sierra Madre foothills and the winding Cagayan River. Callao Cave's cathedral-like chambers are its best-known attraction.",
+   "id": "cagayan",
+   "lat": 18.05,
+   "lng": 121.72,
+   "name": "Cagayan",
+   "region": "Luzon",
+   "tagline": "Caves and the northern Sierra Madre",
+   "tags": [
+    "Province",
+    "Nature",
+    "Adventure"
+   ],
+   "cities": [
+    {
+     "name": "Tuguegarao City",
+     "type": "city",
+     "lat": 17.62,
+     "lng": 121.73
+    },
+    {
+     "name": "Aparri",
+     "type": "municipality",
+     "lat": 18.36,
+     "lng": 121.64
+    },
+    {
+     "name": "Santa Ana",
+     "type": "municipality",
+     "lat": 18.47,
+     "lng": 122.16
+    },
+    {
+     "name": "Peñablanca",
+     "type": "municipality",
+     "lat": 17.73,
+     "lng": 121.79
+    }
+   ]
+  },
+  {
+   "capital": "Ilagan City",
+   "description": "The largest province of Luzon by land area, dominated by rice and corn farmlands along the Cagayan Valley. It is an agricultural heartland with emerging eco-tourism spots.",
+   "id": "isabela",
+   "lat": 16.9,
+   "lng": 121.95,
+   "name": "Isabela",
+   "region": "Luzon",
+   "tagline": "Agricultural heartland of the Cagayan Valley",
+   "tags": [
+    "Province",
+    "Nature",
+    "Food"
+   ],
+   "cities": [
+    {
+     "name": "Ilagan City",
+     "type": "city",
+     "lat": 17.14,
+     "lng": 121.88
+    },
+    {
+     "name": "Cauayan City",
+     "type": "city",
+     "lat": 16.94,
+     "lng": 121.77
+    },
+    {
+     "name": "Santiago City",
+     "type": "city",
+     "lat": 16.68,
+     "lng": 121.55
+    },
+    {
+     "name": "Echague",
+     "type": "municipality",
+     "lat": 16.71,
+     "lng": 121.68
+    }
+   ]
+  },
+  {
+   "capital": "Bayombong",
+   "description": "A landlocked province of watershed forests and mountain towns in the Cagayan Valley. It is known for citrus farms, spelunking caves and cool upland scenery.",
+   "id": "nueva-vizcaya",
+   "lat": 16.48,
+   "lng": 121.15,
+   "name": "Nueva Vizcaya",
+   "region": "Luzon",
+   "tagline": "Watershed forests and mountain towns",
+   "tags": [
+    "Province",
+    "Nature"
+   ],
+   "cities": [
+    {
+     "name": "Bayombong",
+     "type": "municipality",
+     "lat": 16.49,
+     "lng": 121.15
+    },
+    {
+     "name": "Solano",
+     "type": "municipality",
+     "lat": 16.52,
+     "lng": 121.18
+    },
+    {
+     "name": "Bambang",
+     "type": "municipality",
+     "lat": 16.39,
+     "lng": 121.1
+    },
+    {
+     "name": "Kasibu",
+     "type": "municipality",
+     "lat": 16.32,
+     "lng": 121.28
+    }
+   ]
+  },
+  {
+   "capital": "Cabarroguis",
+   "description": "A small, forested province of the Cagayan Valley known for river rapids and cave systems. It is a quiet frontier for rafting and jungle treks.",
+   "id": "quirino",
+   "lat": 16.28,
+   "lng": 121.55,
+   "name": "Quirino",
+   "region": "Luzon",
+   "tagline": "River rapids and forested mountains",
+   "tags": [
+    "Province",
+    "Nature",
+    "Adventure"
+   ],
+   "cities": [
+    {
+     "name": "Cabarroguis",
+     "type": "municipality",
+     "lat": 16.55,
+     "lng": 121.53
+    },
+    {
+     "name": "Diffun",
+     "type": "municipality",
+     "lat": 16.59,
+     "lng": 121.49
+    },
+    {
+     "name": "Maddela",
+     "type": "municipality",
+     "lat": 16.34,
+     "lng": 121.7
+    }
+   ]
+  },
+  {
+   "capital": "Baler",
+   "description": "A Pacific-facing province where Baler made Philippine surfing history. Rainforest mountains, waterfalls and memorials to the town's heritage line its coastline.",
+   "id": "aurora",
+   "lat": 15.88,
+   "lng": 121.6,
+   "name": "Aurora",
+   "region": "Luzon",
+   "tagline": "Surfing coast and rainforest",
+   "tags": [
+    "Province",
+    "Beach",
+    "Nature",
+    "Adventure"
+   ],
+   "cities": [
+    {
+     "name": "Baler",
+     "type": "municipality",
+     "lat": 15.76,
+     "lng": 121.56
+    },
+    {
+     "name": "Dingalan",
+     "type": "municipality",
+     "lat": 15.39,
+     "lng": 121.63
+    },
+    {
+     "name": "Casiguran",
+     "type": "municipality",
+     "lat": 16.28,
+     "lng": 122.12
+    },
+    {
+     "name": "Dipaculao",
+     "type": "municipality",
+     "lat": 15.96,
+     "lng": 121.61
+    }
+   ]
+  },
+  {
+   "capital": "Balanga City",
+   "description": "A historic peninsula famous for its World War II memorials, including the Shrine of Valor atop Mount Samat. Its coastline offers beaches and coves within easy reach of Manila.",
+   "id": "bataan",
+   "lat": 14.68,
+   "lng": 120.5,
+   "name": "Bataan",
+   "region": "Luzon",
+   "tagline": "WWII history and coastal mountains",
+   "tags": [
+    "Province",
+    "Culture",
+    "Beach"
+   ],
+   "cities": [
+    {
+     "name": "Balanga City",
+     "type": "city",
+     "lat": 14.68,
+     "lng": 120.54
+    },
+    {
+     "name": "Mariveles",
+     "type": "municipality",
+     "lat": 14.43,
+     "lng": 120.49
+    },
+    {
+     "name": "Bagac",
+     "type": "municipality",
+     "lat": 14.6,
+     "lng": 120.4
+    },
+    {
+     "name": "Morong",
+     "type": "municipality",
+     "lat": 14.68,
+     "lng": 120.27
+    }
+   ]
+  },
+  {
+   "capital": "Malolos City",
+   "description": "A historic province where the First Philippine Republic was born in Malolos. It is known for old churches, river towns and a strong culinary tradition.",
+   "id": "bulacan",
+   "lat": 14.85,
+   "lng": 120.85,
+   "name": "Bulacan",
+   "region": "Luzon",
+   "tagline": "Birthplace of the First Philippine Republic",
+   "tags": [
+    "Province",
+    "Culture",
+    "Food"
+   ],
+   "cities": [
+    {
+     "name": "Malolos City",
+     "type": "city",
+     "lat": 14.84,
+     "lng": 120.81
+    },
+    {
+     "name": "Meycauayan City",
+     "type": "city",
+     "lat": 14.74,
+     "lng": 120.96
+    },
+    {
+     "name": "San Jose del Monte City",
+     "type": "city",
+     "lat": 14.81,
+     "lng": 121.05
+    },
+    {
+     "name": "Baliwag City",
+     "type": "city",
+     "lat": 14.95,
+     "lng": 120.9
+    },
+    {
+     "name": "Santa Maria",
+     "type": "municipality",
+     "lat": 14.82,
+     "lng": 121.03
+    },
+    {
+     "name": "Plaridel",
+     "type": "municipality",
+     "lat": 14.89,
+     "lng": 120.86
+    },
+    {
+     "name": "Bocaue",
+     "type": "municipality",
+     "lat": 14.8,
+     "lng": 120.93
+    }
+   ]
+  },
+  {
+   "capital": "Palayan City",
+   "description": "The country's rice granary, a vast plain of rice fields and irrigation dams. Minalungao National Park's river canyon is its scenic highlight.",
+   "id": "nueva-ecija",
+   "lat": 15.6,
+   "lng": 120.98,
+   "name": "Nueva Ecija",
+   "region": "Luzon",
+   "tagline": "Rice Granary of the Philippines",
+   "tags": [
+    "Province",
+    "Nature",
+    "Food"
+   ],
+   "cities": [
+    {
+     "name": "Palayan City",
+     "type": "city",
+     "lat": 15.54,
+     "lng": 121.09
+    },
+    {
+     "name": "Cabanatuan City",
+     "type": "city",
+     "lat": 15.49,
+     "lng": 120.97
+    },
+    {
+     "name": "Gapan City",
+     "type": "city",
+     "lat": 15.31,
+     "lng": 120.95
+    },
+    {
+     "name": "Science City of Muñoz",
+     "type": "city",
+     "lat": 15.72,
+     "lng": 120.9
+    },
+    {
+     "name": "San Jose City",
+     "type": "city",
+     "lat": 15.79,
+     "lng": 120.99
+    }
+   ]
+  },
+  {
+   "capital": "City of San Fernando",
+   "description": "The culinary capital of the Philippines, home to sisig and a rich Kapampangan food culture. It also anchors Central Luzon trade and the Clark economic zone.",
+   "id": "pampanga",
+   "lat": 15.05,
+   "lng": 120.68,
+   "name": "Pampanga",
+   "region": "Luzon",
+   "tagline": "Culinary capital of the Philippines",
+   "tags": [
+    "Province",
+    "Food",
+    "Culture"
+   ],
+   "cities": [
+    {
+     "name": "San Fernando City",
+     "type": "city",
+     "lat": 15.03,
+     "lng": 120.69
+    },
+    {
+     "name": "Angeles City",
+     "type": "city",
+     "lat": 15.15,
+     "lng": 120.59
+    },
+    {
+     "name": "Mabalacat City",
+     "type": "city",
+     "lat": 15.22,
+     "lng": 120.58
+    },
+    {
+     "name": "Apalit",
+     "type": "municipality",
+     "lat": 14.95,
+     "lng": 120.77
+    },
+    {
+     "name": "Guagua",
+     "type": "municipality",
+     "lat": 14.97,
+     "lng": 120.63
+    }
+   ]
+  },
+  {
+   "capital": "Tarlac City",
+   "description": "A central Luzon province of flat farmlands and sugar fields. It is best known as the gateway to Mount Pinatubo treks and the historic Capas shrine.",
+   "id": "tarlac",
+   "lat": 15.5,
+   "lng": 120.6,
+   "name": "Tarlac",
+   "region": "Luzon",
+   "tagline": "Gateway to Mount Pinatubo",
+   "tags": [
+    "Province",
+    "Nature"
+   ],
+   "cities": [
+    {
+     "name": "Tarlac City",
+     "type": "city",
+     "lat": 15.49,
+     "lng": 120.59
+    },
+    {
+     "name": "Concepcion",
+     "type": "municipality",
+     "lat": 15.33,
+     "lng": 120.66
+    },
+    {
+     "name": "Capas",
+     "type": "municipality",
+     "lat": 15.34,
+     "lng": 120.59
+    },
+    {
+     "name": "Bamban",
+     "type": "municipality",
+     "lat": 15.27,
+     "lng": 120.56
+    }
+   ]
+  },
+  {
+   "capital": "Iba",
+   "description": "A western Luzon province of beaches, coves and pine-flecked mountains, with access to Mount Pinatubo's crater lake. Its coastal towns are weekend favorites for camping and surfing.",
+   "id": "zambales",
+   "lat": 15.35,
+   "lng": 120.07,
+   "name": "Zambales",
+   "region": "Luzon",
+   "tagline": "Beaches, coves and Mount Pinatubo",
+   "tags": [
+    "Province",
+    "Beach",
+    "Adventure"
+   ],
+   "cities": [
+    {
+     "name": "Olongapo City",
+     "type": "city",
+     "lat": 15.0,
+     "lng": 120.48
+    },
+    {
+     "name": "Iba",
+     "type": "municipality",
+     "lat": 15.33,
+     "lng": 119.98
+    },
+    {
+     "name": "Subic",
+     "type": "municipality",
+     "lat": 14.88,
+     "lng": 120.23
+    },
+    {
+     "name": "San Antonio",
+     "type": "municipality",
+     "lat": 14.95,
+     "lng": 120.06
+    },
+    {
+     "name": "Botolan",
+     "type": "municipality",
+     "lat": 15.29,
+     "lng": 120.02
+    },
+    {
+     "name": "Masinloc",
+     "type": "municipality",
+     "lat": 15.54,
+     "lng": 119.95
+    }
+   ]
+  },
+  {
+   "capital": "Batangas City",
+   "description": "A province of dive sites, beaches and the Taal Volcano island views. Its towns are known for heritage houses, coffee and the famous Batangas lomi.",
+   "id": "batangas",
+   "lat": 13.85,
+   "lng": 121.05,
+   "name": "Batangas",
+   "region": "Luzon",
+   "tagline": "Dive sites and Taal Volcano views",
+   "tags": [
+    "Province",
+    "Beach",
+    "Food"
+   ],
+   "cities": [
+    {
+     "name": "Batangas City",
+     "type": "city",
+     "lat": 13.76,
+     "lng": 121.06
+    },
+    {
+     "name": "Lipa City",
+     "type": "city",
+     "lat": 13.94,
+     "lng": 121.16
+    },
+    {
+     "name": "Tanauan City",
+     "type": "city",
+     "lat": 14.09,
+     "lng": 121.15
+    },
+    {
+     "name": "Santo Tomas City",
+     "type": "city",
+     "lat": 14.1,
+     "lng": 121.14
+    },
+    {
+     "name": "Nasugbu",
+     "type": "municipality",
+     "lat": 14.07,
+     "lng": 120.63
+    },
+    {
+     "name": "Taal",
+     "type": "municipality",
+     "lat": 13.88,
+     "lng": 120.93
+    },
+    {
+     "name": "San Juan",
+     "type": "municipality",
+     "lat": 13.83,
+     "lng": 121.4
+    },
+    {
+     "name": "Calatagan",
+     "type": "municipality",
+     "lat": 13.83,
+     "lng": 120.63
+    }
+   ]
+  },
+  {
+   "capital": "Imus City",
+   "description": "A historic province of old churches and battle sites from the Philippine Revolution. It is also the gateway to Tagaytay's cool highlands and weekend resorts.",
+   "id": "cavite",
+   "lat": 14.28,
+   "lng": 120.88,
+   "name": "Cavite",
+   "region": "Luzon",
+   "tagline": "Historic towns and Tagaytay's gateway",
+   "tags": [
+    "Province",
+    "Culture",
+    "Nature"
+   ],
+   "cities": [
+    {
+     "name": "Imus City",
+     "type": "city",
+     "lat": 14.42,
+     "lng": 120.94
+    },
+    {
+     "name": "Dasmariñas City",
+     "type": "city",
+     "lat": 14.33,
+     "lng": 120.94
+    },
+    {
+     "name": "Bacoor City",
+     "type": "city",
+     "lat": 14.46,
+     "lng": 120.95
+    },
+    {
+     "name": "General Trias City",
+     "type": "city",
+     "lat": 14.38,
+     "lng": 120.88
+    },
+    {
+     "name": "Cavite City",
+     "type": "city",
+     "lat": 14.48,
+     "lng": 120.9
+    },
+    {
+     "name": "Tagaytay City",
+     "type": "city",
+     "lat": 14.1,
+     "lng": 120.96
+    },
+    {
+     "name": "Silang",
+     "type": "municipality",
+     "lat": 14.23,
+     "lng": 120.93
+    },
+    {
+     "name": "Kawit",
+     "type": "municipality",
+     "lat": 14.44,
+     "lng": 120.91
+    }
+   ]
+  },
+  {
+   "capital": "Santa Cruz",
+   "description": "A lakeside province south of Manila known for hot spring resorts and waterfalls. Pagsanjan Falls and the heritage town of Pila are popular draws.",
+   "id": "laguna",
+   "lat": 14.28,
+   "lng": 121.42,
+   "name": "Laguna",
+   "region": "Luzon",
+   "tagline": "Hot springs and lakeside towns",
+   "tags": [
+    "Province",
+    "Nature",
+    "Food"
+   ],
+   "cities": [
+    {
+     "name": "Santa Cruz",
+     "type": "municipality",
+     "lat": 14.28,
+     "lng": 121.41
+    },
+    {
+     "name": "San Pablo City",
+     "type": "city",
+     "lat": 14.07,
+     "lng": 121.33
+    },
+    {
+     "name": "Calamba City",
+     "type": "city",
+     "lat": 14.22,
+     "lng": 121.17
+    },
+    {
+     "name": "Santa Rosa City",
+     "type": "city",
+     "lat": 14.31,
+     "lng": 121.11
+    },
+    {
+     "name": "Biñan City",
+     "type": "city",
+     "lat": 14.33,
+     "lng": 121.08
+    },
+    {
+     "name": "Cabuyao City",
+     "type": "city",
+     "lat": 14.27,
+     "lng": 121.13
+    },
+    {
+     "name": "Los Baños",
+     "type": "municipality",
+     "lat": 14.17,
+     "lng": 121.24
+    },
+    {
+     "name": "Pagsanjan",
+     "type": "municipality",
+     "lat": 14.27,
+     "lng": 121.45
+    },
+    {
+     "name": "Paete",
+     "type": "municipality",
+     "lat": 14.37,
+     "lng": 121.48
+    }
+   ]
+  },
+  {
+   "capital": "Lucena City",
+   "description": "A long province of coconut plantations stretching from the Sierra Madre to the Pacific coast. It is known for the Pahiyas Festival in Lucban and quiet beach towns.",
+   "id": "quezon",
+   "lat": 14.05,
+   "lng": 121.72,
+   "name": "Quezon",
+   "region": "Luzon",
+   "tagline": "Coconut coast and festival towns",
+   "tags": [
+    "Province",
+    "Nature",
+    "Beach",
+    "Culture"
+   ],
+   "cities": [
+    {
+     "name": "Lucena City",
+     "type": "city",
+     "lat": 13.94,
+     "lng": 121.61
+    },
+    {
+     "name": "Tayabas City",
+     "type": "city",
+     "lat": 14.03,
+     "lng": 121.59
+    },
+    {
+     "name": "Sariaya",
+     "type": "municipality",
+     "lat": 13.97,
+     "lng": 121.53
+    },
+    {
+     "name": "Mauban",
+     "type": "municipality",
+     "lat": 14.19,
+     "lng": 121.73
+    },
+    {
+     "name": "Infanta",
+     "type": "municipality",
+     "lat": 14.74,
+     "lng": 121.65
+    },
+    {
+     "name": "Candelaria",
+     "type": "municipality",
+     "lat": 13.93,
+     "lng": 121.42
+    }
+   ]
+  },
+  {
+   "capital": "Antipolo City",
+   "description": "A mountain province east of Manila with waterfalls, art galleries and the pilgrimage city of Antipolo. Masungi Georeserve's limestone trails are its famous attraction.",
+   "id": "rizal",
+   "lat": 14.6,
+   "lng": 121.18,
+   "name": "Rizal",
+   "region": "Luzon",
+   "tagline": "Mountain towns and artists' villages",
+   "tags": [
+    "Province",
+    "Nature",
+    "Culture"
+   ],
+   "cities": [
+    {
+     "name": "Antipolo City",
+     "type": "city",
+     "lat": 14.59,
+     "lng": 121.18
+    },
+    {
+     "name": "Rodriguez",
+     "type": "municipality",
+     "lat": 14.73,
+     "lng": 121.13
+    },
+    {
+     "name": "San Mateo",
+     "type": "municipality",
+     "lat": 14.7,
+     "lng": 121.12
+    },
+    {
+     "name": "Cainta",
+     "type": "municipality",
+     "lat": 14.58,
+     "lng": 121.11
+    },
+    {
+     "name": "Taytay",
+     "type": "municipality",
+     "lat": 14.57,
+     "lng": 121.13
+    },
+    {
+     "name": "Tanay",
+     "type": "municipality",
+     "lat": 14.5,
+     "lng": 121.29
+    }
+   ]
+  },
+  {
+   "capital": "Boac",
+   "description": "A heart-shaped island province known for the colorful Moriones Festival every Holy Week. Its beaches, caves and old churches make it a slow-paced getaway.",
+   "id": "marinduque",
+   "lat": 13.42,
+   "lng": 121.93,
+   "name": "Marinduque",
+   "region": "Luzon",
+   "tagline": "Heart of the Philippines",
+   "tags": [
+    "Province",
+    "Beach",
+    "Culture"
+   ],
+   "cities": [
+    {
+     "name": "Boac",
+     "type": "municipality",
+     "lat": 13.45,
+     "lng": 121.84
+    },
+    {
+     "name": "Gasan",
+     "type": "municipality",
+     "lat": 13.32,
+     "lng": 121.85
+    },
+    {
+     "name": "Mogpog",
+     "type": "municipality",
+     "lat": 13.48,
+     "lng": 121.87
+    },
+    {
+     "name": "Santa Cruz",
+     "type": "municipality",
+     "lat": 13.48,
+     "lng": 122.03
+    }
+   ]
+  },
+  {
+   "capital": "Mamburao",
+   "description": "The western half of Mindoro island, home to the world-class diving of Apo Reef Natural Park. It also offers white-sand beaches and mountain backdrops.",
+   "id": "occidental-mindoro",
+   "lat": 12.93,
+   "lng": 120.73,
+   "name": "Occidental Mindoro",
+   "region": "Luzon",
+   "tagline": "Apo Reef and western beaches",
+   "tags": [
+    "Province",
+    "Beach",
+    "Nature"
+   ],
+   "cities": [
+    {
+     "name": "Mamburao",
+     "type": "municipality",
+     "lat": 13.22,
+     "lng": 120.6
+    },
+    {
+     "name": "San Jose",
+     "type": "municipality",
+     "lat": 12.35,
+     "lng": 121.07
+    },
+    {
+     "name": "Sablayan",
+     "type": "municipality",
+     "lat": 12.83,
+     "lng": 120.77
+    },
+    {
+     "name": "Abra de Ilog",
+     "type": "municipality",
+     "lat": 13.44,
+     "lng": 120.73
+    }
+   ]
+  },
+  {
+   "capital": "Calapan City",
+   "description": "The eastern half of Mindoro, famous for the white beaches of Puerto Galera. It combines dive resorts, waterfalls and the indigenous Mangyan culture.",
+   "id": "oriental-mindoro",
+   "lat": 13.25,
+   "lng": 121.22,
+   "name": "Oriental Mindoro",
+   "region": "Luzon",
+   "tagline": "White beaches of Puerto Galera",
+   "tags": [
+    "Province",
+    "Beach",
+    "Nature"
+   ],
+   "cities": [
+    {
+     "name": "Calapan City",
+     "type": "city",
+     "lat": 13.41,
+     "lng": 121.18
+    },
+    {
+     "name": "Puerto Galera",
+     "type": "municipality",
+     "lat": 13.5,
+     "lng": 120.95
+    },
+    {
+     "name": "Pinamalayan",
+     "type": "municipality",
+     "lat": 13.04,
+     "lng": 121.48
+    },
+    {
+     "name": "Naujan",
+     "type": "municipality",
+     "lat": 13.32,
+     "lng": 121.3
+    }
+   ]
+  },
+  {
+   "capital": "Puerto Princesa City",
+   "description": "A long island province of limestone karsts, lagoons and some of the country's clearest waters. El Nido, Coron and the Underground River draw travelers from around the world.",
+   "id": "palawan",
+   "lat": 10.0,
+   "lng": 118.75,
+   "name": "Palawan",
+   "region": "Luzon",
+   "tagline": "Last Frontier of the Philippines",
+   "tags": [
+    "Province",
+    "Beach",
+    "Nature",
+    "Adventure"
+   ],
+   "cities": [
+    {
+     "name": "Puerto Princesa City",
+     "type": "city",
+     "lat": 9.74,
+     "lng": 118.74
+    },
+    {
+     "name": "El Nido",
+     "type": "municipality",
+     "lat": 11.19,
+     "lng": 119.41
+    },
+    {
+     "name": "Coron",
+     "type": "municipality",
+     "lat": 11.99,
+     "lng": 120.2
+    },
+    {
+     "name": "San Vicente",
+     "type": "municipality",
+     "lat": 10.52,
+     "lng": 119.3
+    },
+    {
+     "name": "Taytay",
+     "type": "municipality",
+     "lat": 10.83,
+     "lng": 119.52
+    }
+   ]
+  },
+  {
+   "capital": "Romblon",
+   "description": "An island province of marble quarries, quiet beaches and dive sites. It is a laid-back alternative to the busier Visayas beach destinations.",
+   "id": "romblon",
+   "lat": 12.55,
+   "lng": 122.32,
+   "name": "Romblon",
+   "region": "Luzon",
+   "tagline": "Marble Capital of the Philippines",
+   "tags": [
+    "Province",
+    "Beach",
+    "Nature"
+   ],
+   "cities": [
+    {
+     "name": "Romblon",
+     "type": "municipality",
+     "lat": 12.58,
+     "lng": 122.27
+    },
+    {
+     "name": "Odiongan",
+     "type": "municipality",
+     "lat": 12.4,
+     "lng": 121.98
+    },
+    {
+     "name": "San Jose",
+     "type": "municipality",
+     "lat": 12.44,
+     "lng": 121.94
+    }
+   ]
+  },
+  {
+   "capital": "Legazpi City",
+   "description": "Home to the perfectly cone-shaped Mayon Volcano, one of the country's most iconic sights. The province mixes ATV adventures, spicy Bicolano food and old churches.",
+   "id": "albay",
+   "lat": 13.2,
+   "lng": 123.55,
+   "name": "Albay",
+   "region": "Luzon",
+   "tagline": "Home of Mayon Volcano",
+   "tags": [
+    "Province",
+    "Nature",
+    "Food",
+    "Adventure"
+   ],
+   "cities": [
+    {
+     "name": "Legazpi City",
+     "type": "city",
+     "lat": 13.14,
+     "lng": 123.73
+    },
+    {
+     "name": "Tabaco City",
+     "type": "city",
+     "lat": 13.36,
+     "lng": 123.73
+    },
+    {
+     "name": "Ligao City",
+     "type": "city",
+     "lat": 13.23,
+     "lng": 123.53
+    },
+    {
+     "name": "Daraga",
+     "type": "municipality",
+     "lat": 13.16,
+     "lng": 123.71
+    },
+    {
+     "name": "Camalig",
+     "type": "municipality",
+     "lat": 13.14,
+     "lng": 123.66
+    }
+   ]
+  },
+  {
+   "capital": "Daet",
+   "description": "A coastal Bicol province of surf towns, waterfalls and black-sand beaches. Daet hosts national surfing events on its Pacific-facing shores.",
+   "id": "camarines-norte",
+   "lat": 14.12,
+   "lng": 122.95,
+   "name": "Camarines Norte",
+   "region": "Luzon",
+   "tagline": "Surf towns and coastal waterfalls",
+   "tags": [
+    "Province",
+    "Beach",
+    "Adventure"
+   ],
+   "cities": [
+    {
+     "name": "Daet",
+     "type": "municipality",
+     "lat": 14.12,
+     "lng": 122.96
+    },
+    {
+     "name": "Labo",
+     "type": "municipality",
+     "lat": 14.08,
+     "lng": 122.83
+    },
+    {
+     "name": "Mercedes",
+     "type": "municipality",
+     "lat": 14.11,
+     "lng": 123.0
+    },
+    {
+     "name": "Vinzons",
+     "type": "municipality",
+     "lat": 14.17,
+     "lng": 122.9
+    }
+   ]
+  },
+  {
+   "capital": "Pili",
+   "description": "The largest Bicol province, known for the wakeboarding complex in Pili and the limestone islands of Caramoan. Naga City anchors its religious and food culture.",
+   "id": "camarines-sur",
+   "lat": 13.73,
+   "lng": 123.35,
+   "name": "Camarines Sur",
+   "region": "Luzon",
+   "tagline": "Wakeboarding capital of the Philippines",
+   "tags": [
+    "Province",
+    "Adventure",
+    "Food",
+    "Culture"
+   ],
+   "cities": [
+    {
+     "name": "Pili",
+     "type": "municipality",
+     "lat": 13.56,
+     "lng": 123.28
+    },
+    {
+     "name": "Naga City",
+     "type": "city",
+     "lat": 13.62,
+     "lng": 123.19
+    },
+    {
+     "name": "Iriga City",
+     "type": "city",
+     "lat": 13.43,
+     "lng": 123.41
+    },
+    {
+     "name": "Caramoan",
+     "type": "municipality",
+     "lat": 13.77,
+     "lng": 123.86
+    }
+   ]
+  },
+  {
+   "capital": "Virac",
+   "description": "An island province facing the Pacific, famous for the surfing break at Puraran. Its rugged coastline and abaca farms give it a wild, off-the-beaten-path character.",
+   "id": "catanduanes",
+   "lat": 13.62,
+   "lng": 124.22,
+   "name": "Catanduanes",
+   "region": "Luzon",
+   "tagline": "The Happy Island",
+   "tags": [
+    "Province",
+    "Beach",
+    "Adventure"
+   ],
+   "cities": [
+    {
+     "name": "Virac",
+     "type": "municipality",
+     "lat": 13.58,
+     "lng": 124.23
+    },
+    {
+     "name": "San Andres",
+     "type": "municipality",
+     "lat": 13.59,
+     "lng": 124.31
+    },
+    {
+     "name": "Pandan",
+     "type": "municipality",
+     "lat": 14.05,
+     "lng": 124.17
+    },
+    {
+     "name": "Bato",
+     "type": "municipality",
+     "lat": 13.6,
+     "lng": 124.3
+    }
+   ]
+  },
+  {
+   "capital": "Masbate City",
+   "description": "An island province known for ranchlands, cattle and the annual Rodeo Masbateño festival. Its coasts offer manta ray diving and quiet beaches.",
+   "id": "masbate",
+   "lat": 12.22,
+   "lng": 123.63,
+   "name": "Masbate",
+   "region": "Luzon",
+   "tagline": "Rodeo Capital of the Philippines",
+   "tags": [
+    "Province",
+    "Beach",
+    "Culture",
+    "Adventure"
+   ],
+   "cities": [
+    {
+     "name": "Masbate City",
+     "type": "city",
+     "lat": 12.37,
+     "lng": 123.63
+    },
+    {
+     "name": "Aroroy",
+     "type": "municipality",
+     "lat": 12.52,
+     "lng": 123.4
+    },
+    {
+     "name": "Cataingan",
+     "type": "municipality",
+     "lat": 12.01,
+     "lng": 123.99
+    },
+    {
+     "name": "San Jacinto",
+     "type": "municipality",
+     "lat": 12.57,
+     "lng": 123.73
+    }
+   ]
+  },
+  {
+   "capital": "Sorsogon City",
+   "description": "The southern tip of Luzon, famous for whale shark encounters in Donsol. Bulusan Volcano's crater lake and pinkish beaches round out its attractions.",
+   "id": "sorsogon",
+   "lat": 12.9,
+   "lng": 124.0,
+   "name": "Sorsogon",
+   "region": "Luzon",
+   "tagline": "Whale sharks of Donsol",
+   "tags": [
+    "Province",
+    "Beach",
+    "Nature",
+    "Adventure"
+   ],
+   "cities": [
+    {
+     "name": "Sorsogon City",
+     "type": "city",
+     "lat": 12.97,
+     "lng": 124.0
+    },
+    {
+     "name": "Donsol",
+     "type": "municipality",
+     "lat": 12.91,
+     "lng": 123.6
+    },
+    {
+     "name": "Bulan",
+     "type": "municipality",
+     "lat": 12.67,
+     "lng": 123.88
+    },
+    {
+     "name": "Matnog",
+     "type": "municipality",
+     "lat": 12.58,
+     "lng": 124.09
+    }
+   ]
+  },
+  {
+   "capital": "Manila",
+   "description": "The National Capital Region, a dense cluster of cities around Manila Bay. It is the country's center of commerce, culture and food, with museums, malls and historic Intramuros.",
+   "id": "metro-manila",
+   "lat": 14.5995,
+   "lng": 120.9842,
+   "name": "Metro Manila",
+   "region": "Luzon",
+   "tagline": "The bustling National Capital Region",
+   "tags": [
+    "City",
+    "Culture",
+    "Food"
+   ],
+   "cities": [
+    {
+     "name": "Manila",
+     "type": "city",
+     "lat": 14.6,
+     "lng": 120.98
+    },
+    {
+     "name": "Quezon City",
+     "type": "city",
+     "lat": 14.68,
+     "lng": 121.04
+    },
+    {
+     "name": "Caloocan",
+     "type": "city",
+     "lat": 14.77,
+     "lng": 120.97
+    },
+    {
+     "name": "Las Piñas",
+     "type": "city",
+     "lat": 14.42,
+     "lng": 120.99
+    },
+    {
+     "name": "Makati",
+     "type": "city",
+     "lat": 14.55,
+     "lng": 121.02
+    },
+    {
+     "name": "Malabon",
+     "type": "city",
+     "lat": 14.66,
+     "lng": 120.96
+    },
+    {
+     "name": "Mandaluyong",
+     "type": "city",
+     "lat": 14.58,
+     "lng": 121.03
+    },
+    {
+     "name": "Marikina",
+     "type": "city",
+     "lat": 14.63,
+     "lng": 121.09
+    },
+    {
+     "name": "Muntinlupa",
+     "type": "city",
+     "lat": 14.41,
+     "lng": 121.04
+    },
+    {
+     "name": "Navotas",
+     "type": "city",
+     "lat": 14.67,
+     "lng": 120.94
+    },
+    {
+     "name": "Parañaque",
+     "type": "city",
+     "lat": 14.46,
+     "lng": 121.0
+    },
+    {
+     "name": "Pasay",
+     "type": "city",
+     "lat": 14.55,
+     "lng": 121.0
+    },
+    {
+     "name": "Pasig",
+     "type": "city",
+     "lat": 14.57,
+     "lng": 121.08
+    },
+    {
+     "name": "San Juan",
+     "type": "city",
+     "lat": 14.6,
+     "lng": 121.03
+    },
+    {
+     "name": "Taguig",
+     "type": "city",
+     "lat": 14.52,
+     "lng": 121.05
+    },
+    {
+     "name": "Valenzuela",
+     "type": "city",
+     "lat": 14.71,
+     "lng": 120.98
+    },
+    {
+     "name": "Pateros",
+     "type": "municipality",
+     "lat": 14.54,
+     "lng": 121.07
+    }
+   ]
+  },
+  {
+   "capital": "Kalibo",
+   "description": "Aklan hosts the Ati-Atihan, one of the country's oldest festivals, every January in Kalibo. It is also the gateway to Boracay Island via Malay and Caticlan.",
+   "id": "aklan",
+   "lat": 11.7,
+   "lng": 122.35,
+   "name": "Aklan",
+   "region": "Visayas",
+   "tagline": "Home of the Ati-Atihan Festival",
+   "tags": [
+    "Province",
+    "Culture",
+    "Beach"
+   ],
+   "cities": [
+    {
+     "name": "Kalibo",
+     "type": "municipality",
+     "lat": 11.71,
+     "lng": 122.37
+    },
+    {
+     "name": "Malay",
+     "type": "municipality",
+     "lat": 11.9,
+     "lng": 121.91
+    },
+    {
+     "name": "Numancia",
+     "type": "municipality",
+     "lat": 11.71,
+     "lng": 122.33
+    },
+    {
+     "name": "Lezo",
+     "type": "municipality",
+     "lat": 11.67,
+     "lng": 122.33
+    },
+    {
+     "name": "Buruanga",
+     "type": "municipality",
+     "lat": 11.85,
+     "lng": 121.88
+    }
+   ]
+  },
+  {
+   "capital": "San Jose de Buenavista",
+   "description": "Antique occupies the western coast of Panay, with mountain ranges, rivers, and eco-adventure spots like Tibiao's river rafting and kawa hot baths. Its capital hosts the Binirayan Festival.",
+   "id": "antique",
+   "lat": 10.74,
+   "lng": 122.05,
+   "name": "Antique",
+   "region": "Visayas",
+   "tagline": "Rivers, mountains, and eco-adventure",
+   "tags": [
+    "Province",
+    "Nature",
+    "Adventure"
+   ],
+   "cities": [
+    {
+     "name": "San Jose de Buenavista",
+     "type": "municipality",
+     "lat": 10.74,
+     "lng": 121.94
+    },
+    {
+     "name": "Pandan",
+     "type": "municipality",
+     "lat": 11.73,
+     "lng": 121.29
+    },
+    {
+     "name": "Culasi",
+     "type": "municipality",
+     "lat": 11.43,
+     "lng": 122.07
+    },
+    {
+     "name": "Tibiao",
+     "type": "municipality",
+     "lat": 11.29,
+     "lng": 122.03
+    }
+   ]
+  },
+  {
+   "capital": "Roxas City",
+   "description": "Capiz is famous for its rich marine life and the seafood markets of Roxas City. Old churches here also feature the translucent capiz shells the province is named after.",
+   "id": "capiz",
+   "lat": 11.58,
+   "lng": 122.75,
+   "name": "Capiz",
+   "region": "Visayas",
+   "tagline": "Seafood Capital of the Philippines",
+   "tags": [
+    "Province",
+    "Food",
+    "Beach"
+   ],
+   "cities": [
+    {
+     "name": "Roxas City",
+     "type": "city",
+     "lat": 11.59,
+     "lng": 122.75
+    },
+    {
+     "name": "Panay",
+     "type": "municipality",
+     "lat": 11.56,
+     "lng": 122.79
+    },
+    {
+     "name": "Pontevedra",
+     "type": "municipality",
+     "lat": 11.49,
+     "lng": 122.83
+    }
+   ]
+  },
+  {
+   "capital": "Jordan",
+   "description": "Guimaras is an island province famous for its sweet mangoes, celebrated each year at the Manggahan Festival. Its beaches and wind farm make it a popular weekend trip from Iloilo.",
+   "id": "guimaras",
+   "lat": 10.6,
+   "lng": 122.59,
+   "name": "Guimaras",
+   "region": "Visayas",
+   "tagline": "Home of the sweetest mangoes",
+   "tags": [
+    "Province",
+    "Food",
+    "Beach"
+   ],
+   "cities": [
+    {
+     "name": "Jordan",
+     "type": "municipality",
+     "lat": 10.6,
+     "lng": 122.59
+    },
+    {
+     "name": "Buenavista",
+     "type": "municipality",
+     "lat": 10.7,
+     "lng": 122.63
+    },
+    {
+     "name": "San Lorenzo",
+     "type": "municipality",
+     "lat": 10.56,
+     "lng": 122.72
+    },
+    {
+     "name": "Sibunag",
+     "type": "municipality",
+     "lat": 10.53,
+     "lng": 122.65
+    },
+    {
+     "name": "Nueva Valencia",
+     "type": "municipality",
+     "lat": 10.53,
+     "lng": 122.55
+    }
+   ]
+  },
+  {
+   "capital": "Iloilo City",
+   "description": "Iloilo blends Spanish-era heritage sites like the Miag-ao Church with festival culture led by the Dinagyang every January. The Gigantes Islands off its northern coast add island-hopping to the mix.",
+   "id": "iloilo",
+   "lat": 10.79,
+   "lng": 122.54,
+   "name": "Iloilo",
+   "region": "Visayas",
+   "tagline": "Heritage churches and festival streets",
+   "tags": [
+    "Province",
+    "Culture",
+    "Beach"
+   ],
+   "cities": [
+    {
+     "name": "Iloilo City",
+     "type": "city",
+     "lat": 10.72,
+     "lng": 122.56
+    },
+    {
+     "name": "Passi City",
+     "type": "city",
+     "lat": 11.11,
+     "lng": 122.64
+    },
+    {
+     "name": "Miagao",
+     "type": "municipality",
+     "lat": 10.64,
+     "lng": 122.24
+    },
+    {
+     "name": "Oton",
+     "type": "municipality",
+     "lat": 11.07,
+     "lng": 122.47
+    },
+    {
+     "name": "Guimbal",
+     "type": "municipality",
+     "lat": 10.66,
+     "lng": 122.38
+    },
+    {
+     "name": "Santa Barbara",
+     "type": "municipality",
+     "lat": 10.83,
+     "lng": 122.53
+    }
+   ]
+  },
+  {
+   "capital": "Bacolod",
+   "description": "Negros Occidental is the country's sugar heartland, dotted with ancestral haciendas and old mansions. Bacolod hosts the MassKara Festival, famous for its smiling masks.",
+   "id": "negros-occidental",
+   "lat": 10.66,
+   "lng": 122.95,
+   "name": "Negros Occidental",
+   "region": "Visayas",
+   "tagline": "Sugarlandia",
+   "tags": [
+    "Province",
+    "Culture",
+    "Food"
+   ],
+   "cities": [
+    {
+     "name": "Bacolod City",
+     "type": "city",
+     "lat": 10.67,
+     "lng": 122.95
+    },
+    {
+     "name": "Bago City",
+     "type": "city",
+     "lat": 10.54,
+     "lng": 122.83
+    },
+    {
+     "name": "Cadiz City",
+     "type": "city",
+     "lat": 10.95,
+     "lng": 123.13
+    },
+    {
+     "name": "Escalante City",
+     "type": "city",
+     "lat": 10.83,
+     "lng": 123.5
+    },
+    {
+     "name": "Himamaylan City",
+     "type": "city",
+     "lat": 10.1,
+     "lng": 122.87
+    },
+    {
+     "name": "Kabankalan City",
+     "type": "city",
+     "lat": 9.99,
+     "lng": 122.81
+    },
+    {
+     "name": "La Carlota City",
+     "type": "city",
+     "lat": 10.42,
+     "lng": 122.92
+    },
+    {
+     "name": "Sagay City",
+     "type": "city",
+     "lat": 10.9,
+     "lng": 123.42
+    },
+    {
+     "name": "San Carlos City",
+     "type": "city",
+     "lat": 10.48,
+     "lng": 123.42
+    },
+    {
+     "name": "Silay City",
+     "type": "city",
+     "lat": 10.8,
+     "lng": 122.98
+    },
+    {
+     "name": "Sipalay City",
+     "type": "city",
+     "lat": 9.75,
+     "lng": 122.4
+    },
+    {
+     "name": "Talisay City",
+     "type": "city",
+     "lat": 10.74,
+     "lng": 122.97
+    },
+    {
+     "name": "Victorias City",
+     "type": "city",
+     "lat": 10.9,
+     "lng": 123.05
+    }
+   ]
+  },
+  {
+   "capital": "Tagbilaran City",
+   "description": "Bohol is known for the Chocolate Hills, tarsiers, and cruises along the Loboc River. Panglao Island adds white-sand beaches and diving to the itinerary.",
+   "id": "bohol",
+   "lat": 9.85,
+   "lng": 124.15,
+   "name": "Bohol",
+   "region": "Visayas",
+   "tagline": "Home of the Chocolate Hills",
+   "tags": [
+    "Province",
+    "Nature",
+    "Beach",
+    "Adventure"
+   ],
+   "cities": [
+    {
+     "name": "Tagbilaran City",
+     "type": "city",
+     "lat": 9.65,
+     "lng": 123.85
+    },
+    {
+     "name": "Panglao",
+     "type": "municipality",
+     "lat": 9.57,
+     "lng": 123.74
+    },
+    {
+     "name": "Corella",
+     "type": "municipality",
+     "lat": 9.68,
+     "lng": 123.92
+    },
+    {
+     "name": "Carmen",
+     "type": "municipality",
+     "lat": 9.82,
+     "lng": 124.2
+    },
+    {
+     "name": "Loboc",
+     "type": "municipality",
+     "lat": 9.64,
+     "lng": 124.03
+    },
+    {
+     "name": "Baclayon",
+     "type": "municipality",
+     "lat": 9.62,
+     "lng": 123.91
+    },
+    {
+     "name": "Anda",
+     "type": "municipality",
+     "lat": 9.74,
+     "lng": 124.58
+    }
+   ]
+  },
+  {
+   "capital": "Cebu City",
+   "description": "Cebu is a major Visayas travel hub with centuries-old historic sites in Cebu City. Beyond the city are Kawasan Falls, Mactan's dive spots, and Bantayan Island's beaches.",
+   "id": "cebu",
+   "lat": 10.38,
+   "lng": 123.85,
+   "name": "Cebu",
+   "region": "Visayas",
+   "tagline": "Waterfalls, island hopping, and history",
+   "tags": [
+    "Province",
+    "Beach",
+    "Nature",
+    "Adventure"
+   ],
+   "cities": [
+    {
+     "name": "Cebu City",
+     "type": "city",
+     "lat": 10.29,
+     "lng": 123.9
+    },
+    {
+     "name": "Lapu-Lapu City",
+     "type": "city",
+     "lat": 10.31,
+     "lng": 123.95
+    },
+    {
+     "name": "Mandaue City",
+     "type": "city",
+     "lat": 10.33,
+     "lng": 123.94
+    },
+    {
+     "name": "Bogo City",
+     "type": "city",
+     "lat": 11.05,
+     "lng": 124.01
+    },
+    {
+     "name": "Carcar City",
+     "type": "city",
+     "lat": 10.1,
+     "lng": 123.64
+    },
+    {
+     "name": "Danao City",
+     "type": "city",
+     "lat": 10.52,
+     "lng": 124.03
+    },
+    {
+     "name": "Naga City",
+     "type": "city",
+     "lat": 10.21,
+     "lng": 123.76
+    },
+    {
+     "name": "Talisay City",
+     "type": "city",
+     "lat": 10.24,
+     "lng": 123.84
+    },
+    {
+     "name": "Toledo City",
+     "type": "city",
+     "lat": 10.38,
+     "lng": 123.65
+    },
+    {
+     "name": "Moalboal",
+     "type": "municipality",
+     "lat": 9.95,
+     "lng": 123.4
+    },
+    {
+     "name": "Oslob",
+     "type": "municipality",
+     "lat": 9.51,
+     "lng": 123.43
+    },
+    {
+     "name": "Daanbantayan",
+     "type": "municipality",
+     "lat": 11.25,
+     "lng": 124.0
+    },
+    {
+     "name": "Bantayan",
+     "type": "municipality",
+     "lat": 11.16,
+     "lng": 123.72
+    }
+   ]
+  },
+  {
+   "capital": "Dumaguete City",
+   "description": "Negros Oriental is known for Apo Island's protected marine sanctuary, a top snorkeling and diving spot. Dumaguete City offers a laid-back university-town base for exploring nearby waterfalls.",
+   "id": "negros-oriental",
+   "lat": 9.76,
+   "lng": 122.95,
+   "name": "Negros Oriental",
+   "region": "Visayas",
+   "tagline": "Home of Apo Island",
+   "tags": [
+    "Province",
+    "Beach",
+    "Nature"
+   ],
+   "cities": [
+    {
+     "name": "Dumaguete City",
+     "type": "city",
+     "lat": 9.31,
+     "lng": 123.31
+    },
+    {
+     "name": "Bais City",
+     "type": "city",
+     "lat": 9.59,
+     "lng": 123.12
+    },
+    {
+     "name": "Bayawan City",
+     "type": "city",
+     "lat": 9.37,
+     "lng": 122.8
+    },
+    {
+     "name": "Canlaon City",
+     "type": "city",
+     "lat": 10.39,
+     "lng": 123.2
+    },
+    {
+     "name": "Guihulngan City",
+     "type": "city",
+     "lat": 10.12,
+     "lng": 123.27
+    },
+    {
+     "name": "Tanjay City",
+     "type": "city",
+     "lat": 9.52,
+     "lng": 123.16
+    },
+    {
+     "name": "Dauin",
+     "type": "municipality",
+     "lat": 9.19,
+     "lng": 123.27
+    },
+    {
+     "name": "Valencia",
+     "type": "municipality",
+     "lat": 9.28,
+     "lng": 123.25
+    }
+   ]
+  },
+  {
+   "capital": "Siquijor",
+   "description": "Siquijor carries the old nickname Isla del Fuego and is known for beaches, Cambugahay Falls, and centuries-old balete trees. It has a mystic reputation rooted in local folklore.",
+   "id": "siquijor",
+   "lat": 9.21,
+   "lng": 123.52,
+   "name": "Siquijor",
+   "region": "Visayas",
+   "tagline": "Island of Fire",
+   "tags": [
+    "Province",
+    "Beach",
+    "Nature"
+   ],
+   "cities": [
+    {
+     "name": "Siquijor",
+     "type": "municipality",
+     "lat": 5.95,
+     "lng": 123.51
+    },
+    {
+     "name": "Larena",
+     "type": "municipality",
+     "lat": 5.98,
+     "lng": 123.59
+    },
+    {
+     "name": "San Juan",
+     "type": "municipality",
+     "lat": 5.94,
+     "lng": 123.49
+    },
+    {
+     "name": "Maria",
+     "type": "municipality",
+     "lat": 5.92,
+     "lng": 123.57
+    },
+    {
+     "name": "Lazi",
+     "type": "municipality",
+     "lat": 5.9,
+     "lng": 123.63
+    },
+    {
+     "name": "Enrique Villanueva",
+     "type": "municipality",
+     "lat": 5.93,
+     "lng": 123.55
+    }
+   ]
+  },
+  {
+   "capital": "Naval",
+   "description": "Biliran is an island province with waterfalls like Tinago Falls, hot springs, and laid-back coastal towns. It is one of the least crowded destinations in Eastern Visayas.",
+   "id": "biliran",
+   "lat": 11.55,
+   "lng": 124.48,
+   "name": "Biliran",
+   "region": "Visayas",
+   "tagline": "Waterfalls and quiet beaches",
+   "tags": [
+    "Province",
+    "Nature",
+    "Beach"
+   ],
+   "cities": [
+    {
+     "name": "Naval",
+     "type": "municipality",
+     "lat": 11.56,
+     "lng": 124.48
+    },
+    {
+     "name": "Almeria",
+     "type": "municipality",
+     "lat": 11.62,
+     "lng": 124.38
+    },
+    {
+     "name": "Kawayan",
+     "type": "municipality",
+     "lat": 11.71,
+     "lng": 124.41
+    },
+    {
+     "name": "Culaba",
+     "type": "municipality",
+     "lat": 11.66,
+     "lng": 124.53
+    },
+    {
+     "name": "Caibiran",
+     "type": "municipality",
+     "lat": 11.56,
+     "lng": 124.59
+    }
+   ]
+  },
+  {
+   "capital": "Borongan",
+   "description": "Eastern Samar faces the Pacific, known for surf breaks around Calicoan and Guiuan. Homonhon Island off its coast is where Magellan's expedition first landed in the Philippines.",
+   "id": "eastern-samar",
+   "lat": 11.55,
+   "lng": 125.45,
+   "name": "Eastern Samar",
+   "region": "Visayas",
+   "tagline": "Pacific surf and historic shores",
+   "tags": [
+    "Province",
+    "Adventure",
+    "Beach"
+   ],
+   "cities": [
+    {
+     "name": "Borongan City",
+     "type": "city",
+     "lat": 11.61,
+     "lng": 125.43
+    },
+    {
+     "name": "Guiuan",
+     "type": "municipality",
+     "lat": 11.03,
+     "lng": 125.73
+    },
+    {
+     "name": "Llorente",
+     "type": "municipality",
+     "lat": 11.41,
+     "lng": 125.54
+    },
+    {
+     "name": "Salcedo",
+     "type": "municipality",
+     "lat": 11.14,
+     "lng": 125.67
+    },
+    {
+     "name": "Balangiga",
+     "type": "municipality",
+     "lat": 11.11,
+     "lng": 125.38
+    }
+   ]
+  },
+  {
+   "capital": "Tacloban City",
+   "description": "Leyte is famous for the MacArthur Landing Memorial at Palo and the San Juanico Bridge linking it to Samar. Tacloban City is the province's lively commercial center.",
+   "id": "leyte",
+   "lat": 10.9,
+   "lng": 124.85,
+   "name": "Leyte",
+   "region": "Visayas",
+   "tagline": "Site of the Leyte Landing",
+   "tags": [
+    "Province",
+    "Culture",
+    "Nature"
+   ],
+   "cities": [
+    {
+     "name": "Tacloban City",
+     "type": "city",
+     "lat": 11.24,
+     "lng": 125.0
+    },
+    {
+     "name": "Ormoc City",
+     "type": "city",
+     "lat": 11.01,
+     "lng": 124.61
+    },
+    {
+     "name": "Baybay City",
+     "type": "city",
+     "lat": 10.68,
+     "lng": 124.8
+    },
+    {
+     "name": "Palo",
+     "type": "municipality",
+     "lat": 11.16,
+     "lng": 124.99
+    },
+    {
+     "name": "Abuyog",
+     "type": "municipality",
+     "lat": 10.74,
+     "lng": 125.01
+    }
+   ]
+  },
+  {
+   "capital": "Catarman",
+   "description": "Northern Samar is known for the dramatic rock formations of Biri Island and island-hopping around Capul and San Vicente. Its coastline offers raw, off-the-beaten-path scenery.",
+   "id": "northern-samar",
+   "lat": 12.3,
+   "lng": 124.65,
+   "name": "Northern Samar",
+   "region": "Visayas",
+   "tagline": "Rock formations and island hopping",
+   "tags": [
+    "Province",
+    "Adventure",
+    "Nature",
+    "Beach"
+   ],
+   "cities": [
+    {
+     "name": "Catarman",
+     "type": "municipality",
+     "lat": 12.07,
+     "lng": 124.64
+    },
+    {
+     "name": "Laoang",
+     "type": "municipality",
+     "lat": 12.57,
+     "lng": 125.02
+    },
+    {
+     "name": "Palapag",
+     "type": "municipality",
+     "lat": 12.53,
+     "lng": 125.12
+    },
+    {
+     "name": "Biri",
+     "type": "municipality",
+     "lat": 12.19,
+     "lng": 124.37
+    },
+    {
+     "name": "San Roque",
+     "type": "municipality",
+     "lat": 12.54,
+     "lng": 124.88
+    }
+   ]
+  },
+  {
+   "capital": "Catbalogan City",
+   "description": "Samar is the country's third-largest island, known for the Sohoton cave systems and natural bridges in Basey. Its calm coastal towns see far fewer visitors than its neighbors.",
+   "id": "samar",
+   "lat": 11.77,
+   "lng": 124.85,
+   "name": "Samar",
+   "region": "Visayas",
+   "tagline": "Home of the Sohoton Caves",
+   "tags": [
+    "Province",
+    "Adventure",
+    "Nature"
+   ],
+   "cities": [
+    {
+     "name": "Catbalogan City",
+     "type": "city",
+     "lat": 11.78,
+     "lng": 124.88
+    },
+    {
+     "name": "Calbayog City",
+     "type": "city",
+     "lat": 12.07,
+     "lng": 124.6
+    },
+    {
+     "name": "Basey",
+     "type": "municipality",
+     "lat": 11.28,
+     "lng": 125.06
+    },
+    {
+     "name": "Marabut",
+     "type": "municipality",
+     "lat": 11.17,
+     "lng": 125.18
+    },
+    {
+     "name": "Paranas",
+     "type": "municipality",
+     "lat": 11.77,
+     "lng": 125.02
+    }
+   ]
+  },
+  {
+   "capital": "Maasin City",
+   "description": "Southern Leyte is known for diving in Sogod Bay and seasonal whale shark encounters off Pintuyan. Limasawa Island marks the site of the first Catholic mass in the country.",
+   "id": "southern-leyte",
+   "lat": 10.32,
+   "lng": 124.85,
+   "name": "Southern Leyte",
+   "region": "Visayas",
+   "tagline": "Diving, whale sharks, and Limasawa",
+   "tags": [
+    "Province",
+    "Beach",
+    "Nature",
+    "Adventure"
+   ],
+   "cities": [
+    {
+     "name": "Maasin City",
+     "type": "city",
+     "lat": 10.13,
+     "lng": 124.85
+    },
+    {
+     "name": "Padre Burgos",
+     "type": "municipality",
+     "lat": 10.03,
+     "lng": 124.99
+    },
+    {
+     "name": "Macrohon",
+     "type": "municipality",
+     "lat": 10.08,
+     "lng": 124.95
+    },
+    {
+     "name": "Liloan",
+     "type": "municipality",
+     "lat": 10.16,
+     "lng": 125.13
+    },
+    {
+     "name": "Sogod",
+     "type": "municipality",
+     "lat": 10.38,
+     "lng": 124.98
+    }
+   ]
+  },
+  {
+   "capital": "Dipolog City",
+   "description": "Zamboanga del Norte is known for the Dakak beach resort and the Rizal shrine in Dapitan, where the national hero was exiled. Dipolog City is the province's capital and main gateway.",
+   "id": "zamboanga-del-norte",
+   "lat": 7.99,
+   "lng": 123.1,
+   "name": "Zamboanga del Norte",
+   "region": "Mindanao",
+   "tagline": "Beaches and Rizal's exile shrine",
+   "tags": [
+    "Province",
+    "Beach",
+    "Culture"
+   ],
+   "cities": [
+    {
+     "name": "Dipolog City",
+     "type": "city",
+     "lat": 8.59,
+     "lng": 123.34
+    },
+    {
+     "name": "Dapitan City",
+     "type": "city",
+     "lat": 8.66,
+     "lng": 123.42
+    },
+    {
+     "name": "Sindangan",
+     "type": "municipality",
+     "lat": 8.25,
+     "lng": 122.97
+    },
+    {
+     "name": "Siocon",
+     "type": "municipality",
+     "lat": 7.7,
+     "lng": 122.14
+    }
+   ]
+  },
+  {
+   "capital": "Pagadian City",
+   "description": "Zamboanga del Sur is known for waterfalls like Pulacan Falls and the quiet shores of Lake Wood. Pagadian City serves as the capital and commercial hub.",
+   "id": "zamboanga-del-sur",
+   "lat": 7.85,
+   "lng": 123.25,
+   "name": "Zamboanga del Sur",
+   "region": "Mindanao",
+   "tagline": "Waterfalls and lake country",
+   "tags": [
+    "Province",
+    "Nature",
+    "Beach"
+   ],
+   "cities": [
+    {
+     "name": "Pagadian City",
+     "type": "city",
+     "lat": 7.83,
+     "lng": 123.44
+    },
+    {
+     "name": "Zamboanga City",
+     "type": "city",
+     "lat": 6.91,
+     "lng": 122.08
+    },
+    {
+     "name": "Molave",
+     "type": "municipality",
+     "lat": 7.98,
+     "lng": 123.48
+    },
+    {
+     "name": "Aurora",
+     "type": "municipality",
+     "lat": 7.95,
+     "lng": 123.58
+    }
+   ]
+  },
+  {
+   "capital": "Ipil",
+   "description": "Zamboanga Sibugay was created in 2001 from Zamboanga del Sur, with Ipil as its capital. It is known for coastal fishing towns and quiet river landscapes.",
+   "id": "zamboanga-sibugay",
+   "lat": 7.78,
+   "lng": 122.9,
+   "name": "Zamboanga Sibugay",
+   "region": "Mindanao",
+   "tagline": "Coastal towns of the peninsula",
+   "tags": [
+    "Province",
+    "Beach",
+    "Nature"
+   ],
+   "cities": [
+    {
+     "name": "Ipil",
+     "type": "municipality",
+     "lat": 7.77,
+     "lng": 122.58
+    },
+    {
+     "name": "Buug",
+     "type": "municipality",
+     "lat": 7.72,
+     "lng": 123.06
+    },
+    {
+     "name": "Diplahan",
+     "type": "municipality",
+     "lat": 7.68,
+     "lng": 122.63
+    },
+    {
+     "name": "Imelda",
+     "type": "municipality",
+     "lat": 7.65,
+     "lng": 122.93
+    }
+   ]
+  },
+  {
+   "capital": "Malaybalay City",
+   "description": "Bukidnon is a landlocked plateau known for its cool climate and vast pineapple plantations. It hosts the Kaamulan Festival, a gathering of the province's indigenous groups.",
+   "id": "bukidnon",
+   "lat": 7.92,
+   "lng": 124.9,
+   "name": "Bukidnon",
+   "region": "Mindanao",
+   "tagline": "Highland province of Mindanao",
+   "tags": [
+    "Province",
+    "Nature",
+    "Adventure"
+   ],
+   "cities": [
+    {
+     "name": "Malaybalay City",
+     "type": "city",
+     "lat": 8.16,
+     "lng": 125.13
+    },
+    {
+     "name": "Valencia City",
+     "type": "city",
+     "lat": 7.91,
+     "lng": 125.09
+    },
+    {
+     "name": "Manolo Fortich",
+     "type": "municipality",
+     "lat": 8.37,
+     "lng": 124.86
+    },
+    {
+     "name": "Maramag",
+     "type": "municipality",
+     "lat": 7.76,
+     "lng": 125.0
+    }
+   ]
+  },
+  {
+   "capital": "Mambajao",
+   "description": "Camiguin is a small volcanic island with hot springs, the Sunken Cemetery, and the White Island sandbar. Its lanzones harvest is celebrated every October.",
+   "id": "camiguin",
+   "lat": 9.17,
+   "lng": 124.73,
+   "name": "Camiguin",
+   "region": "Mindanao",
+   "tagline": "Island Born of Fire",
+   "tags": [
+    "Province",
+    "Beach",
+    "Nature",
+    "Adventure"
+   ],
+   "cities": [
+    {
+     "name": "Mambajao",
+     "type": "municipality",
+     "lat": 9.25,
+     "lng": 124.72
+    },
+    {
+     "name": "Mahinog",
+     "type": "municipality",
+     "lat": 9.28,
+     "lng": 124.78
+    },
+    {
+     "name": "Guinsiliban",
+     "type": "municipality",
+     "lat": 9.11,
+     "lng": 124.77
+    },
+    {
+     "name": "Sagay",
+     "type": "municipality",
+     "lat": 9.11,
+     "lng": 124.72
+    },
+    {
+     "name": "Catarman",
+     "type": "municipality",
+     "lat": 9.13,
+     "lng": 124.68
+    }
+   ]
+  },
+  {
+   "capital": "Tubod",
+   "description": "Lanao del Norte is known for Maria Cristina Falls and Tinago Falls, two of Mindanao's most famous cascades. Coastal towns along Iligan Bay offer beach escapes.",
+   "id": "lanao-del-norte",
+   "lat": 7.98,
+   "lng": 123.92,
+   "name": "Lanao del Norte",
+   "region": "Mindanao",
+   "tagline": "Home of Maria Cristina Falls",
+   "tags": [
+    "Province",
+    "Nature",
+    "Adventure"
+   ],
+   "cities": [
+    {
+     "name": "Tubod",
+     "type": "municipality",
+     "lat": 7.89,
+     "lng": 123.8
+    },
+    {
+     "name": "Iligan City",
+     "type": "city",
+     "lat": 8.23,
+     "lng": 124.24
+    },
+    {
+     "name": "Kolambugan",
+     "type": "municipality",
+     "lat": 8.12,
+     "lng": 123.9
+    }
+   ]
+  },
+  {
+   "capital": "Oroquieta City",
+   "description": "Misamis Occidental is known for Tangub City's elaborate Christmas displays and Ozamiz's historic Fort of Cotta. Its coastline faces the Mindanao Sea.",
+   "id": "misamis-occidental",
+   "lat": 8.55,
+   "lng": 123.78,
+   "name": "Misamis Occidental",
+   "region": "Mindanao",
+   "tagline": "Christmas lights capital of Mindanao",
+   "tags": [
+    "Province",
+    "Culture",
+    "Beach"
+   ],
+   "cities": [
+    {
+     "name": "Oroquieta City",
+     "type": "city",
+     "lat": 8.49,
+     "lng": 123.81
+    },
+    {
+     "name": "Ozamiz City",
+     "type": "city",
+     "lat": 8.15,
+     "lng": 123.85
+    },
+    {
+     "name": "Tangub City",
+     "type": "city",
+     "lat": 8.06,
+     "lng": 123.75
+    }
+   ]
+  },
+  {
+   "capital": "Cagayan de Oro",
+   "description": "Misamis Oriental is anchored by Cagayan de Oro, known for white-water rafting on the Cagayan River. The province also leads to Camiguin via the Balingoan port.",
+   "id": "misamis-oriental",
+   "lat": 8.85,
+   "lng": 124.8,
+   "name": "Misamis Oriental",
+   "region": "Mindanao",
+   "tagline": "Gateway to Northern Mindanao",
+   "tags": [
+    "Province",
+    "Adventure",
+    "City"
+   ],
+   "cities": [
+    {
+     "name": "Cagayan de Oro",
+     "type": "city",
+     "lat": 8.48,
+     "lng": 124.65
+    },
+    {
+     "name": "Gingoog City",
+     "type": "city",
+     "lat": 8.82,
+     "lng": 125.1
+    },
+    {
+     "name": "El Salvador City",
+     "type": "city",
+     "lat": 8.57,
+     "lng": 124.52
+    },
+    {
+     "name": "Jasaan",
+     "type": "municipality",
+     "lat": 8.65,
+     "lng": 124.75
+    }
+   ]
+  },
+  {
+   "capital": "Tagum City",
+   "description": "Davao del Norte is the jump-off point to the Island Garden City of Samal and its beaches. Tagum City, the capital, is lined with palm trees and banana plantations.",
+   "id": "davao-del-norte",
+   "lat": 7.55,
+   "lng": 125.75,
+   "name": "Davao del Norte",
+   "region": "Mindanao",
+   "tagline": "Gateway to Samal Island",
+   "tags": [
+    "Province",
+    "Beach",
+    "Nature"
+   ],
+   "cities": [
+    {
+     "name": "Tagum City",
+     "type": "city",
+     "lat": 7.45,
+     "lng": 125.81
+    },
+    {
+     "name": "Panabo City",
+     "type": "city",
+     "lat": 7.31,
+     "lng": 125.68
+    },
+    {
+     "name": "Island Garden City of Samal",
+     "type": "city",
+     "lat": 7.05,
+     "lng": 125.73
+    }
+   ]
+  },
+  {
+   "capital": "Digos City",
+   "description": "Davao del Sur is home to the southern trail routes up Mount Apo, the country's highest peak. Digos City offers a relaxed coastal base for climbers and beachgoers.",
+   "id": "davao-del-sur",
+   "lat": 6.3,
+   "lng": 125.3,
+   "name": "Davao del Sur",
+   "region": "Mindanao",
+   "tagline": "Mount Apo's southern trails",
+   "tags": [
+    "Province",
+    "Adventure",
+    "Nature"
+   ],
+   "cities": [
+    {
+     "name": "Digos City",
+     "type": "city",
+     "lat": 6.75,
+     "lng": 125.36
+    },
+    {
+     "name": "Davao City",
+     "type": "city",
+     "lat": 7.19,
+     "lng": 125.46
+    },
+    {
+     "name": "Santa Cruz",
+     "type": "municipality",
+     "lat": 6.84,
+     "lng": 125.42
+    },
+    {
+     "name": "Bansalan",
+     "type": "municipality",
+     "lat": 6.79,
+     "lng": 125.21
+    }
+   ]
+  },
+  {
+   "capital": "Malita",
+   "description": "Davao Occidental was created in 2013 from Davao del Sur, with Malita as its capital. It is known for dive sites along Sarangani Bay and quiet coastal towns.",
+   "id": "davao-occidental",
+   "lat": 6.05,
+   "lng": 125.6,
+   "name": "Davao Occidental",
+   "region": "Mindanao",
+   "tagline": "Davao region's youngest province",
+   "tags": [
+    "Province",
+    "Beach",
+    "Nature"
+   ],
+   "cities": [
+    {
+     "name": "Malita",
+     "type": "municipality",
+     "lat": 6.41,
+     "lng": 125.61
+    },
+    {
+     "name": "Santa Maria",
+     "type": "municipality",
+     "lat": 6.52,
+     "lng": 125.47
+    },
+    {
+     "name": "Don Marcelino",
+     "type": "municipality",
+     "lat": 6.27,
+     "lng": 125.67
+    },
+    {
+     "name": "Jose Abad Santos",
+     "type": "municipality",
+     "lat": 5.92,
+     "lng": 125.63
+    },
+    {
+     "name": "Sarangani",
+     "type": "municipality",
+     "lat": 5.4,
+     "lng": 125.42
+    }
+   ]
+  },
+  {
+   "capital": "Mati City",
+   "description": "Davao Oriental is known for Dahican Beach's surfing and skimboarding, the towering Aliwagwag Falls, and the UNESCO-listed Mount Hamiguitan.",
+   "id": "davao-oriental",
+   "lat": 7.1,
+   "lng": 126.28,
+   "name": "Davao Oriental",
+   "region": "Mindanao",
+   "tagline": "Home of Dahican Beach",
+   "tags": [
+    "Province",
+    "Beach",
+    "Adventure",
+    "Nature"
+   ],
+   "cities": [
+    {
+     "name": "Mati City",
+     "type": "city",
+     "lat": 6.95,
+     "lng": 126.22
+    },
+    {
+     "name": "Baganga",
+     "type": "municipality",
+     "lat": 7.58,
+     "lng": 126.56
+    },
+    {
+     "name": "Cateel",
+     "type": "municipality",
+     "lat": 7.8,
+     "lng": 126.45
+    },
+    {
+     "name": "Boston",
+     "type": "municipality",
+     "lat": 7.87,
+     "lng": 126.37
+    },
+    {
+     "name": "Caraga",
+     "type": "municipality",
+     "lat": 7.33,
+     "lng": 126.57
+    }
+   ]
+  },
+  {
+   "capital": "Nabunturan",
+   "description": "Davao de Oro, formerly Compostela Valley, was renamed in 2019. It is known for its mining heritage, mountain scenery, and the White Peak viewpoint.",
+   "id": "davao-de-oro",
+   "lat": 7.62,
+   "lng": 126.05,
+   "name": "Davao de Oro",
+   "region": "Mindanao",
+   "tagline": "Gold-rich province of the Davao region",
+   "tags": [
+    "Province",
+    "Nature",
+    "Adventure"
+   ],
+   "cities": [
+    {
+     "name": "Nabunturan",
+     "type": "municipality",
+     "lat": 7.6,
+     "lng": 125.96
+    },
+    {
+     "name": "Monkayo",
+     "type": "municipality",
+     "lat": 7.82,
+     "lng": 126.06
+    },
+    {
+     "name": "Compostela",
+     "type": "municipality",
+     "lat": 7.76,
+     "lng": 126.09
+    },
+    {
+     "name": "Maco",
+     "type": "municipality",
+     "lat": 7.36,
+     "lng": 125.86
+    },
+    {
+     "name": "Maragusan",
+     "type": "municipality",
+     "lat": 7.32,
+     "lng": 126.13
+    }
+   ]
+  },
+  {
+   "capital": "Kidapawan City",
+   "description": "Cotabato is known for the northern trail routes up Mount Apo and Kidapawan City's fruit harvests. Asik-Asik Falls in Alamada is one of its standout sights.",
+   "id": "cotabato",
+   "lat": 7.25,
+   "lng": 124.85,
+   "name": "Cotabato",
+   "region": "Mindanao",
+   "tagline": "Gateway to Mount Apo",
+   "tags": [
+    "Province",
+    "Adventure",
+    "Nature"
+   ],
+   "cities": [
+    {
+     "name": "Kidapawan City",
+     "type": "city",
+     "lat": 7.01,
+     "lng": 125.09
+    },
+    {
+     "name": "M'lang",
+     "type": "municipality",
+     "lat": 6.95,
+     "lng": 124.88
+    },
+    {
+     "name": "Kabacan",
+     "type": "municipality",
+     "lat": 7.1,
+     "lng": 124.82
+    }
+   ]
+  },
+  {
+   "capital": "Alabel",
+   "description": "Sarangani is known for dive sites in Sarangani Bay and the tuna industry of General Santos nearby. Gumasa Beach in Glan draws weekend crowds.",
+   "id": "sarangani",
+   "lat": 5.98,
+   "lng": 124.85,
+   "name": "Sarangani",
+   "region": "Mindanao",
+   "tagline": "Bay dives and tuna country",
+   "tags": [
+    "Province",
+    "Beach",
+    "Nature"
+   ],
+   "cities": [
+    {
+     "name": "Alabel",
+     "type": "municipality",
+     "lat": 6.1,
+     "lng": 125.29
+    },
+    {
+     "name": "Glan",
+     "type": "municipality",
+     "lat": 5.82,
+     "lng": 125.2
+    },
+    {
+     "name": "Kiamba",
+     "type": "municipality",
+     "lat": 5.99,
+     "lng": 124.63
+    },
+    {
+     "name": "Maasim",
+     "type": "municipality",
+     "lat": 5.86,
+     "lng": 125.0
+    },
+    {
+     "name": "Malapatan",
+     "type": "municipality",
+     "lat": 5.97,
+     "lng": 125.07
+    }
+   ]
+  },
+  {
+   "capital": "Koronadal City",
+   "description": "South Cotabato is known for Lake Sebu and the T'boli people's t'nalak weaving. The Seven Falls of Lake Sebu can be toured by zipline.",
+   "id": "south-cotabato",
+   "lat": 6.25,
+   "lng": 124.95,
+   "name": "South Cotabato",
+   "region": "Mindanao",
+   "tagline": "Land of the Dreamweavers",
+   "tags": [
+    "Province",
+    "Culture",
+    "Nature",
+    "Adventure"
+   ],
+   "cities": [
+    {
+     "name": "Koronadal City",
+     "type": "city",
+     "lat": 6.5,
+     "lng": 124.85
+    },
+    {
+     "name": "General Santos City",
+     "type": "city",
+     "lat": 6.11,
+     "lng": 125.17
+    },
+    {
+     "name": "Lake Sebu",
+     "type": "municipality",
+     "lat": 6.24,
+     "lng": 124.69
+    }
+   ]
+  },
+  {
+   "capital": "Isulan",
+   "description": "Sultan Kudarat is named after the 17th-century Maguindanaon sultan. It is known for coastal towns along the Celebes Sea and fertile agricultural plains.",
+   "id": "sultan-kudarat",
+   "lat": 6.65,
+   "lng": 124.4,
+   "name": "Sultan Kudarat",
+   "region": "Mindanao",
+   "tagline": "Named for the 17th-century sultan",
+   "tags": [
+    "Province",
+    "Culture",
+    "Beach"
+   ],
+   "cities": [
+    {
+     "name": "Isulan",
+     "type": "municipality",
+     "lat": 6.63,
+     "lng": 124.6
+    },
+    {
+     "name": "Tacurong City",
+     "type": "city",
+     "lat": 6.69,
+     "lng": 124.68
+    },
+    {
+     "name": "Lebak",
+     "type": "municipality",
+     "lat": 6.63,
+     "lng": 124.07
+    }
+   ]
+  },
+  {
+   "capital": "Cabadbaran",
+   "description": "Agusan del Norte is known for the beaches of Carmen and Cabadbaran and the forested slopes of Mount Hilong-hilong. Butuan City sits within its borders as an independent city.",
+   "id": "agusan-del-norte",
+   "lat": 9.08,
+   "lng": 125.55,
+   "name": "Agusan del Norte",
+   "region": "Mindanao",
+   "tagline": "Beaches beneath Mount Hilong-hilong",
+   "tags": [
+    "Province",
+    "Beach",
+    "Nature"
+   ],
+   "cities": [
+    {
+     "name": "Cabadbaran City",
+     "type": "city",
+     "lat": 9.12,
+     "lng": 125.54
+    },
+    {
+     "name": "Butuan City",
+     "type": "city",
+     "lat": 8.95,
+     "lng": 125.53
+    },
+    {
+     "name": "Nasipit",
+     "type": "municipality",
+     "lat": 8.99,
+     "lng": 125.34
+    }
+   ]
+  },
+  {
+   "capital": "Prosperidad",
+   "description": "Agusan del Sur is known for the Agusan Marsh Wildlife Sanctuary, one of the country's most important wetlands. Waterfalls and rivers dot its forested interior.",
+   "id": "agusan-del-sur",
+   "lat": 8.55,
+   "lng": 125.85,
+   "name": "Agusan del Sur",
+   "region": "Mindanao",
+   "tagline": "Home of the Agusan Marsh",
+   "tags": [
+    "Province",
+    "Nature",
+    "Adventure"
+   ],
+   "cities": [
+    {
+     "name": "Prosperidad",
+     "type": "municipality",
+     "lat": 8.6,
+     "lng": 125.92
+    },
+    {
+     "name": "Bayugan City",
+     "type": "city",
+     "lat": 8.71,
+     "lng": 125.75
+    },
+    {
+     "name": "San Francisco",
+     "type": "municipality",
+     "lat": 8.52,
+     "lng": 125.98
+    },
+    {
+     "name": "Esperanza",
+     "type": "municipality",
+     "lat": 8.68,
+     "lng": 126.06
+    }
+   ]
+  },
+  {
+   "capital": "San Jose",
+   "description": "Dinagat Islands is known for white-sand beaches and Lake Bababu, a lake said to have mystical depths. It sits off the northeastern tip of Mindanao.",
+   "id": "dinagat-islands",
+   "lat": 10.13,
+   "lng": 125.62,
+   "name": "Dinagat Islands",
+   "region": "Mindanao",
+   "tagline": "White beaches and the mystical lake",
+   "tags": [
+    "Province",
+    "Beach",
+    "Nature"
+   ],
+   "cities": [
+    {
+     "name": "San Jose",
+     "type": "municipality",
+     "lat": 10.01,
+     "lng": 125.58
+    },
+    {
+     "name": "Basilisa",
+     "type": "municipality",
+     "lat": 10.07,
+     "lng": 125.52
+    },
+    {
+     "name": "Dinagat",
+     "type": "municipality",
+     "lat": 10.1,
+     "lng": 125.58
+    },
+    {
+     "name": "Libjo",
+     "type": "municipality",
+     "lat": 10.27,
+     "lng": 125.55
+    },
+    {
+     "name": "Loreto",
+     "type": "municipality",
+     "lat": 10.37,
+     "lng": 125.58
+    },
+    {
+     "name": "Tubajon",
+     "type": "municipality",
+     "lat": 10.33,
+     "lng": 125.56
+    },
+    {
+     "name": "Cagdianao",
+     "type": "municipality",
+     "lat": 10.0,
+     "lng": 125.68
+    }
+   ]
+  },
+  {
+   "capital": "Surigao City",
+   "description": "Surigao del Norte is known for Siargao's Cloud 9 surf break and the lagoons of Sohoton Cove on Bucas Grande. Surigao City is the ferry gateway to the islands.",
+   "id": "surigao-del-norte",
+   "lat": 9.8,
+   "lng": 125.8,
+   "name": "Surigao del Norte",
+   "region": "Mindanao",
+   "tagline": "Home of Siargao Island",
+   "tags": [
+    "Province",
+    "Beach",
+    "Adventure"
+   ],
+   "cities": [
+    {
+     "name": "Surigao City",
+     "type": "city",
+     "lat": 9.79,
+     "lng": 125.49
+    },
+    {
+     "name": "General Luna",
+     "type": "municipality",
+     "lat": 9.77,
+     "lng": 126.15
+    },
+    {
+     "name": "Dapa",
+     "type": "municipality",
+     "lat": 9.76,
+     "lng": 126.05
+    },
+    {
+     "name": "Del Carmen",
+     "type": "municipality",
+     "lat": 9.87,
+     "lng": 126.02
+    }
+   ]
+  },
+  {
+   "capital": "Tandag City",
+   "description": "Surigao del Sur is known for the Hinatuan Enchanted River with its vivid blue waters and the multi-tiered Tinuy-an Falls. Its Pacific coastline offers surf and raw scenery.",
+   "id": "surigao-del-sur",
+   "lat": 8.88,
+   "lng": 126.15,
+   "name": "Surigao del Sur",
+   "region": "Mindanao",
+   "tagline": "Home of the Enchanted River",
+   "tags": [
+    "Province",
+    "Nature",
+    "Adventure"
+   ],
+   "cities": [
+    {
+     "name": "Tandag City",
+     "type": "city",
+     "lat": 9.07,
+     "lng": 126.2
+    },
+    {
+     "name": "Bislig City",
+     "type": "city",
+     "lat": 8.21,
+     "lng": 126.35
+    },
+    {
+     "name": "Hinatuan",
+     "type": "municipality",
+     "lat": 8.37,
+     "lng": 126.34
+    },
+    {
+     "name": "Lianga",
+     "type": "municipality",
+     "lat": 8.63,
+     "lng": 126.1
+    }
+   ]
+  },
+  {
+   "capital": "Isabela City",
+   "description": "Basilan is an island province known for colorful Yakan weaving, rubber plantations, and quiet beaches. Isabela City serves as its capital.",
+   "id": "basilan",
+   "lat": 6.55,
+   "lng": 122.05,
+   "name": "Basilan",
+   "region": "Mindanao",
+   "tagline": "Island of Yakan weaving",
+   "tags": [
+    "Province",
+    "Culture",
+    "Beach"
+   ],
+   "cities": [
+    {
+     "name": "Isabela City",
+     "type": "city",
+     "lat": 6.71,
+     "lng": 121.97
+    },
+    {
+     "name": "Lamitan City",
+     "type": "city",
+     "lat": 6.65,
+     "lng": 122.14
+    },
+    {
+     "name": "Tipo-Tipo",
+     "type": "municipality",
+     "lat": 6.6,
+     "lng": 122.18
+    }
+   ]
+  },
+  {
+   "capital": "Marawi",
+   "description": "Lanao del Sur is home to the Maranao people and the vast Lake Lanao. Marawi City, the provincial capital, continues rebuilding after the 2017 siege.",
+   "id": "lanao-del-sur",
+   "lat": 7.95,
+   "lng": 124.35,
+   "name": "Lanao del Sur",
+   "region": "Mindanao",
+   "tagline": "Heart of the Maranao people",
+   "tags": [
+    "Province",
+    "Culture",
+    "Nature"
+   ],
+   "cities": [
+    {
+     "name": "Marawi City",
+     "type": "city",
+     "lat": 8.0,
+     "lng": 124.29
+    },
+    {
+     "name": "Wao",
+     "type": "municipality",
+     "lat": 7.65,
+     "lng": 124.73
+    },
+    {
+     "name": "Malabang",
+     "type": "municipality",
+     "lat": 7.59,
+     "lng": 124.07
+    },
+    {
+     "name": "Balabagan",
+     "type": "municipality",
+     "lat": 7.54,
+     "lng": 124.16
+    }
+   ]
+  },
+  {
+   "capital": "Datu Odin Sinsuat",
+   "description": "Maguindanao del Norte was created in 2022 when Maguindanao split into two provinces. It is known for coastal towns along Illana Bay and the Rio Grande de Mindanao.",
+   "id": "maguindanao-del-norte",
+   "lat": 7.18,
+   "lng": 124.28,
+   "name": "Maguindanao del Norte",
+   "region": "Mindanao",
+   "tagline": "Northern half of the former Maguindanao",
+   "tags": [
+    "Province",
+    "Culture",
+    "Nature"
+   ],
+   "cities": [
+    {
+     "name": "Datu Odin Sinsuat",
+     "type": "municipality",
+     "lat": 7.19,
+     "lng": 124.18
+    },
+    {
+     "name": "Cotabato City",
+     "type": "city",
+     "lat": 7.22,
+     "lng": 124.25
+    },
+    {
+     "name": "Parang",
+     "type": "municipality",
+     "lat": 7.37,
+     "lng": 124.27
+    },
+    {
+     "name": "Barira",
+     "type": "municipality",
+     "lat": 7.47,
+     "lng": 124.32
+    }
+   ]
+  },
+  {
+   "capital": "Buluan",
+   "description": "Maguindanao del Sur was created in 2022 when Maguindanao split into two provinces. It is known for Lake Buluan and its agricultural lowlands.",
+   "id": "maguindanao-del-sur",
+   "lat": 6.75,
+   "lng": 124.5,
+   "name": "Maguindanao del Sur",
+   "region": "Mindanao",
+   "tagline": "Southern half of the former Maguindanao",
+   "tags": [
+    "Province",
+    "Culture",
+    "Nature"
+   ],
+   "cities": [
+    {
+     "name": "Buluan",
+     "type": "municipality",
+     "lat": 6.72,
+     "lng": 124.79
+    },
+    {
+     "name": "Datu Piang",
+     "type": "municipality",
+     "lat": 7.02,
+     "lng": 124.5
+    },
+    {
+     "name": "Shariff Aguak",
+     "type": "municipality",
+     "lat": 6.87,
+     "lng": 124.45
+    },
+    {
+     "name": "Mamasapano",
+     "type": "municipality",
+     "lat": 6.9,
+     "lng": 124.5
+    }
+   ]
+  },
+  {
+   "capital": "Jolo",
+   "description": "Sulu is an island province known for the Bud Dajo crater and rich Tausug culture. Jolo serves as its capital and historic center.",
+   "id": "sulu",
+   "lat": 6.02,
+   "lng": 121.08,
+   "name": "Sulu",
+   "region": "Mindanao",
+   "tagline": "Archipelagic province of the Sulu Sea",
+   "tags": [
+    "Province",
+    "Culture",
+    "Beach"
+   ],
+   "cities": [
+    {
+     "name": "Jolo",
+     "type": "municipality",
+     "lat": 6.05,
+     "lng": 121.0
+    },
+    {
+     "name": "Indanan",
+     "type": "municipality",
+     "lat": 5.98,
+     "lng": 120.98
+    },
+    {
+     "name": "Patikul",
+     "type": "municipality",
+     "lat": 6.08,
+     "lng": 121.08
+    },
+    {
+     "name": "Parang",
+     "type": "municipality",
+     "lat": 5.92,
+     "lng": 120.92
+    }
+   ]
+  },
+  {
+   "capital": "Bongao",
+   "description": "Tawi-Tawi is the country's southernmost province, known for Bud Bongao peak, seaweed farms, and the Turtle Islands. It sits at the edge of the Sulu archipelago.",
+   "id": "tawi-tawi",
+   "lat": 5.25,
+   "lng": 119.95,
+   "name": "Tawi-Tawi",
+   "region": "Mindanao",
+   "tagline": "Philippines' southernmost province",
+   "tags": [
+    "Province",
+    "Beach",
+    "Nature",
+    "Adventure"
+   ],
+   "cities": [
+    {
+     "name": "Bongao",
+     "type": "municipality",
+     "lat": 5.03,
+     "lng": 119.77
+    },
+    {
+     "name": "Panglima Sugala",
+     "type": "municipality",
+     "lat": 5.08,
+     "lng": 119.83
+    },
+    {
+     "name": "Simunul",
+     "type": "municipality",
+     "lat": 4.9,
+     "lng": 119.82
+    },
+    {
+     "name": "Sitangkai",
+     "type": "municipality",
+     "lat": 4.66,
+     "lng": 119.39
+    }
+   ]
+  }
+ ]
+}

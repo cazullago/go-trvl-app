@@ -1,0 +1,21 @@
+# GoTRVL Android release signing - EXAMPLE ONLY. Do not put real secrets here.
+#
+# Setup (done once by the app OWNER, never by an agent):
+#   1. Create the upload keystore:
+#        keytool -genkey -v -keystore ~/gotrvl-upload-key.jks -keyalg RSA \
+#          -keysize 2048 -validity 10000 -alias gotrvl
+#      Guard the keystore file and both passwords like production secrets.
+#      Losing them means you can never update the app on Google Play.
+#   2. Copy this file to android/key.properties (same folder, drop ".example").
+#   3. Replace the placeholder values below with the real ones.
+#
+# android/key.properties is git-ignored (see android/.gitignore) and must
+# NEVER be committed. If android/key.properties is absent, release builds
+# fall back to debug signing (see android/app/build.gradle.kts) - fine for
+# local testing, never for a Play upload.
+
+storePassword=YOUR_STORE_PASSWORD_HERE
+keyPassword=YOUR_KEY_PASSWORD_HERE
+keyAlias=gotrvl
+# Absolute path to the keystore, or a path relative to the android/ folder.
+storeFile=/home/you/gotrvl-upload-key.jks

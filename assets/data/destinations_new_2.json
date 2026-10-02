@@ -1,0 +1,1498 @@
+{
+ "destinations": [
+  {
+   "id": "guimaras",
+   "name": "Guimaras",
+   "region": "Visayas",
+   "province": "Guimaras",
+   "provinceId": "guimaras",
+   "tagline": "The island famous for the sweetest mangoes in the Philippines.",
+   "description": "Guimaras is a small island province between Iloilo and Negros, best known for its exceptionally sweet carabao mangoes. White-sand coves, a centuries-old lighthouse, and a hilltop shrine with sweeping views make it an easy island escape. It is a popular day trip or weekend getaway from Iloilo City.",
+   "whyPopular": "Its mangoes are reputedly among the sweetest in the world, and the island pairs that food fame with quiet beaches and historic sites. The Manggahan Festival every April or May celebrates the mango harvest.",
+   "bestTime": "November to May",
+   "howToGetThere": "Take a 15-minute pump boat from Ortiz Wharf in Iloilo City to Jordan Wharf in Guimaras, then ride a tricycle or jeepney around the island.",
+   "centerLat": 10.58,
+   "centerLng": 122.59,
+   "places": [
+    {
+     "id": "guimaras-alubihod-beach",
+     "name": "Alubihod Beach",
+     "category": "where_to_go",
+     "placeType": "Beach",
+     "description": "A quiet cove in Nueva Valencia with white sand, calm water, and island views. It is the island's most developed beach area, lined with small resorts.",
+     "priceRange": "Free",
+     "area": "Nueva Valencia",
+     "bestTime": "Morning",
+     "lat": 10.528,
+     "lng": 122.552
+    },
+    {
+     "id": "guimaras-guisi-lighthouse",
+     "name": "Guisi Lighthouse",
+     "category": "where_to_go",
+     "placeType": "Historical Landmark",
+     "description": "An 18th-century Spanish-era lighthouse standing on a cliff in Barangay Guisi. The short climb rewards visitors with wide views of the sea and the horizon.",
+     "priceRange": "Free",
+     "area": "Nueva Valencia",
+     "bestTime": "Late afternoon",
+     "lat": 10.4825,
+     "lng": 122.47592
+    },
+    {
+     "id": "guimaras-balaan-bukid",
+     "name": "Balaan Bukid Shrine",
+     "category": "where_to_go",
+     "placeType": "Viewpoint",
+     "description": "A hilltop shrine in Buenavista marked by a large white cross visible from Iloilo. The climb passes the Stations of the Cross and ends with a panoramic view of the Iloilo Strait.",
+     "priceRange": "Free",
+     "area": "Buenavista",
+     "bestTime": "Morning",
+     "lat": 10.635,
+     "lng": 122.58
+    },
+    {
+     "id": "guimaras-island-hopping",
+     "name": "Natago Beach Island Hopping",
+     "category": "things_to_do",
+     "placeType": "Island Hopping",
+     "description": "Pump boats from Alubihod visit nearby islets such as Natago Beach and Ave Maria Islet. Expect sandbars, snorkeling spots, and clear shallow water.",
+     "priceRange": "₱1,500 per boat",
+     "area": "Nueva Valencia",
+     "bestTime": "Morning",
+     "lat": 10.53,
+     "lng": 122.545
+    },
+    {
+     "id": "guimaras-mango-plantation-tour",
+     "name": "Mango Plantation Tour",
+     "category": "things_to_do",
+     "placeType": "Farm Tour",
+     "description": "Tour the mango orchards that made Guimaras famous and taste fresh carabao mangoes in season. Some farms let visitors pick fruit or buy by the kilo.",
+     "priceRange": "₱100 to ₱200",
+     "area": "San Lorenzo",
+     "bestTime": "Morning",
+     "lat": 10.59,
+     "lng": 122.59
+    },
+    {
+     "id": "guimaras-pitstop-restaurant",
+     "name": "Pitstop Restaurant",
+     "category": "where_to_eat",
+     "placeType": "Restaurant",
+     "description": "A well-known stop in Buenavista famous for its mango pizza and mango-based dishes. It is the classic lunch break on any Guimaras road trip.",
+     "priceRange": "₱150 to ₱300 per dish",
+     "area": "Buenavista",
+     "bestTime": "Lunch",
+     "lat": 10.62,
+     "lng": 122.585
+    },
+    {
+     "id": "guimaras-raymen-beach-resort",
+     "name": "Raymen Beach Resort",
+     "category": "where_to_stay",
+     "placeType": "Beach Resort",
+     "description": "A beachfront resort on Alubihod Beach with cottages, a pool, and direct sea access. It is one of the island's longest-running places to stay.",
+     "priceRange": "₱1,500 to ₱3,500 per night",
+     "area": "Nueva Valencia",
+     "bestTime": "Year-round",
+     "lat": 10.527,
+     "lng": 122.551
+    },
+    {
+     "id": "guimaras-trappist-monastery",
+     "name": "Trappist Monastery Shop",
+     "category": "where_to_buy",
+     "placeType": "Souvenir Shop",
+     "description": "The Our Lady of the Philippines Trappist Monastery shop sells mango jams, preserves, and religious items made by the monks. It is the top pasalubong stop on the island.",
+     "priceRange": "₱100 to ₱500",
+     "area": "Jordan",
+     "bestTime": "Morning",
+     "lat": 10.595,
+     "lng": 122.6
+    },
+    {
+     "id": "guimaras-tricycle-tour",
+     "name": "Tricycle Day Tour",
+     "category": "how_to_get_around",
+     "placeType": "Tricycle",
+     "description": "Tricycles are the main way to hop between beaches, the lighthouse, and the monastery. Drivers often double as informal tour guides for a fixed day rate.",
+     "priceRange": "₱800 to ₱1,200 per day",
+     "area": "Island-wide",
+     "bestTime": "Daytime",
+     "lat": 10.585,
+     "lng": 122.59
+    },
+    {
+     "id": "guimaras-multicab-rental",
+     "name": "Multicab Rental",
+     "category": "how_to_get_around",
+     "placeType": "Multicab",
+     "description": "Groups can hire a multicab or van with driver to circle the island's sights in one day. Hotels and the Jordan port area can arrange one on arrival.",
+     "priceRange": "₱2,000 to ₱3,000 per day",
+     "area": "Jordan",
+     "bestTime": "Daytime",
+     "lat": 10.6,
+     "lng": 122.595
+    }
+   ],
+   "transport": [
+    {
+     "type": "Pump boat",
+     "useCase": "Getting to Guimaras from Iloilo City",
+     "priceRange": "₱30 to ₱50",
+     "notes": "Boats leave Ortiz Wharf every 15 to 30 minutes from early morning to late afternoon."
+    },
+    {
+     "type": "Tricycle day hire",
+     "useCase": "Touring the island's beaches and landmarks",
+     "priceRange": "₱800 to ₱1,200 per day",
+     "notes": "Agree on the route and price before starting; most drivers know the standard loop."
+    },
+    {
+     "type": "Jeepney",
+     "useCase": "Budget travel between Jordan, Buenavista, and Nueva Valencia",
+     "priceRange": "₱30 to ₱50",
+     "notes": "Public jeepneys run set routes between the main towns during daytime."
+    },
+    {
+     "type": "Motorcycle rental",
+     "useCase": "Independent exploring for confident riders",
+     "priceRange": "₱500 to ₱800 per day",
+     "notes": "Available in Jordan and Nueva Valencia; bring a valid driver's license."
+    }
+   ]
+  },
+  {
+   "id": "malapascua",
+   "name": "Malapascua",
+   "region": "Visayas",
+   "province": "Cebu",
+   "provinceId": "cebu",
+   "tagline": "The only place in the world where thresher sharks are seen almost daily.",
+   "description": "Malapascua is a small island off northern Cebu famous for Monad Shoal, where thresher sharks rise to cleaning stations at dawn. Beyond the sharks, it offers white-sand beaches, wreck dives, and a laid-back island scene. Divers and beach lovers travel here from around the world.",
+   "whyPopular": "It is the only dive site in the world with near-daily thresher shark sightings, plus the nearby Gato Island sea snake sanctuary. The famous Kalanggaman sandbar is an easy day trip from here.",
+   "bestTime": "November to May",
+   "howToGetThere": "Take a bus or van from Cebu City to Maya Port in Daanbantayan (3 to 4 hours), then a 30-minute public boat to Malapascua.",
+   "centerLat": 11.331,
+   "centerLng": 124.116,
+   "places": [
+    {
+     "id": "malapascua-monad-shoal",
+     "name": "Monad Shoal",
+     "category": "where_to_go",
+     "placeType": "Dive Site",
+     "description": "A submerged plateau where thresher sharks visit cleaning stations at sunrise. Dawn dives here are the island's signature experience for certified divers.",
+     "priceRange": "₱1,800 to ₱2,500 per dive",
+     "area": "Offshore",
+     "bestTime": "Dawn",
+     "lat": 11.322,
+     "lng": 124.105
+    },
+    {
+     "id": "malapascua-bounty-beach",
+     "name": "Bounty Beach",
+     "category": "where_to_go",
+     "placeType": "Beach",
+     "description": "The island's main white-sand beach, lined with resorts, dive shops, and bars. It faces west, so sunsets here are a nightly event.",
+     "priceRange": "Free",
+     "area": "Logon",
+     "bestTime": "Afternoon",
+     "lat": 11.335,
+     "lng": 124.114
+    },
+    {
+     "id": "malapascua-gato-island",
+     "name": "Gato Island",
+     "category": "where_to_go",
+     "placeType": "Marine Sanctuary",
+     "description": "A small rocky islet and marine reserve known for whitetip sharks, sea snakes, and a swim-through tunnel. It is a favorite second dive after Monad Shoal.",
+     "priceRange": "₱1,800 to ₱2,500 per dive",
+     "area": "Offshore",
+     "bestTime": "Morning",
+     "lat": 11.448,
+     "lng": 124.018
+    },
+    {
+     "id": "malapascua-thresher-shark-dive",
+     "name": "Thresher Shark Dawn Dive",
+     "category": "things_to_do",
+     "placeType": "Scuba Diving",
+     "description": "Join a 5 a.m. dive briefing and descend to Monad Shoal as the thresher sharks arrive. Open Water certification and good buoyancy control are required.",
+     "priceRange": "₱1,800 to ₱2,500",
+     "area": "Bounty Beach dive shops",
+     "bestTime": "Dawn",
+     "lat": 11.334,
+     "lng": 124.115
+    },
+    {
+     "id": "malapascua-kalanggaman-day-trip",
+     "name": "Kalanggaman Sandbar Day Trip",
+     "category": "things_to_do",
+     "placeType": "Island Hopping",
+     "description": "Speedboats run day trips to the famous Kalanggaman sandbar, about an hour away. Trips usually include lunch, snorkeling stops, and beach time.",
+     "priceRange": "₱1,500 to ₱2,500",
+     "area": "Bounty Beach",
+     "bestTime": "Morning",
+     "lat": 11.336,
+     "lng": 124.116
+    },
+    {
+     "id": "malapascua-ginggings",
+     "name": "Ging-Ging's Restaurant",
+     "category": "where_to_eat",
+     "placeType": "Restaurant",
+     "description": "A long-running beachfront spot serving Filipino dishes, fresh seafood, and breakfast sets. It is a favorite among divers refueling between dives.",
+     "priceRange": "₱150 to ₱350 per dish",
+     "area": "Bounty Beach",
+     "bestTime": "All day",
+     "lat": 11.334,
+     "lng": 124.113
+    },
+    {
+     "id": "malapascua-ocean-vida",
+     "name": "Ocean Vida Beach Resort",
+     "category": "where_to_stay",
+     "placeType": "Beach Resort",
+     "description": "A beachfront resort on Bounty Beach with its own dive center, pool, and restaurant. It is popular with divers who want everything in one place.",
+     "priceRange": "₱2,500 to ₱6,000 per night",
+     "area": "Bounty Beach",
+     "bestTime": "Year-round",
+     "lat": 11.336,
+     "lng": 124.112
+    },
+    {
+     "id": "malapascua-tepanee",
+     "name": "Tepanee Beach Resort",
+     "category": "where_to_stay",
+     "placeType": "Beach Resort",
+     "description": "A quieter resort on the north side of the island with cottages set in tropical gardens. It suits travelers who want calm after the dive boats leave.",
+     "priceRange": "₱2,000 to ₱4,500 per night",
+     "area": "Logon",
+     "bestTime": "Year-round",
+     "lat": 11.34,
+     "lng": 124.118
+    },
+    {
+     "id": "malapascua-souvenir-stalls",
+     "name": "Bounty Beach Souvenir Stalls",
+     "category": "where_to_buy",
+     "placeType": "Souvenir Shop",
+     "description": "Dive shops and stalls along Bounty Beach sell thresher shark shirts, rash guards, and local handicrafts. Prices are fixed in some shops and haggle-friendly in others.",
+     "priceRange": "₱100 to ₱600",
+     "area": "Bounty Beach",
+     "bestTime": "Afternoon",
+     "lat": 11.335,
+     "lng": 124.113
+    },
+    {
+     "id": "malapascua-motorbike-rental",
+     "name": "Motorbike Rental",
+     "category": "how_to_get_around",
+     "placeType": "Motorbike",
+     "description": "Rent a motorbike to reach quiet coves and viewpoints on the island's far side. The island is small, so a half day covers the full loop.",
+     "priceRange": "₱400 to ₱600 per day",
+     "area": "Logon village",
+     "bestTime": "Daytime",
+     "lat": 11.333,
+     "lng": 124.117
+    }
+   ],
+   "transport": [
+    {
+     "type": "Public boat",
+     "useCase": "Crossing from Maya Port to Malapascua",
+     "priceRange": "₱100 to ₱150",
+     "notes": "Boats leave when full from early morning to late afternoon; the trip takes about 30 minutes."
+    },
+    {
+     "type": "Private boat transfer",
+     "useCase": "Faster crossing or group transfers on your own schedule",
+     "priceRange": "₱1,500 to ₱2,500 per boat",
+     "notes": "Resorts and Maya Port operators can arrange private boats, useful for late arrivals."
+    },
+    {
+     "type": "Bus or van",
+     "useCase": "Getting from Cebu City to Maya Port",
+     "priceRange": "₱200 to ₱350",
+     "notes": "Ceres buses and vans leave from Cebu North Bus Terminal; the ride takes 3 to 4 hours."
+    },
+    {
+     "type": "Habal-habal",
+     "useCase": "Short rides around the island",
+     "priceRange": "₱50 to ₱100 per trip",
+     "notes": "Motorcycle taxis wait near the village center and Bounty Beach."
+    }
+   ]
+  },
+  {
+   "id": "kalanggaman-island",
+   "name": "Kalanggaman Island",
+   "region": "Visayas",
+   "province": "Leyte",
+   "provinceId": "leyte",
+   "tagline": "A postcard sandbar floating between Cebu and Leyte.",
+   "description": "Kalanggaman Island is a tiny uninhabited island off Palompon, Leyte, famous for its long white sandbar stretching into turquoise water. There are no hotels or restaurants, only clear water, snorkeling, and camping under the stars. It is one of the most photographed beaches in the Visayas.",
+   "whyPopular": "The sandbar looks like a scene from a travel magazine, and the surrounding reef offers easy snorkeling. Overnight camping lets visitors have the island nearly to themselves.",
+   "bestTime": "December to May",
+   "howToGetThere": "Travel to Palompon, Leyte, register at the tourism office, then take a pump boat to the island (about 1 hour).",
+   "centerLat": 11.055,
+   "centerLng": 124.378,
+   "places": [
+    {
+     "id": "kalanggaman-sandbar",
+     "name": "Kalanggaman Sandbar",
+     "category": "where_to_go",
+     "placeType": "Sandbar",
+     "description": "The island's famous white sandbar extends hundreds of meters into clear blue water. Walk its full length at low tide for the classic panoramic photos.",
+     "priceRange": "Included in entrance fee",
+     "area": "Kalanggaman Island",
+     "bestTime": "Morning",
+     "lat": 11.055,
+     "lng": 124.378
+    },
+    {
+     "id": "kalanggaman-snorkeling-reef",
+     "name": "Kalanggaman Reef",
+     "category": "where_to_go",
+     "placeType": "Snorkeling Site",
+     "description": "Coral gardens and reef slopes surround the island with decent visibility on calm days. Expect small reef fish, corals, and occasional sea turtles.",
+     "priceRange": "Included in entrance fee",
+     "area": "Kalanggaman Island",
+     "bestTime": "Morning",
+     "lat": 11.056,
+     "lng": 124.38
+    },
+    {
+     "id": "kalanggaman-campsite",
+     "name": "Kalanggaman Island Campsite",
+     "category": "where_to_stay",
+     "placeType": "Campsite",
+     "description": "Overnight guests pitch tents in the designated camping area or rent tents from the tourism office. Falling asleep to the waves with almost no light pollution is the main draw.",
+     "priceRange": "₱250 to ₱500 tent rental",
+     "area": "Kalanggaman Island",
+     "bestTime": "Overnight",
+     "lat": 11.054,
+     "lng": 124.377
+    },
+    {
+     "id": "kalanggaman-kayaking",
+     "name": "Island Kayaking",
+     "category": "things_to_do",
+     "placeType": "Kayaking",
+     "description": "Rent a kayak and paddle around the island or out toward the sandbar tip. The water is usually calmest in the morning.",
+     "priceRange": "₱200 to ₱300 per hour",
+     "area": "Kalanggaman Island",
+     "bestTime": "Morning",
+     "lat": 11.055,
+     "lng": 124.379
+    },
+    {
+     "id": "kalanggaman-beach-volleyball",
+     "name": "Beach Volleyball",
+     "category": "things_to_do",
+     "placeType": "Beach Activity",
+     "description": "Join pickup beach volleyball games on the main beach, a favorite pastime of overnight campers. Equipment is sometimes available from the tourism staff.",
+     "priceRange": "Free",
+     "area": "Kalanggaman Island",
+     "bestTime": "Afternoon",
+     "lat": 11.054,
+     "lng": 124.378
+    },
+    {
+     "id": "kalanggaman-palompon-market",
+     "name": "Palompon Public Market",
+     "category": "where_to_eat",
+     "placeType": "Public Market",
+     "description": "Stock up on grilled food, rice meals, and snacks at Palompon Public Market before boarding the boat. Most visitors bring all their food since the island has no restaurants.",
+     "priceRange": "₱50 to ₱150 per meal",
+     "area": "Palompon town",
+     "bestTime": "Morning",
+     "lat": 11.05,
+     "lng": 124.383
+    },
+    {
+     "id": "kalanggaman-port-carinderia",
+     "name": "Palompon Port Carinderias",
+     "category": "where_to_eat",
+     "placeType": "Eatery",
+     "description": "Small carinderias near Palompon Port serve hot Filipino meals to day-trippers before or after the crossing. A practical breakfast stop before the early boat.",
+     "priceRange": "₱80 to ₱150 per meal",
+     "area": "Palompon Port",
+     "bestTime": "Morning",
+     "lat": 11.048,
+     "lng": 124.385
+    },
+    {
+     "id": "kalanggaman-souvenir-stall",
+     "name": "Kalanggaman Souvenir Stall",
+     "category": "where_to_buy",
+     "placeType": "Souvenir Shop",
+     "description": "A small stall near the island's arrival area sells Kalanggaman shirts and trinkets. The Palompon tourism office also stocks official merchandise.",
+     "priceRange": "₱100 to ₱300",
+     "area": "Kalanggaman Island",
+     "bestTime": "Daytime",
+     "lat": 11.054,
+     "lng": 124.378
+    },
+    {
+     "id": "kalanggaman-walking",
+     "name": "Island Walk",
+     "category": "how_to_get_around",
+     "placeType": "Walking",
+     "description": "The island is tiny enough to circle on foot in under an hour. All movement on the island is by walking along the beach and trails.",
+     "priceRange": "Free",
+     "area": "Kalanggaman Island",
+     "bestTime": "Daytime",
+     "lat": 11.055,
+     "lng": 124.378
+    },
+    {
+     "id": "kalanggaman-pump-boat",
+     "name": "Pump Boat Crossing",
+     "category": "how_to_get_around",
+     "placeType": "Pump Boat",
+     "description": "Pump boats are the only way on and off the island, arranged through the Palompon tourism office. Boats can be shared with other groups to split the cost.",
+     "priceRange": "₱3,000 to ₱4,000 per boat round trip",
+     "area": "Palompon Port",
+     "bestTime": "Morning",
+     "lat": 11.048,
+     "lng": 124.386
+    }
+   ],
+   "transport": [
+    {
+     "type": "Pump boat",
+     "useCase": "The only way to reach Kalanggaman Island",
+     "priceRange": "₱3,000 to ₱4,000 per boat round trip",
+     "notes": "Book through the Palompon tourism office; sharing a boat with other groups lowers the cost."
+    },
+    {
+     "type": "Van or bus",
+     "useCase": "Getting to Palompon from Tacloban or Ormoc",
+     "priceRange": "₱200 to ₱400",
+     "notes": "Vans leave regularly in the morning; the ride from Ormoc takes about 2 hours."
+    },
+    {
+     "type": "Tricycle",
+     "useCase": "Moving around Palompon town and to the port",
+     "priceRange": "₱20 to ₱50",
+     "notes": "The tourism office, market, and port are all within a short tricycle ride."
+    },
+    {
+     "type": "Environmental fee",
+     "useCase": "Island entrance and conservation fee",
+     "priceRange": "₱150 to ₱500",
+     "notes": "Paid at the Palompon tourism office; rates differ for day visitors and overnight campers."
+    }
+   ]
+  },
+  {
+   "id": "bacolod",
+   "name": "Bacolod",
+   "region": "Visayas",
+   "province": "Negros Occidental",
+   "provinceId": "negros-occidental",
+   "tagline": "The City of Smiles, home of chicken inasal and the MassKara Festival.",
+   "description": "Bacolod is the capital of Negros Occidental and one of the friendliest cities in the Philippines. It is famous for chicken inasal, sweet piaya, and the MassKara Festival every October. The Ruins in nearby Talisay and the highland resort of Mambukal round out its attractions.",
+   "whyPopular": "Food travelers come for the inasal crawl and Calea cakes, while culture seekers time visits for MassKara's street dancing. It is also the gateway to Negros island adventures.",
+   "bestTime": "October to May",
+   "howToGetThere": "Fly to Bacolod-Silay Airport (about 1 hour from Manila), then take a shuttle or taxi to the city. Ferries also connect Bacolod to Iloilo in about 1 hour.",
+   "centerLat": 10.677,
+   "centerLng": 122.949,
+   "places": [
+    {
+     "id": "bacolod-the-ruins",
+     "name": "The Ruins",
+     "category": "where_to_go",
+     "placeType": "Historical Landmark",
+     "description": "The skeletal remains of a grand 1900s sugar baron mansion in Talisay, lit beautifully at night. It is the most photographed landmark in Negros.",
+     "priceRange": "₱100 entrance",
+     "area": "Talisay City",
+     "bestTime": "Late afternoon",
+     "lat": 10.731,
+     "lng": 122.979
+    },
+    {
+     "id": "bacolod-san-sebastian-cathedral",
+     "name": "San Sebastian Cathedral",
+     "category": "where_to_go",
+     "placeType": "Church",
+     "description": "A 19th-century stone church in the city center and the seat of the Bacolod diocese. Its coral-stone facade is a quiet contrast to the busy plaza outside.",
+     "priceRange": "Free",
+     "area": "Downtown Bacolod",
+     "bestTime": "Morning",
+     "lat": 10.676,
+     "lng": 122.947
+    },
+    {
+     "id": "bacolod-negros-museum",
+     "name": "Negros Museum",
+     "category": "where_to_go",
+     "placeType": "Museum",
+     "description": "A museum of Negrense history, art, and the sugar industry housed in a former agricultural building. Good for a quick culture stop between food trips.",
+     "priceRange": "₱100 entrance",
+     "area": "Downtown Bacolod",
+     "bestTime": "Afternoon",
+     "lat": 10.674,
+     "lng": 122.946
+    },
+    {
+     "id": "bacolod-masskara-festival",
+     "name": "MassKara Festival",
+     "category": "things_to_do",
+     "placeType": "Festival",
+     "description": "Every October, dancers in colorful smiling masks parade through the streets for MassKara. Book hotels early, since the city fills up for the festival week.",
+     "priceRange": "Free to watch",
+     "area": "Citywide",
+     "bestTime": "October",
+     "lat": 10.677,
+     "lng": 122.95
+    },
+    {
+     "id": "bacolod-mambukal-day-trip",
+     "name": "Mambukal Resort Day Trip",
+     "category": "things_to_do",
+     "placeType": "Hot Springs",
+     "description": "Mambukal Resort in Murcia offers hot sulfur springs, waterfalls, and forest trails about an hour from the city. It is the classic Bacolod weekend escape.",
+     "priceRange": "₱100 entrance",
+     "area": "Murcia",
+     "bestTime": "Morning",
+     "lat": 10.501,
+     "lng": 123.103
+    },
+    {
+     "id": "bacolod-manokan-country",
+     "name": "Manokan Country",
+     "category": "where_to_eat",
+     "placeType": "Food Street",
+     "description": "A row of open-air stalls grilling chicken inasal over charcoal near SM City Bacolod. This is the pilgrimage site for the city's signature dish.",
+     "priceRange": "₱100 to ₱200 per meal",
+     "area": "Reclamation Area",
+     "bestTime": "Lunch and dinner",
+     "lat": 10.672,
+     "lng": 122.943
+    },
+    {
+     "id": "bacolod-aidas-chicken",
+     "name": "Aida's Chicken",
+     "category": "where_to_eat",
+     "placeType": "Restaurant",
+     "description": "Aida's is one of the original inasal houses, famous for its paa and pecho with chicken oil rice. Expect a line at peak meal times.",
+     "priceRange": "₱120 to ₱250 per meal",
+     "area": "Manokan Country",
+     "bestTime": "Lunch and dinner",
+     "lat": 10.672,
+     "lng": 122.944
+    },
+    {
+     "id": "bacolod-calea",
+     "name": "Calea Pastries",
+     "category": "where_to_eat",
+     "placeType": "Dessert Shop",
+     "description": "Calea is beloved for its cakes, especially the chocolate and mango variants, at prices far below Manila cafes. Boxes of cake are a standard pasalubong.",
+     "priceRange": "₱100 to ₱200 per slice",
+     "area": "Capitol Shopping area",
+     "bestTime": "Afternoon",
+     "lat": 10.67,
+     "lng": 122.955
+    },
+    {
+     "id": "bacolod-seda-capitol-central",
+     "name": "Seda Capitol Central",
+     "category": "where_to_stay",
+     "placeType": "Hotel",
+     "description": "A modern business hotel beside Ayala Malls Capitol Central with a rooftop pool. It is a convenient base for both business and leisure trips.",
+     "priceRange": "₱3,500 to ₱6,000 per night",
+     "area": "Capitol Central",
+     "bestTime": "Year-round",
+     "lat": 10.676,
+     "lng": 122.953
+    },
+    {
+     "id": "bacolod-bongbongs-piaya",
+     "name": "BongBong's Piaya Pasalubong",
+     "category": "where_to_buy",
+     "placeType": "Pasalubong Shop",
+     "description": "BongBong's is the go-to brand for piaya, napoleones, and other Negrense sweets. Branches across the city make last-minute pasalubong runs easy.",
+     "priceRange": "₱50 to ₱200",
+     "area": "Citywide",
+     "bestTime": "Daytime",
+     "lat": 10.678,
+     "lng": 122.951
+    },
+    {
+     "id": "bacolod-jeepney",
+     "name": "City Jeepney",
+     "category": "how_to_get_around",
+     "placeType": "Jeepney",
+     "description": "Jeepneys cover the main routes across the city for a low flat fare. They are the cheapest way to move between malls, the plaza, and Manokan Country.",
+     "priceRange": "₱15",
+     "area": "Downtown Bacolod",
+     "bestTime": "Daytime",
+     "lat": 10.677,
+     "lng": 122.949
+    }
+   ],
+   "transport": [
+    {
+     "type": "Taxi or Grab",
+     "useCase": "Comfortable rides around the city and to the airport",
+     "priceRange": "₱100 to ₱300",
+     "notes": "Grab operates in Bacolod; airport taxis charge fixed rates to the city."
+    },
+    {
+     "type": "Jeepney",
+     "useCase": "Cheapest way to travel set city routes",
+     "priceRange": "₱15",
+     "notes": "Routes are posted on the windshield; ask the driver if unsure."
+    },
+    {
+     "type": "Tricycle",
+     "useCase": "Short trips and areas off jeepney routes",
+     "priceRange": "₱20 to ₱50",
+     "notes": "Agree on the fare before boarding, especially at night."
+    },
+    {
+     "type": "Airport shuttle",
+     "useCase": "Getting between Bacolod-Silay Airport and the city",
+     "priceRange": "₱150 to ₱200",
+     "notes": "Shuttle vans wait outside the arrival area and leave when full."
+    }
+   ]
+  },
+  {
+   "id": "apo-island",
+   "name": "Apo Island",
+   "region": "Visayas",
+   "province": "Negros Oriental",
+   "provinceId": "negros-oriental",
+   "tagline": "Swim with sea turtles in a community-run marine sanctuary.",
+   "description": "Apo Island is a small volcanic island off Dauin, Negros Oriental, wrapped in one of the country's oldest community-managed marine sanctuaries. Green sea turtles graze in the shallows while coral gardens teem with fish. It works as a day trip from Dumaguete or a quiet overnight stay.",
+   "whyPopular": "Turtle sightings are almost guaranteed on a single snorkel, and the sanctuary model is a global example of community conservation. The island stays low-key, with no cars and few crowds.",
+   "bestTime": "December to May",
+   "howToGetThere": "From Dumaguete, ride to Malatapay Port in Zamboanguita (30 minutes), then take a 30-minute boat to Apo Island.",
+   "centerLat": 9.071,
+   "centerLng": 123.27,
+   "places": [
+    {
+     "id": "apo-island-marine-sanctuary",
+     "name": "Apo Island Marine Sanctuary",
+     "category": "where_to_go",
+     "placeType": "Marine Sanctuary",
+     "description": "The protected reef in front of the village where turtles, corals, and schools of fish thrive. A guide and sanctuary fee are required to snorkel here.",
+     "priceRange": "₱100 sanctuary fee",
+     "area": "Apo Island village",
+     "bestTime": "Morning",
+     "lat": 9.075,
+     "lng": 123.271
+    },
+    {
+     "id": "apo-island-chapel-point",
+     "name": "Chapel Point",
+     "category": "where_to_go",
+     "placeType": "Dive Site",
+     "description": "A coral-covered point on the island's south side with turtles, bumphead parrotfish, and occasional reef sharks. A favorite for both snorkelers and divers.",
+     "priceRange": "₱1,500 to ₱2,000 per dive",
+     "area": "South Apo Island",
+     "bestTime": "Morning",
+     "lat": 9.062,
+     "lng": 123.268
+    },
+    {
+     "id": "apo-island-lighthouse-viewpoint",
+     "name": "Lighthouse Viewpoint",
+     "category": "where_to_go",
+     "placeType": "Viewpoint",
+     "description": "A short hike up to the old lighthouse offers a full view of the island and the sea toward Negros. Best visited late in the afternoon for softer light.",
+     "priceRange": "Free",
+     "area": "Apo Island",
+     "bestTime": "Late afternoon",
+     "lat": 9.08,
+     "lng": 123.273
+    },
+    {
+     "id": "apo-island-turtle-snorkeling",
+     "name": "Sea Turtle Snorkeling",
+     "category": "things_to_do",
+     "placeType": "Snorkeling",
+     "description": "Float over the sanctuary reef as green sea turtles surface for air around you. Guides know the cleaning spots where turtles linger longest.",
+     "priceRange": "₱300 to ₱500 with guide",
+     "area": "Apo Island village",
+     "bestTime": "Morning",
+     "lat": 9.074,
+     "lng": 123.272
+    },
+    {
+     "id": "apo-island-scuba-diving",
+     "name": "Apo Island Scuba Diving",
+     "category": "things_to_do",
+     "placeType": "Scuba Diving",
+     "description": "Dive sites like Coconut Point and Rock Point West offer drift dives along coral walls. Currents can be strong, so they suit experienced divers.",
+     "priceRange": "₱1,500 to ₱2,200 per dive",
+     "area": "Around the island",
+     "bestTime": "Morning",
+     "lat": 9.07,
+     "lng": 123.265
+    },
+    {
+     "id": "apo-island-libertys-restaurant",
+     "name": "Liberty's Lodge Restaurant",
+     "category": "where_to_eat",
+     "placeType": "Restaurant",
+     "description": "Liberty's Lodge runs a simple restaurant serving Filipino meals and fresh seafood to guests and walk-ins. Meals are hearty after a morning in the water.",
+     "priceRange": "₱150 to ₱300 per dish",
+     "area": "Apo Island village",
+     "bestTime": "All day",
+     "lat": 9.076,
+     "lng": 123.27
+    },
+    {
+     "id": "apo-island-libertys-lodge",
+     "name": "Liberty's Lodge",
+     "category": "where_to_stay",
+     "placeType": "Lodge",
+     "description": "A long-running lodge on the beach with simple rooms and a dive shop attached. It is the classic budget-friendly base on the island.",
+     "priceRange": "₱1,200 to ₱2,500 per night",
+     "area": "Apo Island village",
+     "bestTime": "Year-round",
+     "lat": 9.076,
+     "lng": 123.27
+    },
+    {
+     "id": "apo-island-beach-resort",
+     "name": "Apo Island Beach Resort",
+     "category": "where_to_stay",
+     "placeType": "Beach Resort",
+     "description": "Apo Island Beach Resort offers fan and air-conditioned rooms steps from the sanctuary. Its restaurant serves guests throughout the day.",
+     "priceRange": "₱2,000 to ₱4,000 per night",
+     "area": "Apo Island village",
+     "bestTime": "Year-round",
+     "lat": 9.077,
+     "lng": 123.271
+    },
+    {
+     "id": "apo-island-souvenir-stalls",
+     "name": "Sanctuary Souvenir Stalls",
+     "category": "where_to_buy",
+     "placeType": "Souvenir Shop",
+     "description": "Small stalls near the sanctuary entrance sell turtle-themed shirts, shell crafts, and handmade jewelry. Buying here supports the island community directly.",
+     "priceRange": "₱50 to ₱300",
+     "area": "Apo Island village",
+     "bestTime": "Daytime",
+     "lat": 9.075,
+     "lng": 123.271
+    },
+    {
+     "id": "apo-island-walking",
+     "name": "Island Walking Trails",
+     "category": "how_to_get_around",
+     "placeType": "Walking",
+     "description": "There are no motorized vehicles on the island, so everywhere is reached on foot. Trails connect the village, beaches, and the lighthouse viewpoint.",
+     "priceRange": "Free",
+     "area": "Apo Island",
+     "bestTime": "Daytime",
+     "lat": 9.072,
+     "lng": 123.27
+    }
+   ],
+   "transport": [
+    {
+     "type": "Boat transfer",
+     "useCase": "Crossing from Malatapay Port to Apo Island",
+     "priceRange": "₱300 to ₱500 per person round trip",
+     "notes": "Boats leave Malatapay in the morning and return mid-afternoon; schedules depend on demand."
+    },
+    {
+     "type": "Tricycle",
+     "useCase": "Getting from Dumaguete to Malatapay Port",
+     "priceRange": "₱300 to ₱500 per tricycle",
+     "notes": "The ride to Zamboanguita takes about 30 minutes; tricycles can be hired for a round trip."
+    },
+    {
+     "type": "Habal-habal",
+     "useCase": "Budget ride from Dauin or Zamboanguita to the port",
+     "priceRange": "₱100 to ₱200",
+     "notes": "Motorcycle taxis are easy to find along the Dumaguete to Zamboanguita highway."
+    },
+    {
+     "type": "Island boat rental",
+     "useCase": "Reaching dive sites around the island",
+     "priceRange": "₱1,000 to ₱2,000 per trip",
+     "notes": "Dive shops include boat transfers in their dive packages."
+    }
+   ]
+  },
+  {
+   "id": "samal-island",
+   "name": "Samal Island",
+   "region": "Mindanao",
+   "province": "Davao del Norte",
+   "provinceId": "davao-del-norte",
+   "tagline": "Davao's island playground of luxury resorts and bat caves.",
+   "description": "The Island Garden City of Samal sits just off Davao City, minutes by ferry but worlds apart in pace. It mixes high-end resorts like Pearl Farm with public beaches, a giant bat colony, and quiet fishing villages. It is Davao's default weekend escape.",
+   "whyPopular": "Pearl Farm put Samal on the luxury map, while the Monfort Bat Sanctuary holds a world record for the largest fruit bat colony. The island is close enough for easy Davao City day trips.",
+   "bestTime": "December to May",
+   "howToGetThere": "Take a ferry from Sasa Wharf in Davao City to Babak Port, or ride the Island City Express bus which crosses by RoRo ferry (about 45 minutes total).",
+   "centerLat": 7.08,
+   "centerLng": 125.7,
+   "places": [
+    {
+     "id": "samal-island-pearl-farm",
+     "name": "Pearl Farm Beach Resort",
+     "category": "where_to_go",
+     "placeType": "Luxury Resort",
+     "description": "The iconic overwater-cottage resort on a private islet off Samal. Day tour guests can use the pools, beach, and restaurants with a prior booking.",
+     "priceRange": "₱2,500 day tour",
+     "area": "Kaputian",
+     "bestTime": "Morning",
+     "lat": 7.00709,
+     "lng": 125.72689
+    },
+    {
+     "id": "samal-island-bat-sanctuary",
+     "name": "Monfort Bat Sanctuary",
+     "category": "where_to_go",
+     "placeType": "Wildlife Sanctuary",
+     "description": "Home to around two million fruit bats, recognized by Guinness as the largest colony of its kind. Guided walks pass viewing decks at dusk when the bats stream out.",
+     "priceRange": "₱150 entrance",
+     "area": "Tambo",
+     "bestTime": "Late afternoon",
+     "lat": 7.16519,
+     "lng": 125.69197
+    },
+    {
+     "id": "samal-island-vanishing-island",
+     "name": "Vanishing Island",
+     "category": "where_to_go",
+     "placeType": "Sandbar",
+     "description": "A sandbar off Barangay Tambo that appears and disappears with the tide. Boats from the mainland coast make the short crossing at low tide.",
+     "priceRange": "₱500 to ₱800 boat rental",
+     "area": "Tambo",
+     "bestTime": "Morning",
+     "lat": 7.0,
+     "lng": 125.74
+    },
+    {
+     "id": "samal-island-coral-garden",
+     "name": "Coral Garden Snorkeling",
+     "category": "things_to_do",
+     "placeType": "Snorkeling",
+     "description": "Snorkel the Coral Garden marine sanctuary with its giant clams and coral formations. Local guides provide gear and know the calmest entry points.",
+     "priceRange": "₱300 to ₱500",
+     "area": "Kaputian coast",
+     "bestTime": "Morning",
+     "lat": 7.05,
+     "lng": 125.705
+    },
+    {
+     "id": "samal-island-hopping",
+     "name": "Samal Island Hopping Tour",
+     "category": "things_to_do",
+     "placeType": "Island Hopping",
+     "description": "Boat tours link Kaputian Beach, the Vanishing Island, and snorkeling stops in one trip. Most tours leave in the morning and return by mid-afternoon.",
+     "priceRange": "₱1,500 to ₱2,500 per boat",
+     "area": "Kaputian",
+     "bestTime": "Morning",
+     "lat": 7.052,
+     "lng": 125.708
+    },
+    {
+     "id": "samal-island-seafood-grills",
+     "name": "Kaputian Seafood Grills",
+     "category": "where_to_eat",
+     "placeType": "Seafood Restaurant",
+     "description": "Grill restaurants along the Kaputian coast serve fresh catch, kinilaw, and grilled squid. Pick your fish from the display and have it cooked to order.",
+     "priceRange": "₱200 to ₱400 per dish",
+     "area": "Kaputian",
+     "bestTime": "Lunch and dinner",
+     "lat": 7.051,
+     "lng": 125.706
+    },
+    {
+     "id": "samal-island-discovery-samal",
+     "name": "Discovery Samal",
+     "category": "where_to_stay",
+     "placeType": "Luxury Resort",
+     "description": "Discovery Samal is a newer upscale resort with a long beachfront, pools, and modern rooms. It targets travelers who want Pearl Farm-style comfort on the main island.",
+     "priceRange": "₱8,000 to ₱15,000 per night",
+     "area": "Kaputian",
+     "bestTime": "Year-round",
+     "lat": 7.0938,
+     "lng": 125.66828
+    },
+    {
+     "id": "samal-island-costa-marina",
+     "name": "Costa Marina Beach Resort",
+     "category": "where_to_stay",
+     "placeType": "Beach Resort",
+     "description": "A mid-range beach resort in Babak with a wide beach, pool, and function halls. A practical pick for families arriving on the Babak ferry.",
+     "priceRange": "₱2,500 to ₱5,000 per night",
+     "area": "Babak",
+     "bestTime": "Year-round",
+     "lat": 7.1,
+     "lng": 125.685
+    },
+    {
+     "id": "samal-island-babak-market",
+     "name": "Babak Public Market",
+     "category": "where_to_buy",
+     "placeType": "Public Market",
+     "description": "Babak Public Market sells fresh seafood, fruits, and local snacks near the port. It is the best place to buy ingredients or cheap pasalubong.",
+     "priceRange": "₱50 to ₱300",
+     "area": "Babak",
+     "bestTime": "Morning",
+     "lat": 7.102,
+     "lng": 125.682
+    },
+    {
+     "id": "samal-island-souvenir-shops",
+     "name": "Samal Souvenir Shops",
+     "category": "where_to_buy",
+     "placeType": "Souvenir Shop",
+     "description": "Souvenir stalls near the main resorts and ports sell Samal shirts, pearl accessories, and woven crafts. Resort gift shops carry higher-end local products.",
+     "priceRange": "₱100 to ₱500",
+     "area": "Kaputian",
+     "bestTime": "Daytime",
+     "lat": 7.055,
+     "lng": 125.71
+    },
+    {
+     "id": "samal-island-habal-habal",
+     "name": "Habal-habal Rides",
+     "category": "how_to_get_around",
+     "placeType": "Habal-habal",
+     "description": "Motorcycle taxis are the fastest way to move between Samal's spread-out beaches and attractions. Agree on the fare before hopping on.",
+     "priceRange": "₱50 to ₱200 per trip",
+     "area": "Island-wide",
+     "bestTime": "Daytime",
+     "lat": 7.08,
+     "lng": 125.7
+    }
+   ],
+   "transport": [
+    {
+     "type": "Ferry",
+     "useCase": "Crossing from Sasa Wharf in Davao City to Babak",
+     "priceRange": "₱15 to ₱50",
+     "notes": "Ferries run frequently from early morning to evening; the crossing takes about 15 minutes."
+    },
+    {
+     "type": "Island City Express bus",
+     "useCase": "Direct bus from Davao City into Samal via RoRo",
+     "priceRange": "₱100 to ₱150",
+     "notes": "Buses board the RoRo ferry with passengers, so there is no transfer needed."
+    },
+    {
+     "type": "Habal-habal",
+     "useCase": "Getting between beaches, resorts, and the bat sanctuary",
+     "priceRange": "₱50 to ₱200 per trip",
+     "notes": "Drivers gather at the ports and main road junctions; negotiate round trips."
+    },
+    {
+     "type": "Van rental",
+     "useCase": "Group tours covering the island in one day",
+     "priceRange": "₱3,000 to ₱4,500 per day",
+     "notes": "Resorts and Davao City operators offer vans with drivers familiar with Samal."
+    }
+   ]
+  },
+  {
+   "id": "mati",
+   "name": "Mati, Davao Oriental",
+   "region": "Mindanao",
+   "province": "Davao Oriental",
+   "provinceId": "davao-oriental",
+   "tagline": "Dahican Beach, skimboarding capital and turtle nesting haven.",
+   "description": "Mati is the capital of Davao Oriental, facing the Pacific with the long crescent of Dahican Beach. It is the skimboarding capital of the Philippines and a nesting site for sea turtles. Pujada Bay, one of the country's most beautiful bays, frames the horizon.",
+   "whyPopular": "Dahican's consistent shore break made it the birthplace of Philippine skimboarding, and Amihan sa Dahican hosts international skim events. The Sleeping Dinosaur viewpoint is one of Mindanao's most photographed lookouts.",
+   "bestTime": "March to October",
+   "howToGetThere": "Buses run from Davao City to Mati (about 4 to 5 hours). From Mati city proper, tricycles reach Dahican Beach in 15 minutes.",
+   "centerLat": 6.95,
+   "centerLng": 126.22,
+   "places": [
+    {
+     "id": "mati-dahican-beach",
+     "name": "Dahican Beach",
+     "category": "where_to_go",
+     "placeType": "Beach",
+     "description": "A 7-kilometer crescent of white sand facing the Pacific, famous for skimboarding and surfing. The beach stays relatively uncrowded outside event season.",
+     "priceRange": "Free",
+     "area": "Dahican",
+     "bestTime": "Morning",
+     "lat": 6.88,
+     "lng": 126.28
+    },
+    {
+     "id": "mati-sleeping-dinosaur",
+     "name": "Sleeping Dinosaur Viewpoint",
+     "category": "where_to_go",
+     "placeType": "Viewpoint",
+     "description": "A rock formation on Pujada Bay that looks like a dinosaur lying in the water. The viewpoint above it offers the classic photo of the bay.",
+     "priceRange": "Free",
+     "area": "Barangay Macambol",
+     "bestTime": "Late afternoon",
+     "lat": 6.94,
+     "lng": 126.25
+    },
+    {
+     "id": "mati-subangan-museum",
+     "name": "Subangan Museum",
+     "category": "where_to_go",
+     "placeType": "Museum",
+     "description": "A natural history museum in Mati city housing the skeleton of a sperm whale found in the area. Exhibits cover Davao Oriental's marine and forest life.",
+     "priceRange": "₱50 entrance",
+     "area": "Dahican",
+     "bestTime": "Afternoon",
+     "lat": 6.95,
+     "lng": 126.215
+    },
+    {
+     "id": "mati-skimboarding",
+     "name": "Dahican Skimboarding",
+     "category": "things_to_do",
+     "placeType": "Skimboarding",
+     "description": "Rent a skimboard or take a lesson on Dahican's shore break, where the sport took root in the Philippines. Amihan sa Dahican runs lessons and hosts competitions.",
+     "priceRange": "₱200 to ₱500 lesson",
+     "area": "Dahican",
+     "bestTime": "Morning",
+     "lat": 6.882,
+     "lng": 126.282
+    },
+    {
+     "id": "mati-turtle-nesting",
+     "name": "Turtle Hatchling Release",
+     "category": "things_to_do",
+     "placeType": "Wildlife Watching",
+     "description": "Watch hatchling releases at Dahican during nesting season, usually with guidance from local conservation groups. Releases often happen at sunset.",
+     "priceRange": "Free or donation",
+     "area": "Dahican",
+     "bestTime": "Sunset",
+     "lat": 6.878,
+     "lng": 126.278
+    },
+    {
+     "id": "mati-dahican-seafood-grills",
+     "name": "Dahican Seafood Grills",
+     "category": "where_to_eat",
+     "placeType": "Seafood Restaurant",
+     "description": "Beachfront grills along Dahican serve fresh tuna, squid, and kinilaw at local prices. Many resorts also cook the day's catch for guests.",
+     "priceRange": "₱150 to ₱300 per dish",
+     "area": "Dahican",
+     "bestTime": "Lunch and dinner",
+     "lat": 6.881,
+     "lng": 126.281
+    },
+    {
+     "id": "mati-baywalk-food-stalls",
+     "name": "Mati Baywalk Food Stalls",
+     "category": "where_to_eat",
+     "placeType": "Food Stalls",
+     "description": "Evening food stalls at Mati Baywalk offer barbecue, street food, and shakes with a view of Pujada Bay. A favorite hangout for locals after sunset.",
+     "priceRange": "₱50 to ₱150",
+     "area": "Mati Baywalk",
+     "bestTime": "Evening",
+     "lat": 6.948,
+     "lng": 126.222
+    },
+    {
+     "id": "mati-dahican-surf-resort",
+     "name": "Dahican Surf Resort",
+     "category": "where_to_stay",
+     "placeType": "Beach Resort",
+     "description": "Dahican Surf Resort sits right on the sand with cottages, a restaurant, and skimboard rentals. It is the social hub of the Dahican skim scene.",
+     "priceRange": "₱1,500 to ₱3,000 per night",
+     "area": "Dahican",
+     "bestTime": "Year-round",
+     "lat": 6.883,
+     "lng": 126.283
+    },
+    {
+     "id": "mati-pasalubong-center",
+     "name": "Mati Pasalubong Center",
+     "category": "where_to_buy",
+     "placeType": "Pasalubong Shop",
+     "description": "Shops in Mati city sell Davao Oriental coffee, cacao products, and woven souvenirs. Dahican stalls add surf-themed shirts and trinkets.",
+     "priceRange": "₱50 to ₱300",
+     "area": "Mati city",
+     "bestTime": "Daytime",
+     "lat": 6.951,
+     "lng": 126.218
+    },
+    {
+     "id": "mati-tricycle",
+     "name": "Tricycle Rides",
+     "category": "how_to_get_around",
+     "placeType": "Tricycle",
+     "description": "Tricycles connect Mati city, Dahican Beach, and the baywalk viewpoints. For the Sleeping Dinosaur, hire one for a half-day round trip.",
+     "priceRange": "₱20 to ₱300",
+     "area": "Mati",
+     "bestTime": "Daytime",
+     "lat": 6.95,
+     "lng": 126.22
+    }
+   ],
+   "transport": [
+    {
+     "type": "Bus",
+     "useCase": "Getting from Davao City to Mati",
+     "priceRange": "₱300 to ₱450",
+     "notes": "Bachelor Express and other buses leave Ecoland Terminal; the ride takes 4 to 5 hours."
+    },
+    {
+     "type": "Tricycle",
+     "useCase": "Getting from Mati city to Dahican Beach",
+     "priceRange": "₱20 to ₱50",
+     "notes": "The beach is about 15 minutes from the city proper."
+    },
+    {
+     "type": "Habal-habal",
+     "useCase": "Reaching the Sleeping Dinosaur and other viewpoints",
+     "priceRange": "₱150 to ₱300 round trip",
+     "notes": "Hire for a half day so the driver waits while you explore."
+    },
+    {
+     "type": "Van rental",
+     "useCase": "Group trips covering Dahican, the museum, and viewpoints",
+     "priceRange": "₱3,000 to ₱4,000 per day",
+     "notes": "Mati operators offer vans with drivers who know the coastal routes."
+    }
+   ]
+  },
+  {
+   "id": "lake-sebu",
+   "name": "Lake Sebu",
+   "region": "Mindanao",
+   "province": "South Cotabato",
+   "provinceId": "south-cotabato",
+   "tagline": "Seven waterfalls, a zipline, and the culture of the T'boli.",
+   "description": "Lake Sebu is a highland town in South Cotabato built around a serene lake and the ancestral land of the T'boli people. The Seven Falls, one of which is crossed by a high zipline, are the headline attraction. T'nalak weaving and lotus-filled waters give the town a distinct cultural flavor.",
+   "whyPopular": "The Seven Falls zipline is among the highest in Southeast Asia, and the T'boli's t'nalak cloth is a treasured Philippine textile. The lake cruise at sunrise, past lotus pads and fish cages, is quietly magical.",
+   "bestTime": "November to May",
+   "howToGetThere": "From General Santos City, take a bus or van to Surallah, then a jeepney or habal-habal up to Lake Sebu (about 2 hours total).",
+   "centerLat": 6.22,
+   "centerLng": 124.71,
+   "places": [
+    {
+     "id": "lake-sebu-seven-falls",
+     "name": "Seven Falls",
+     "category": "where_to_go",
+     "placeType": "Waterfalls",
+     "description": "A series of seven waterfalls in the rainforest, with the first two reachable by a short trek. Hikong Bente, the tallest, is crossed by the famous zipline.",
+     "priceRange": "₱50 entrance",
+     "area": "Barangay Lake Seloton",
+     "bestTime": "Morning",
+     "lat": 6.24,
+     "lng": 124.72
+    },
+    {
+     "id": "lake-sebu-punta-isla",
+     "name": "Punta Isla",
+     "category": "where_to_go",
+     "placeType": "Lakeside Resort",
+     "description": "Punta Isla sits on a small island in the lake with floating cottages, a restaurant, and gardens. It is the classic lunch stop for its tilapia dishes.",
+     "priceRange": "Entrance plus food",
+     "area": "Lake Sebu",
+     "bestTime": "Lunch",
+     "lat": 6.212,
+     "lng": 124.71
+    },
+    {
+     "id": "lake-sebu-tboli-museum",
+     "name": "T'boli Museum",
+     "category": "where_to_go",
+     "placeType": "Museum",
+     "description": "A small museum of T'boli artifacts, brass work, and musical instruments in the town center. It gives context to the weaving and culture seen around the lake.",
+     "priceRange": "₱50 entrance",
+     "area": "Lake Sebu town",
+     "bestTime": "Afternoon",
+     "lat": 6.222,
+     "lng": 124.712
+    },
+    {
+     "id": "lake-sebu-zipline",
+     "name": "Seven Falls Zipline",
+     "category": "things_to_do",
+     "placeType": "Zipline",
+     "description": "Ride one of the highest ziplines in Southeast Asia over Hikong Bente falls at 180 meters up. The tandem ride gives a full aerial view of the falls and forest.",
+     "priceRange": "₱350 per ride",
+     "area": "Seven Falls",
+     "bestTime": "Morning",
+     "lat": 6.241,
+     "lng": 124.721
+    },
+    {
+     "id": "lake-sebu-lake-cruise",
+     "name": "Sunrise Lake Cruise",
+     "category": "things_to_do",
+     "placeType": "Boat Tour",
+     "description": "Cruise the lake at sunrise past lotus flowers, fish cages, and stilt houses. Pump boats leave from the Punta Isla area and nearby docks.",
+     "priceRange": "₱500 to ₱800 per boat",
+     "area": "Lake Sebu",
+     "bestTime": "Sunrise",
+     "lat": 6.22,
+     "lng": 124.708
+    },
+    {
+     "id": "lake-sebu-tilapia-restaurants",
+     "name": "Lakeside Tilapia Restaurants",
+     "category": "where_to_eat",
+     "placeType": "Restaurant",
+     "description": "Lakeside restaurants serve the town's famous tilapia, raised in the lake's fish cages, grilled or cooked in coconut milk. Punta Isla's restaurant is the best known.",
+     "priceRange": "₱150 to ₱300 per dish",
+     "area": "Lakeside",
+     "bestTime": "Lunch",
+     "lat": 6.213,
+     "lng": 124.711
+    },
+    {
+     "id": "lake-sebu-punta-isla-resort",
+     "name": "Punta Isla Lake Resort",
+     "category": "where_to_stay",
+     "placeType": "Lake Resort",
+     "description": "Stay in floating cottages or lakeside rooms right on the water with sunrise views. The resort's restaurant and gardens make it a full experience.",
+     "priceRange": "₱2,000 to ₱4,000 per night",
+     "area": "Lake Sebu",
+     "bestTime": "Year-round",
+     "lat": 6.212,
+     "lng": 124.71
+    },
+    {
+     "id": "lake-sebu-lang-dulay",
+     "name": "Lang Dulay T'nalak Weaving Center",
+     "category": "where_to_buy",
+     "placeType": "Weaving Center",
+     "description": "The Lang Dulay T'nalak Weaving Center honors the National Living Treasure weaver and sells authentic t'nalak cloth. Weavers demonstrate the traditional dyeing and weaving process.",
+     "priceRange": "₱500 to ₱3,000",
+     "area": "Barangay T'bolok",
+     "bestTime": "Daytime",
+     "lat": 6.245,
+     "lng": 124.725
+    },
+    {
+     "id": "lake-sebu-souvenir-shops",
+     "name": "Lake Sebu Souvenir Shops",
+     "category": "where_to_buy",
+     "placeType": "Souvenir Shop",
+     "description": "Stalls near the lake and Seven Falls sell brass bells, beaded accessories, and T'boli-inspired crafts. Prices are generally fixed and fair.",
+     "priceRange": "₱50 to ₱500",
+     "area": "Lake Sebu town",
+     "bestTime": "Daytime",
+     "lat": 6.221,
+     "lng": 124.713
+    },
+    {
+     "id": "lake-sebu-habal-habal",
+     "name": "Habal-habal Rides",
+     "category": "how_to_get_around",
+     "placeType": "Habal-habal",
+     "description": "Motorcycle taxis handle the steep roads to the Seven Falls and weaving center. Drivers wait at the town terminal and major junctions.",
+     "priceRange": "₱50 to ₱150 per trip",
+     "area": "Lake Sebu",
+     "bestTime": "Daytime",
+     "lat": 6.22,
+     "lng": 124.71
+    },
+    {
+     "id": "lake-sebu-tricycle",
+     "name": "Lakeside Tricycles",
+     "category": "how_to_get_around",
+     "placeType": "Tricycle",
+     "description": "Tricycles cover the flat lakeside roads between resorts, restaurants, and the town proper. They are the easiest option for short hops.",
+     "priceRange": "₱20 to ₱50",
+     "area": "Lakeside",
+     "bestTime": "Daytime",
+     "lat": 6.219,
+     "lng": 124.709
+    }
+   ],
+   "transport": [
+    {
+     "type": "Bus or van",
+     "useCase": "Getting from General Santos City to Surallah",
+     "priceRange": "₱100 to ₱150",
+     "notes": "Buses and vans leave GenSan regularly; the ride to Surallah takes about 1 hour."
+    },
+    {
+     "type": "Jeepney",
+     "useCase": "Climbing from Surallah to Lake Sebu town",
+     "priceRange": "₱50 to ₱80",
+     "notes": "Jeepneys run the uphill route throughout the day."
+    },
+    {
+     "type": "Habal-habal",
+     "useCase": "Reaching the Seven Falls and weaving center",
+     "priceRange": "₱50 to ₱150 per trip",
+     "notes": "The standard ride for the steep roads; drivers wait at the terminal."
+    },
+    {
+     "type": "Pump boat",
+     "useCase": "Lake cruises and crossing to lakeside resorts",
+     "priceRange": "₱500 to ₱800 per boat",
+     "notes": "Arrange through resorts or the docks near Punta Isla."
+    }
+   ]
+  },
+  {
+   "id": "bislig",
+   "name": "Bislig",
+   "region": "Mindanao",
+   "province": "Surigao del Sur",
+   "provinceId": "surigao-del-sur",
+   "tagline": "Home of Tinuy-an Falls, the Niagara of the Philippines.",
+   "description": "Bislig is a coastal city in Surigao del Sur best known for Tinuy-an Falls, a wide multi-tiered cascade often called the Niagara of the Philippines. The nearby Enchanted River in Hinatuan adds another must-see stop. Bislig works as a base for exploring the Pacific coast of Surigao.",
+   "whyPopular": "Tinuy-an's curtain of water and its bamboo raft ride under the falls are bucket-list experiences. The Enchanted River's impossibly blue water, a short drive away, completes the trip.",
+   "bestTime": "December to May",
+   "howToGetThere": "Buses run from Davao City or Butuan to Bislig (4 to 6 hours). From Bislig city, habal-habal or vans reach Tinuy-an Falls in about 30 minutes.",
+   "centerLat": 8.213,
+   "centerLng": 126.352,
+   "places": [
+    {
+     "id": "bislig-tinuyan-falls",
+     "name": "Tinuy-an Falls",
+     "category": "where_to_go",
+     "placeType": "Waterfall",
+     "description": "A 95-meter-wide, multi-tiered waterfall cascading into a turquoise basin. Bamboo rafts take visitors right under the curtain of water for the full experience.",
+     "priceRange": "₱50 entrance",
+     "area": "Barangay Burboanan",
+     "bestTime": "Morning",
+     "lat": 8.19,
+     "lng": 126.23
+    },
+    {
+     "id": "bislig-enchanted-river",
+     "name": "Hinatuan Enchanted River",
+     "category": "where_to_go",
+     "placeType": "River",
+     "description": "The famous deep-blue river in nearby Hinatuan where fish feeding happens at noon daily. Swimming is limited to a designated area to protect the spring.",
+     "priceRange": "₱30 entrance",
+     "area": "Hinatuan",
+     "bestTime": "Morning",
+     "lat": 8.45862,
+     "lng": 126.3547
+    },
+    {
+     "id": "bislig-baywalk",
+     "name": "Bislig Baywalk",
+     "category": "where_to_go",
+     "placeType": "Promenade",
+     "description": "Bislig Baywalk is an evening promenade along the coast with food stalls and sea views. Locals gather here at sunset for snacks and the ocean breeze.",
+     "priceRange": "Free",
+     "area": "Bislig city",
+     "bestTime": "Late afternoon",
+     "lat": 8.213,
+     "lng": 126.36
+    },
+    {
+     "id": "bislig-bamboo-raft",
+     "name": "Tinuy-an Bamboo Raft Ride",
+     "category": "things_to_do",
+     "placeType": "Raft Ride",
+     "description": "Ride a bamboo raft to the base of Tinuy-an Falls and feel the waterfall's spray up close. Life vests are provided and the ride takes about 15 minutes.",
+     "priceRange": "₱300 to ₱400 per raft",
+     "area": "Tinuy-an Falls",
+     "bestTime": "Morning",
+     "lat": 8.19,
+     "lng": 126.231
+    },
+    {
+     "id": "bislig-enchanted-river-swim",
+     "name": "Enchanted River Swim",
+     "category": "things_to_do",
+     "placeType": "Swimming",
+     "description": "Swim in the designated area of the Enchanted River's impossibly clear blue water. The daily fish feeding at noon is the highlight to time your visit around.",
+     "priceRange": "Free with entrance",
+     "area": "Hinatuan",
+     "bestTime": "Morning",
+     "lat": 8.45862,
+     "lng": 126.3547
+    },
+    {
+     "id": "bislig-carinderias",
+     "name": "Tinuy-an Jump-off Carinderias",
+     "category": "where_to_eat",
+     "placeType": "Eatery",
+     "description": "Carinderias near the Tinuy-an Falls jump-off serve rice meals and grilled seafood to day-trippers. Bislig city's eateries offer the same at local prices.",
+     "priceRange": "₱80 to ₱150 per meal",
+     "area": "Burboanan",
+     "bestTime": "Lunch",
+     "lat": 8.195,
+     "lng": 126.235
+    },
+    {
+     "id": "bislig-baywalk-food",
+     "name": "Baywalk Evening Food Stalls",
+     "category": "where_to_eat",
+     "placeType": "Food Stalls",
+     "description": "Evening stalls at Bislig Baywalk sell barbecue, grilled tuna, and refreshments by the sea. It doubles as dinner and sunset viewing.",
+     "priceRange": "₱50 to ₱150",
+     "area": "Bislig Baywalk",
+     "bestTime": "Evening",
+     "lat": 8.213,
+     "lng": 126.361
+    },
+    {
+     "id": "bislig-paper-country-inn",
+     "name": "Paper Country Inn",
+     "category": "where_to_stay",
+     "placeType": "Hotel",
+     "description": "Paper Country Inn is a well-known Bislig hotel with comfortable rooms and a central location. It is a convenient base for falls and river day trips.",
+     "priceRange": "₱1,500 to ₱3,000 per night",
+     "area": "Bislig city",
+     "bestTime": "Year-round",
+     "lat": 8.212,
+     "lng": 126.35
+    },
+    {
+     "id": "bislig-pasalubong",
+     "name": "Bislig Pasalubong Center",
+     "category": "where_to_buy",
+     "placeType": "Pasalubong Shop",
+     "description": "Pasalubong centers in Bislig city sell Surigao del Sur coffee, banana chips, and local sweets. Falls-side stalls add Tinuy-an souvenir shirts.",
+     "priceRange": "₱50 to ₱300",
+     "area": "Bislig city",
+     "bestTime": "Daytime",
+     "lat": 8.214,
+     "lng": 126.353
+    },
+    {
+     "id": "bislig-habal-habal",
+     "name": "Habal-habal to the Falls",
+     "category": "how_to_get_around",
+     "placeType": "Habal-habal",
+     "description": "Motorcycle taxis are the standard ride from Bislig city to Tinuy-an Falls and other outlying spots. Arrange a round trip with waiting time.",
+     "priceRange": "₱150 to ₱300 round trip",
+     "area": "Bislig",
+     "bestTime": "Daytime",
+     "lat": 8.213,
+     "lng": 126.352
+    }
+   ],
+   "transport": [
+    {
+     "type": "Bus",
+     "useCase": "Getting to Bislig from Davao City or Butuan",
+     "priceRange": "₱400 to ₱600",
+     "notes": "Bachelor Express and other lines serve Bislig; the ride takes 4 to 6 hours."
+    },
+    {
+     "type": "Habal-habal",
+     "useCase": "Reaching Tinuy-an Falls from Bislig city",
+     "priceRange": "₱150 to ₱300 round trip",
+     "notes": "Drivers wait at the falls while you explore; agree on waiting time upfront."
+    },
+    {
+     "type": "Tricycle",
+     "useCase": "Short trips within Bislig city",
+     "priceRange": "₱20 to ₱50",
+     "notes": "Tricycles cover the city center, baywalk, and market area."
+    },
+    {
+     "type": "Van rental",
+     "useCase": "Group day trips to the falls and Enchanted River",
+     "priceRange": "₱3,500 to ₱5,000 per day",
+     "notes": "Vans can combine Tinuy-an Falls and Hinatuan's Enchanted River in one day."
+    }
+   ]
+  }
+ ]
+}
