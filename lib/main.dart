@@ -15,16 +15,18 @@ import 'screens/home_shell.dart';
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   bool firebaseOk = true;
+  String? firebaseInitError;
   try {
     await Firebase.initializeApp(
       options: DefaultFirebaseOptions.currentPlatform,
     );
-  } catch (_) {
+  } catch (e) {
     // Firebase config not added yet (see PUBLISHING.md). App still boots;
     // auth-backed features will prompt to finish setup.
     firebaseOk = false;
+    firebaseInitError = e.toString();
   }
-  final auth = AuthService();
+  final auth = AuthService()..initError = firebaseInitError;
   if (firebaseOk) {
     await auth.init();
     // Pull remote feature flags (Admin → Settings) with local fallbacks.

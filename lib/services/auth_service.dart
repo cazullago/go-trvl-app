@@ -15,6 +15,10 @@ class AuthService extends ChangeNotifier {
   FirebaseAuth? _auth;
   FirebaseFirestore? _db;
 
+  /// Captured Firebase.initializeApp() failure, surfaced in the
+  /// not-configured message so a device install shows the real cause.
+  String? initError;
+
   bool get configured => _auth != null && _db != null;
 
   AppUser? _user;
@@ -35,8 +39,12 @@ class AuthService extends ChangeNotifier {
     _suspendedNotice = false;
   }
 
-  static const String _notConfigured =
+  static const String _notConfiguredBase =
       'Sign-in needs Firebase setup first. Follow PUBLISHING.md to add your Firebase project keys, then rebuild the app.';
+
+  String get _notConfigured => initError == null
+      ? _notConfiguredBase
+      : '$_notConfiguredBase\n\nDetails: $initError';
 
   StreamSubscription<User?>? _authSub;
   // Guards overlapping auth callbacks: each event takes a generation, and a
